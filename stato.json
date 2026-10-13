@@ -314,5 +314,161 @@
  "2019-88-legge": {
   "aggiornato": "2019-11-27",
   "hash": "846faf08df88823d"
+ },
+ "2026-23-dl": {
+  "aggiornato": "2026-08-07",
+  "hash": "dc0afe7b2eb00360"
+ },
+ "2026-54-legge": {
+  "aggiornato": null,
+  "hash": "4c6dc8bb5bb51d56"
+ },
+ "2026-35-legge": {
+  "aggiornato": null,
+  "hash": "ff2109d9a1b0bb2b"
+ },
+ "2026-131-legge": {
+  "aggiornato": null,
+  "hash": "f229e4e221210b0a"
+ },
+ "2026-100-dl": {
+  "aggiornato": "2026-09-29",
+  "hash": "f7b74dfcb26653b9"
+ },
+ "2026-145-legge": {
+  "aggiornato": null,
+  "hash": "867592dc10cd8ac2"
+ },
+ "2026-168-dl": {
+  "aggiornato": null,
+  "hash": "e590422d8b164020"
+ },
+ "2026-55-dl": {
+  "aggiornato": "2026-06-20",
+  "hash": "38740c79200765be"
+ },
+ "2026-103-legge": {
+  "aggiornato": null,
+  "hash": "aa7c6bc15bbbc751"
+ },
+ "2026-108-dl": {
+  "aggiornato": "2026-08-07",
+  "hash": "8c66e7df7726bee8"
+ },
+ "2026-142-legge": {
+  "aggiornato": null,
+  "hash": "7b4ffd94e1274870"
+ },
+ "2026-140-legge": {
+  "aggiornato": null,
+  "hash": "c102550482d83b2c"
+ },
+ "2026-9-legge": {
+  "aggiornato": "2026-08-07",
+  "hash": "e64f41f18403505c"
+ },
+ "2026-16-legge": {
+  "aggiornato": null,
+  "hash": "5407f940b05f4755"
+ },
+ "2026-40-legge": {
+  "aggiornato": null,
+  "hash": "e33beaa39cc11652"
+ },
+ "2026-134-legge": {
+  "aggiornato": null,
+  "hash": "b892ca3a029c086c"
+ },
+ "2026-158-legge": {
+  "aggiornato": null,
+  "hash": "7c66232bad97a4b3"
+ },
+ "2026-70-legge": {
+  "aggiornato": "2026-08-07",
+  "hash": "2466e3755bc96ca1"
+ },
+ "2026-75-legge": {
+  "aggiornato": null,
+  "hash": "fee3e6caed8f6350"
+ },
+ "2026-37-legge": {
+  "aggiornato": null,
+  "hash": "771ef4474e37d2df"
+ },
+ "2026-81-dlgs": {
+  "aggiornato": null,
+  "hash": "db4115fb99fcbb78"
+ },
+ "2025-210-dlgs": {
+  "aggiornato": null,
+  "hash": "dc6e74fbda693b95"
+ },
+ "2025-215-dlgs": {
+  "aggiornato": null,
+  "hash": "bc556086b0e99914"
+ },
+ "2025-216-dlgs": {
+  "aggiornato": null,
+  "hash": "50b84979bbbf8207"
+ },
+ "2025-211-dlgs": {
+  "aggiornato": "2026-03-04",
+  "hash": "f5c2d4921d318083"
+ },
+ "2026-83-dlgs": {
+  "aggiornato": null,
+  "hash": "3bd8fbb7394d6e4b"
+ },
+ "2026-114-dm": {
+  "aggiornato": null,
+  "hash": "eb4cd0d8937a4b56"
+ },
+ "2026-156-dpcm": {
+  "aggiornato": null,
+  "hash": "1ea654dc20af6779"
+ },
+ "2026-44-dm": {
+  "aggiornato": null,
+  "hash": "05322b040eab6dc1"
+ },
+ "2026-177-dl": {
+  "aggiornato": null,
+  "hash": "9ea8e5649fc8d1b1"
+ },
+ "2026-167-dl": {
+  "aggiornato": null,
+  "hash": "e594b522b2817c98"
+ },
+ "2026-25-dl": {
+  "aggiornato": "2026-08-07",
+  "hash": "a900ce04f7052cbc"
+ },
+ "2026-59-legge": {
+  "aggiornato": null,
+  "hash": "0370eea27ad4ecc5"
+ },
+ "2026-122-dlgs": {
+  "aggiornato": null,
+  "hash": "0d08703ba7d767ae"
+ },
+ "2026-78-dlgs": {
+  "aggiornato": null,
+  "hash": "479f46db64885d91"
+ },
+ "2026-14-legge": {
+  "aggiornato": null,
+  "hash": "f9b057c0d15c4eec"
+ },
+ "2026-56-legge": {
+  "aggiornato": null,
+  "hash": "f03b77c6e00d352c"
+ },
+ "2026-57-dlgs": {
+  "aggiornato": null,
+  "hash": "233ce310d72332e5"
+ },
+ "2026-160-dlgs": {
+  "aggiornato": null,
+  "hash": "ec26e1ca562b7a51"
  }
 }

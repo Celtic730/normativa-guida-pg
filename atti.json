@@ -788,5 +788,395 @@
   "codice": "19G00095",
   "dataGU": "2019-08-19",
   "descrizione": "LEGGE 24 luglio 2019, n. 88"
+ },
+ {
+  "id": "2026-23-dl",
+  "titolo": "Disposizioni urgenti in materia di sicurezza pubblica, di attivita' di indagine dell'autorita' giudiziaria in presenza di cause di giustificazione, di",
+  "rif": "Decreto-legge 24 febbraio 2026, n. 23",
+  "sigla": "D.L. 23/2026",
+  "file": "",
+  "codice": "26G00042",
+  "dataGU": "2026-02-24",
+  "descrizione": "DECRETO-LEGGE 24 febbraio 2026, n. 23"
+ },
+ {
+  "id": "2026-54-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di sicurezza pubblica, di attivita' di indagine dell'autorita' giudiziaria in presenza di cause di g",
+  "rif": "Legge 24 aprile 2026, n. 54",
+  "sigla": "L. 54/2026",
+  "file": "",
+  "codice": "26G00078",
+  "dataGU": "2026-04-24",
+  "descrizione": "LEGGE 24 aprile 2026, n. 54"
+ },
+ {
+  "id": "2026-35-legge",
+  "titolo": "Modifiche al codice penale e al regolamento di polizia mortuaria, di cui al decreto del Presidente della Repubblica 10 settembre 1990, n. 285, in mate",
+  "rif": "Legge 9 marzo 2026, n. 35",
+  "sigla": "L. 35/2026",
+  "file": "",
+  "codice": "26G00051",
+  "dataGU": "2026-03-24",
+  "descrizione": "LEGGE 9 marzo 2026, n. 35"
+ },
+ {
+  "id": "2026-131-legge",
+  "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalita' organizzata. («Liberi di scegliere»).",
+  "rif": "Legge 17 luglio 2026, n. 131",
+  "sigla": "L. 131/2026",
+  "file": "",
+  "codice": "26G00147",
+  "dataGU": "2026-07-25",
+  "descrizione": "LEGGE 17 luglio 2026, n. 131"
+ },
+ {
+  "id": "2026-100-dl",
+  "titolo": "Misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024.",
+  "rif": "Decreto-legge 12 giugno 2026, n. 100",
+  "sigla": "D.L. 100/2026",
+  "file": "",
+  "codice": "26G00119",
+  "dataGU": "2026-06-12",
+  "descrizione": "DECRETO-LEGGE 12 giugno 2026, n. 100"
+ },
+ {
+  "id": "2026-145-legge",
+  "titolo": "Conversione D.L.: misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 202",
+  "rif": "Legge 7 agosto 2026, n. 145",
+  "sigla": "L. 145/2026",
+  "file": "",
+  "codice": "26G00164",
+  "dataGU": "2026-08-08",
+  "descrizione": "LEGGE 7 agosto 2026, n. 145"
+ },
+ {
+  "id": "2026-168-dl",
+  "titolo": "Misure urgenti in materia di giustizia, di funzionalita' del Ministero dell'interno e di impianti di interesse strategico nazionale.",
+  "rif": "Decreto-legge 29 settembre 2026, n. 168",
+  "sigla": "D.L. 168/2026",
+  "file": "",
+  "codice": "26G00188",
+  "dataGU": "2026-09-29",
+  "descrizione": "DECRETO-LEGGE 29 settembre 2026, n. 168"
+ },
+ {
+  "id": "2026-55-dl",
+  "titolo": "Disposizioni urgenti in materia di rimpatri volontari assistiti.",
+  "rif": "Decreto-legge 24 aprile 2026, n. 55",
+  "sigla": "D.L. 55/2026",
+  "file": "",
+  "codice": "26G00081",
+  "dataGU": "2026-04-24",
+  "descrizione": "DECRETO-LEGGE 24 aprile 2026, n. 55"
+ },
+ {
+  "id": "2026-103-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di rimpatri volontari assistiti.",
+  "rif": "Legge 19 giugno 2026, n. 103",
+  "sigla": "L. 103/2026",
+  "file": "",
+  "codice": "26G00123",
+  "dataGU": "2026-06-20",
+  "descrizione": "LEGGE 19 giugno 2026, n. 103"
+ },
+ {
+  "id": "2026-108-dl",
+  "titolo": "Disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identita'.",
+  "rif": "Decreto-legge 26 giugno 2026, n. 108",
+  "sigla": "D.L. 108/2026",
+  "file": "",
+  "codice": "26G00133",
+  "dataGU": "2026-06-26",
+  "descrizione": "DECRETO-LEGGE 26 giugno 2026, n. 108"
+ },
+ {
+  "id": "2026-142-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identita'.",
+  "rif": "Legge 4 agosto 2026, n. 142",
+  "sigla": "L. 142/2026",
+  "file": "",
+  "codice": "26G00163",
+  "dataGU": "2026-08-07",
+  "descrizione": "LEGGE 4 agosto 2026, n. 142"
+ },
+ {
+  "id": "2026-140-legge",
+  "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti.",
+  "rif": "Legge 5 agosto 2026, n. 140",
+  "sigla": "L. 140/2026",
+  "file": "",
+  "codice": "26G00157",
+  "dataGU": "2026-08-06",
+  "descrizione": "LEGGE 5 agosto 2026, n. 140"
+ },
+ {
+  "id": "2026-9-legge",
+  "titolo": "Disposizioni in materia di sicurezza delle attivita' subacquee.",
+  "rif": "Legge 26 gennaio 2026, n. 9",
+  "sigla": "L. 9/2026",
+  "file": "",
+  "codice": "26G00024",
+  "dataGU": "2026-01-27",
+  "descrizione": "LEGGE 26 gennaio 2026, n. 9"
+ },
+ {
+  "id": "2026-16-legge",
+  "titolo": "Modifiche all'articolo 40 della legge 28 luglio 2016, n. 154, in materia di contrasto del bracconaggio ittico nelle acque interne.",
+  "rif": "Legge 22 gennaio 2026, n. 16",
+  "sigla": "L. 16/2026",
+  "file": "",
+  "codice": "26G00032",
+  "dataGU": "2026-02-10",
+  "descrizione": "LEGGE 22 gennaio 2026, n. 16"
+ },
+ {
+  "id": "2026-40-legge",
+  "titolo": "Modifiche al codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, e altre disposizioni concernenti la valo",
+  "rif": "Legge 17 marzo 2026, n. 40",
+  "sigla": "L. 40/2026",
+  "file": "",
+  "codice": "26G00055",
+  "dataGU": "2026-03-30",
+  "descrizione": "LEGGE 17 marzo 2026, n. 40"
+ },
+ {
+  "id": "2026-134-legge",
+  "titolo": "Disposizioni in materia di insequestrabilita' delle opere d'arte prestate da Stati esteri o da enti o istituzioni culturali stranieri, durante la perm",
+  "rif": "Legge 16 luglio 2026, n. 134",
+  "sigla": "L. 134/2026",
+  "file": "",
+  "codice": "26G00150",
+  "dataGU": "2026-07-28",
+  "descrizione": "LEGGE 16 luglio 2026, n. 134"
+ },
+ {
+  "id": "2026-158-legge",
+  "titolo": "Istituzione dell'area marina protetta «Isola di Capri».",
+  "rif": "Legge 1 settembre 2026, n. 158",
+  "sigla": "L. 158/2026",
+  "file": "",
+  "codice": "26G00175",
+  "dataGU": "2026-09-11",
+  "descrizione": "LEGGE 1 settembre 2026, n. 158"
+ },
+ {
+  "id": "2026-70-legge",
+  "titolo": "Valorizzazione della risorsa mare.",
+  "rif": "Legge 7 maggio 2026, n. 70",
+  "sigla": "L. 70/2026",
+  "file": "",
+  "codice": "26G00091",
+  "dataGU": "2026-05-09",
+  "descrizione": "LEGGE 7 maggio 2026, n. 70"
+ },
+ {
+  "id": "2026-75-legge",
+  "titolo": "Disposizioni sanzionatorie a tutela dei prodotti alimentari italiani.",
+  "rif": "Legge 21 aprile 2026, n. 75",
+  "sigla": "L. 75/2026",
+  "file": "",
+  "codice": "26G00089",
+  "dataGU": "2026-05-14",
+  "descrizione": "LEGGE 21 aprile 2026, n. 75"
+ },
+ {
+  "id": "2026-37-legge",
+  "titolo": "Disposizioni in materia di tutela dei minori in affidamento.",
+  "rif": "Legge 17 marzo 2026, n. 37",
+  "sigla": "L. 37/2026",
+  "file": "",
+  "codice": "26G00054",
+  "dataGU": "2026-03-27",
+  "descrizione": "LEGGE 17 marzo 2026, n. 37"
+ },
+ {
+  "id": "2026-81-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/1203 del Parlamento europeo e del Consiglio dell'11 aprile 2024 sulla tutela penale dell'ambiente che sostituisce",
+  "rif": "Decreto legislativo 21 aprile 2026, n. 81",
+  "sigla": "D.Lgs. 81/2026",
+  "file": "",
+  "codice": "26G00096",
+  "dataGU": "2026-05-18",
+  "descrizione": "DECRETO LEGISLATIVO 21 aprile 2026, n. 81"
+ },
+ {
+  "id": "2025-210-dlgs",
+  "titolo": "Modifiche ed integrazioni al decreto legislativo 21 novembre 2007, n. 231 per il recepimento dell'articolo 74 della direttiva (UE) 2024/1640 del Parla",
+  "rif": "Decreto legislativo 31 dicembre 2025, n. 210",
+  "sigla": "D.Lgs. 210/2025",
+  "file": "",
+  "codice": "26G00007",
+  "dataGU": "2026-01-08",
+  "descrizione": "DECRETO LEGISLATIVO 31 dicembre 2025, n. 210"
+ },
+ {
+  "id": "2025-215-dlgs",
+  "titolo": "Individuazione delle autorita' competenti di cui all'articolo 31 del Regolamento (UE) 2023/1543 del Parlamento europeo e del Consiglio, del 12 luglio ",
+  "rif": "Decreto legislativo 30 dicembre 2025, n. 215",
+  "sigla": "D.Lgs. 215/2025",
+  "file": "",
+  "codice": "26G00004",
+  "dataGU": "2026-01-15",
+  "descrizione": "DECRETO LEGISLATIVO 30 dicembre 2025, n. 215"
+ },
+ {
+  "id": "2025-216-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2023/1544 del Parlamento europeo e del Consiglio, del 12 luglio 2023, recante norme armonizzate sulla designazione di ",
+  "rif": "Decreto legislativo 30 dicembre 2025, n. 216",
+  "sigla": "D.Lgs. 216/2025",
+  "file": "",
+  "codice": "26G00005",
+  "dataGU": "2026-01-15",
+  "descrizione": "DECRETO LEGISLATIVO 30 dicembre 2025, n. 216"
+ },
+ {
+  "id": "2025-211-dlgs",
+  "titolo": "Attuazione della direttiva 2024/1226/UE del Parlamento europeo e del Consiglio, del 24 aprile 2024, relativa alla definizione dei reati e delle sanzio",
+  "rif": "Decreto legislativo 30 dicembre 2025, n. 211",
+  "sigla": "D.Lgs. 211/2025",
+  "file": "",
+  "codice": "26G00003",
+  "dataGU": "2026-01-09",
+  "descrizione": "DECRETO LEGISLATIVO 30 dicembre 2025, n. 211"
+ },
+ {
+  "id": "2026-83-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/1233 del Parlamento europeo e del Consiglio, del 24 aprile 2024, relativa a una procedura unica di domanda per il",
+  "rif": "Decreto legislativo 16 aprile 2026, n. 83",
+  "sigla": "D.Lgs. 83/2026",
+  "file": "",
+  "codice": "26G00100",
+  "dataGU": "2026-05-20",
+  "descrizione": "DECRETO LEGISLATIVO 16 aprile 2026, n. 83"
+ },
+ {
+  "id": "2026-114-dm",
+  "titolo": "Regolamento recante ulteriori modifiche al decreto 29 dicembre 2023, n. 217 in materia di processo penale telematico.",
+  "rif": "Decreto ministeriale 26 giugno 2026, n. 114",
+  "sigla": "D.M. 114/2026",
+  "file": "",
+  "codice": "26G00134",
+  "dataGU": "2026-06-30",
+  "descrizione": "DECRETO 26 giugno 2026, n. 114"
+ },
+ {
+  "id": "2026-156-dpcm",
+  "titolo": "Regolamento recante definizione dei compiti e dell'organizzazione del sistema nazionale di allerta rapida per le droghe (NEWS-D).",
+  "rif": "Decreto del Presidente del Consiglio dei ministri 7 luglio 2026, n. 156",
+  "sigla": "D.P.C.M. 156/2026",
+  "file": "",
+  "codice": "26G00172",
+  "dataGU": "2026-09-03",
+  "descrizione": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 7 luglio 2026, n. 156"
+ },
+ {
+  "id": "2026-44-dm",
+  "titolo": "Regolamento recante approvazione delle tabelle per la determinazione dell'indennita' di custodia dei beni, diversi dai veicoli a motore e natanti, sot",
+  "rif": "Decreto ministeriale 28 febbraio 2026, n. 44",
+  "sigla": "D.M. 44/2026",
+  "file": "",
+  "codice": "26G00059",
+  "dataGU": "2026-04-03",
+  "descrizione": "DECRETO 28 febbraio 2026, n. 44"
+ },
+ {
+  "id": "2026-177-dl",
+  "titolo": "Disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche.",
+  "rif": "Decreto-legge 8 ottobre 2026, n. 177",
+  "sigla": "D.L. 177/2026",
+  "file": "",
+  "codice": "26G00199",
+  "dataGU": "2026-10-08",
+  "descrizione": "DECRETO-LEGGE 8 ottobre 2026, n. 177"
+ },
+ {
+  "id": "2026-167-dl",
+  "titolo": "Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5».",
+  "rif": "Decreto-legge 28 settembre 2026, n. 167",
+  "sigla": "D.L. 167/2026",
+  "file": "",
+  "codice": "26G00186",
+  "dataGU": "2026-09-28",
+  "descrizione": "DECRETO-LEGGE 28 settembre 2026, n. 167"
+ },
+ {
+  "id": "2026-25-dl",
+  "titolo": "Interventi urgenti per fronteggiare l'emergenza provocata dagli eccezionali eventi meteorologici che, a partire dal giorno 18 gennaio 2026, hanno colp",
+  "rif": "Decreto-legge 27 febbraio 2026, n. 25",
+  "sigla": "D.L. 25/2026",
+  "file": "",
+  "codice": "26G00045",
+  "dataGU": "2026-02-27",
+  "descrizione": "DECRETO-LEGGE 27 febbraio 2026, n. 25"
+ },
+ {
+  "id": "2026-59-legge",
+  "titolo": "Conversione D.L.: interventi urgenti per fronteggiare l'emergenza provocata dagli eccezionali eventi meteorologici che, a partire dal giorno 18 gennai",
+  "rif": "Legge 27 aprile 2026, n. 59",
+  "sigla": "L. 59/2026",
+  "file": "",
+  "codice": "26G00080",
+  "dataGU": "2026-04-28",
+  "descrizione": "LEGGE 27 aprile 2026, n. 59"
+ },
+ {
+  "id": "2026-122-dlgs",
+  "titolo": "Recepimento degli articoli 11, 12, 13 e 15 della direttiva (UE) 2024/1640 del Parlamento europeo e del Consiglio, del 31 maggio 2024, relativa ai mecc",
+  "rif": "Decreto legislativo 10 giugno 2026, n. 122",
+  "sigla": "D.Lgs. 122/2026",
+  "file": "",
+  "codice": "26G00140",
+  "dataGU": "2026-07-08",
+  "descrizione": "DECRETO LEGISLATIVO 10 giugno 2026, n. 122"
+ },
+ {
+  "id": "2026-78-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023, sull",
+  "rif": "Decreto legislativo 8 aprile 2026, n. 78",
+  "sigla": "D.Lgs. 78/2026",
+  "file": "",
+  "codice": "26G00093",
+  "dataGU": "2026-05-15",
+  "descrizione": "DECRETO LEGISLATIVO 8 aprile 2026, n. 78"
+ },
+ {
+  "id": "2026-14-legge",
+  "titolo": "Modifiche al decreto legislativo 24 giugno 2003, n. 209, e altre disposizioni in materia di cancellazione dai pubblici registri dei veicoli fuori uso ",
+  "rif": "Legge 26 gennaio 2026, n. 14",
+  "sigla": "L. 14/2026",
+  "file": "",
+  "codice": "26G00026",
+  "dataGU": "2026-02-05",
+  "descrizione": "LEGGE 26 gennaio 2026, n. 14"
+ },
+ {
+  "id": "2026-56-legge",
+  "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell'Uzbekistan sulla cooperazione di poliz",
+  "rif": "Legge 1 aprile 2026, n. 56",
+  "sigla": "L. 56/2026",
+  "file": "",
+  "codice": "26G00077",
+  "dataGU": "2026-04-27",
+  "descrizione": "LEGGE 1 aprile 2026, n. 56"
+ },
+ {
+  "id": "2026-57-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 22 novembre 2023, n. 184, di recepimento della direttiva (UE) 2021/2118 del Parlamento eu",
+  "rif": "Decreto legislativo 27 marzo 2026, n. 57",
+  "sigla": "D.Lgs. 57/2026",
+  "file": "",
+  "codice": "26G00079",
+  "dataGU": "2026-04-27",
+  "descrizione": "DECRETO LEGISLATIVO 27 marzo 2026, n. 57"
+ },
+ {
+  "id": "2026-160-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che",
+  "rif": "Decreto legislativo 9 settembre 2026, n. 160",
+  "sigla": "D.Lgs. 160/2026",
+  "file": "",
+  "codice": "26G00179",
+  "dataGU": "2026-09-15",
+  "descrizione": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160"
  }
 ]
