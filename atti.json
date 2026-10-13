@@ -658,5 +658,135 @@
   "codice": "008G0104",
   "dataGU": "2008-04-30",
   "descrizione": "DECRETO LEGISLATIVO 9 aprile 2008, n. 81"
+ },
+ {
+  "id": "2006-146-legge",
+  "titolo": "Convenzione ONU contro il crimine organizzato transnazionale (Palermo)",
+  "rif": "Legge 16 marzo 2006, n. 146",
+  "sigla": "L. 146/2006",
+  "file": "",
+  "codice": "006G0168",
+  "dataGU": "2006-04-11",
+  "descrizione": "LEGGE 16 marzo 2006, n. 146"
+ },
+ {
+  "id": "2008-48-legge",
+  "titolo": "Convenzione di Budapest sulla criminalità informatica",
+  "rif": "Legge 18 marzo 2008, n. 48",
+  "sigla": "L. 48/2008",
+  "file": "",
+  "codice": "008G0070",
+  "dataGU": "2008-04-04",
+  "descrizione": "LEGGE 18 marzo 2008, n. 48"
+ },
+ {
+  "id": "2012-172-legge",
+  "titolo": "Convenzione di Lanzarote (protezione dei minori)",
+  "rif": "Legge 1 ottobre 2012, n. 172",
+  "sigla": "L. 172/2012",
+  "file": "",
+  "codice": "012G0192",
+  "dataGU": "2012-10-08",
+  "descrizione": "LEGGE 1 ottobre 2012, n. 172"
+ },
+ {
+  "id": "2013-77-legge",
+  "titolo": "Convenzione di Istanbul (violenza contro le donne)",
+  "rif": "Legge 27 giugno 2013, n. 77",
+  "sigla": "L. 77/2013",
+  "file": "",
+  "codice": "13G00122",
+  "dataGU": "2013-07-01",
+  "descrizione": "LEGGE 27 giugno 2013, n. 77"
+ },
+ {
+  "id": "2010-108-legge",
+  "titolo": "Convenzione sulla tratta di esseri umani (Varsavia)",
+  "rif": "Legge 2 luglio 2010, n. 108",
+  "sigla": "L. 108/2010",
+  "file": "",
+  "codice": "010G0131",
+  "dataGU": "2010-07-15",
+  "descrizione": "LEGGE 2 luglio 2010, n. 108"
+ },
+ {
+  "id": "1993-328-legge",
+  "titolo": "Convenzione sul riciclaggio e confisca dei proventi di reato",
+  "rif": "Legge 9 agosto 1993, n. 328",
+  "sigla": "L. 328/1993",
+  "file": "",
+  "codice": "093G0411",
+  "dataGU": "1993-08-28",
+  "descrizione": "LEGGE 9 agosto 1993, n. 328"
+ },
+ {
+  "id": "1998-93-legge",
+  "titolo": "Convenzione Europol",
+  "rif": "Legge 23 marzo 1998, n. 93",
+  "sigla": "L. 93/1998",
+  "file": "",
+  "codice": "098G0140",
+  "dataGU": "1998-04-14",
+  "descrizione": "LEGGE 23 marzo 1998, n. 93"
+ },
+ {
+  "id": "2012-110-legge",
+  "titolo": "Convenzione penale sulla corruzione",
+  "rif": "Legge 28 giugno 2012, n. 110",
+  "sigla": "L. 110/2012",
+  "file": "",
+  "codice": "012G0128",
+  "dataGU": "2012-07-26",
+  "descrizione": "LEGGE 28 giugno 2012, n. 110"
+ },
+ {
+  "id": "2019-39-legge",
+  "titolo": "Convenzione sulla manipolazione di competizioni sportive",
+  "rif": "Legge 3 maggio 2019, n. 39",
+  "sigla": "L. 39/2019",
+  "file": "",
+  "codice": "19G00046",
+  "dataGU": "2019-05-16",
+  "descrizione": "LEGGE 3 maggio 2019, n. 39"
+ },
+ {
+  "id": "2022-6-legge",
+  "titolo": "Convenzione sulle infrazioni relative ai beni culturali (Nicosia)",
+  "rif": "Legge 21 gennaio 2022, n. 6",
+  "sigla": "L. 6/2022",
+  "file": "",
+  "codice": "22G00009",
+  "dataGU": "2022-02-07",
+  "descrizione": "LEGGE 21 gennaio 2022, n. 6"
+ },
+ {
+  "id": "2005-69-legge",
+  "titolo": "Mandato d'arresto europeo",
+  "rif": "Legge 22 aprile 2005, n. 69",
+  "sigla": "L. 69/2005",
+  "file": "",
+  "codice": "005G0081",
+  "dataGU": "2005-04-29",
+  "descrizione": "LEGGE 22 aprile 2005, n. 69"
+ },
+ {
+  "id": "1999-232-legge",
+  "titolo": "Statuto della Corte penale internazionale",
+  "rif": "Legge 12 luglio 1999, n. 232",
+  "sigla": "L. 232/1999",
+  "file": "",
+  "codice": "099G0308",
+  "dataGU": "1999-07-19",
+  "descrizione": "LEGGE 12 luglio 1999, n. 232"
+ },
+ {
+  "id": "2019-88-legge",
+  "titolo": "Protocolli sull'assistenza giudiziaria in materia penale",
+  "rif": "Legge 24 luglio 2019, n. 88",
+  "sigla": "L. 88/2019",
+  "file": "",
+  "codice": "19G00095",
+  "dataGU": "2019-08-19",
+  "descrizione": "LEGGE 24 luglio 2019, n. 88"
  }
 ]

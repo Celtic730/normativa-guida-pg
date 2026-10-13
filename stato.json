@@ -262,5 +262,57 @@
  "2008-81-dlgs": {
   "aggiornato": "2026-03-23",
   "hash": "c339f1ec9f6e490f"
+ },
+ "2006-146-legge": {
+  "aggiornato": "2026-05-14",
+  "hash": "c72609b7914ddac0"
+ },
+ "2008-48-legge": {
+  "aggiornato": "2008-05-26",
+  "hash": "ed4c056c72851baa"
+ },
+ "2012-172-legge": {
+  "aggiornato": null,
+  "hash": "497b98825f215ff7"
+ },
+ "2013-77-legge": {
+  "aggiornato": "2017-11-28",
+  "hash": "277be07b031c5a5a"
+ },
+ "2010-108-legge": {
+  "aggiornato": null,
+  "hash": "8316c6940652d976"
+ },
+ "1993-328-legge": {
+  "aggiornato": null,
+  "hash": "7ef973442a3b9127"
+ },
+ "1998-93-legge": {
+  "aggiornato": null,
+  "hash": "d81e13f74588911e"
+ },
+ "2012-110-legge": {
+  "aggiornato": null,
+  "hash": "3ab100c9f912f8c6"
+ },
+ "2019-39-legge": {
+  "aggiornato": "2019-07-12",
+  "hash": "72a6bc6034d98eb5"
+ },
+ "2022-6-legge": {
+  "aggiornato": "2023-02-06",
+  "hash": "fc5ad6016f79a8e9"
+ },
+ "2005-69-legge": {
+  "aggiornato": "2023-08-10",
+  "hash": "ed6e05c80e201d6d"
+ },
+ "1999-232-legge": {
+  "aggiornato": null,
+  "hash": "856236074cb0ee79"
+ },
+ "2019-88-legge": {
+  "aggiornato": "2019-11-27",
+  "hash": "846faf08df88823d"
  }
 }
