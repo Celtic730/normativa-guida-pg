@@ -134,5 +134,57 @@
  "2022-149-dlgs": {
   "aggiornato": "2026-06-12",
   "hash": "4aa73bd21b10d052"
+ },
+ "1942-327-rd": {
+  "aggiornato": "2026-05-09",
+  "hash": "d22b22dd9f1a29d2"
+ },
+ "1952-328-dpr": {
+  "aggiornato": "2026-05-09",
+  "hash": "acb3f5232369e80c"
+ },
+ "2005-171-dlgs": {
+  "aggiornato": "2026-08-07",
+  "hash": "dd9434e9765e83fd"
+ },
+ "2006-152-dlgs": {
+  "aggiornato": "2026-10-06",
+  "hash": "0c96b0a98b8969ff"
+ },
+ "2004-42-dlgs": {
+  "aggiornato": "2026-05-09",
+  "hash": "cfb8424a7c3eda1b"
+ },
+ "2022-22-legge": {
+  "aggiornato": null,
+  "hash": "d914bf5b330f014e"
+ },
+ "1991-394-legge": {
+  "aggiornato": "2026-09-11",
+  "hash": "ddb564746a4f99f5"
+ },
+ "1992-150-legge": {
+  "aggiornato": "2022-09-12",
+  "hash": "8a0155cc614203e0"
+ },
+ "2000-353-legge": {
+  "aggiornato": "2021-11-08",
+  "hash": "01b1ba6aa98565a9"
+ },
+ "2016-177-dlgs": {
+  "aggiornato": "2025-04-04",
+  "hash": "e4d7a7bf0bf65e30"
+ },
+ "2018-34-dlgs": {
+  "aggiornato": "2025-09-19",
+  "hash": "2d423eb9ef1284ab"
+ },
+ "2012-4-dlgs": {
+  "aggiornato": "2026-05-14",
+  "hash": "0794929b91ae7422"
+ },
+ "1981-689-legge": {
+  "aggiornato": "2026-05-14",
+  "hash": "84eeb81cc71c30c6"
  }
 }

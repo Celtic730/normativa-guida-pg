@@ -338,5 +338,135 @@
   "codice": "22G00158",
   "dataGU": "2022-10-17",
   "descrizione": "DECRETO LEGISLATIVO 10 ottobre 2022, n. 149"
+ },
+ {
+  "id": "1942-327-rd",
+  "titolo": "Codice della navigazione",
+  "rif": "R.D. 30 marzo 1942, n. 327",
+  "sigla": "cod. nav.",
+  "file": "",
+  "codice": "042U0327",
+  "dataGU": "1942-04-18",
+  "descrizione": "REGIO DECRETO 30 marzo 1942, n. 327"
+ },
+ {
+  "id": "1952-328-dpr",
+  "titolo": "Regolamento navigazione marittima",
+  "rif": "D.P.R. 15 febbraio 1952, n. 328",
+  "sigla": "reg. cod. nav.",
+  "file": "",
+  "codice": "052U0328",
+  "dataGU": "1952-04-21",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1952, n. 328"
+ },
+ {
+  "id": "2005-171-dlgs",
+  "titolo": "Codice della nautica da diporto",
+  "rif": "D.Lgs. 18 luglio 2005, n. 171",
+  "sigla": "nautica da diporto",
+  "file": "",
+  "codice": "005G0200",
+  "dataGU": "2005-08-31",
+  "descrizione": "DECRETO LEGISLATIVO 18 luglio 2005, n. 171"
+ },
+ {
+  "id": "2006-152-dlgs",
+  "titolo": "Codice dell'ambiente",
+  "rif": "D.Lgs. 3 aprile 2006, n. 152",
+  "sigla": "T.U. ambiente",
+  "file": "",
+  "codice": "006G0171",
+  "dataGU": "2006-04-14",
+  "descrizione": "DECRETO LEGISLATIVO 3 aprile 2006, n. 152"
+ },
+ {
+  "id": "2004-42-dlgs",
+  "titolo": "Codice dei beni culturali e del paesaggio",
+  "rif": "D.Lgs. 22 gennaio 2004, n. 42",
+  "sigla": "cod. beni culturali",
+  "file": "",
+  "codice": "004G0066",
+  "dataGU": "2004-02-24",
+  "descrizione": "DECRETO LEGISLATIVO 22 gennaio 2004, n. 42"
+ },
+ {
+  "id": "2022-22-legge",
+  "titolo": "Reati contro il patrimonio culturale",
+  "rif": "Legge 9 marzo 2022, n. 22",
+  "sigla": "L. 22/2022",
+  "file": "",
+  "codice": "22G00030",
+  "dataGU": "2022-03-22",
+  "descrizione": "LEGGE 9 marzo 2022, n. 22"
+ },
+ {
+  "id": "1991-394-legge",
+  "titolo": "Aree protette (legge quadro)",
+  "rif": "Legge 6 dicembre 1991, n. 394",
+  "sigla": "L. 394/1991",
+  "file": "",
+  "codice": "091G0441",
+  "dataGU": "1991-12-13",
+  "descrizione": "LEGGE 6 dicembre 1991, n. 394"
+ },
+ {
+  "id": "1992-150-legge",
+  "titolo": "CITES - specie protette",
+  "rif": "Legge 7 febbraio 1992, n. 150",
+  "sigla": "L. 150/1992",
+  "file": "",
+  "codice": "092G0155",
+  "dataGU": "1992-02-22",
+  "descrizione": "LEGGE 7 febbraio 1992, n. 150"
+ },
+ {
+  "id": "2000-353-legge",
+  "titolo": "Incendi boschivi (legge quadro)",
+  "rif": "Legge 21 novembre 2000, n. 353",
+  "sigla": "L. 353/2000",
+  "file": "",
+  "codice": "000G0402",
+  "dataGU": "2000-11-30",
+  "descrizione": "LEGGE 21 novembre 2000, n. 353"
+ },
+ {
+  "id": "2016-177-dlgs",
+  "titolo": "Riordino forze di polizia e assorbimento CFS",
+  "rif": "D.Lgs. 19 agosto 2016, n. 177",
+  "sigla": "D.Lgs. 177/2016",
+  "file": "",
+  "codice": "16G00193",
+  "dataGU": "2016-09-12",
+  "descrizione": "DECRETO LEGISLATIVO 19 agosto 2016, n. 177"
+ },
+ {
+  "id": "2018-34-dlgs",
+  "titolo": "Testo unico foreste e filiere forestali",
+  "rif": "D.Lgs. 3 aprile 2018, n. 34",
+  "sigla": "T.U. foreste",
+  "file": "",
+  "codice": "18G00060",
+  "dataGU": "2018-04-20",
+  "descrizione": "DECRETO LEGISLATIVO 3 aprile 2018, n. 34"
+ },
+ {
+  "id": "2012-4-dlgs",
+  "titolo": "Pesca marittima - sanzioni",
+  "rif": "D.Lgs. 9 gennaio 2012, n. 4",
+  "sigla": "D.Lgs. 4/2012",
+  "file": "",
+  "codice": "012G0012",
+  "dataGU": "2012-02-01",
+  "descrizione": "DECRETO LEGISLATIVO 9 gennaio 2012, n. 4"
+ },
+ {
+  "id": "1981-689-legge",
+  "titolo": "Depenalizzazione e sanzioni amministrative",
+  "rif": "Legge 24 novembre 1981, n. 689",
+  "sigla": "L. 689/1981",
+  "file": "",
+  "codice": "081U0689",
+  "dataGU": "1981-11-30",
+  "descrizione": "LEGGE 24 novembre 1981, n. 689"
  }
 ]
