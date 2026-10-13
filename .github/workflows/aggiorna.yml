@@ -15,7 +15,8 @@ jobs:
           python-version: "3.12"
       - run: pip install requests
       - name: Controlla Normattiva e scarica solo gli atti cambiati
-        run: python aggiorna_normativa.py || echo "alcuni atti non aggiornati: vedi il log"
+        run: |
+          python aggiorna_normativa.py || echo "alcuni atti non aggiornati, vedi il log sopra"
       - name: Pubblica le modifiche
         run: |
           git config user.name "aggiornamento-normativa"
