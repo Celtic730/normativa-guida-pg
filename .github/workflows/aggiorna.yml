@@ -1,0 +1,25 @@
+name: Aggiorna normativa
+on:
+  schedule:
+    - cron: "30 4 * * *"   # ogni giorno, circa le 6:30 italiane
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Controlla Normattiva e scarica solo gli atti cambiati
+        run: python aggiorna_normativa.py || echo "alcuni atti non aggiornati: vedi il log"
+      - name: Pubblica le modifiche
+        run: |
+          git config user.name "aggiornamento-normativa"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Aggiornamento normativa $(date -u +%F)"
+          git push
