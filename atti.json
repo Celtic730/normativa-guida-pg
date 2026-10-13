@@ -1,0 +1,342 @@
+[
+ {
+  "id": "1930-1398-rd",
+  "titolo": "Codice penale",
+  "rif": "R.D. 19 ottobre 1930, n. 1398",
+  "sigla": "c.p.",
+  "file": "penale/codice penale.pdf",
+  "codice": "030U1398",
+  "dataGU": "1930-10-26",
+  "descrizione": "REGIO DECRETO 19 ottobre 1930, n. 1398"
+ },
+ {
+  "id": "1988-447-dpr",
+  "titolo": "Codice di procedura penale",
+  "rif": "D.P.R. 22 settembre 1988, n. 447",
+  "sigla": "c.p.p.",
+  "file": "procedura penale/procedura penale.pdf",
+  "codice": "088G0492",
+  "dataGU": "1988-10-24",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1988, n. 447"
+ },
+ {
+  "id": "1989-271-dlgs",
+  "titolo": "Norme di attuazione del codice di procedura penale",
+  "rif": "D.Lgs. 28 luglio 1989, n. 271",
+  "sigla": "norme att. c.p.p.",
+  "file": "procedura penale/attuazione.pdf",
+  "codice": "089G0340",
+  "dataGU": "1989-08-05",
+  "descrizione": "DECRETO LEGISLATIVO 28 luglio 1989, n. 271"
+ },
+ {
+  "id": "1989-334-dm",
+  "titolo": "Regolamento di esecuzione del codice di procedura penale",
+  "rif": "D.M. 30 settembre 1989, n. 334",
+  "sigla": "reg. c.p.p.",
+  "file": "procedura penale/regolamento.pdf",
+  "codice": "089G0411",
+  "dataGU": "1989-10-05",
+  "descrizione": "DECRETO 30 settembre 1989, n. 334"
+ },
+ {
+  "id": "1992-285-dlgs",
+  "titolo": "Nuovo codice della strada",
+  "rif": "D.Lgs. 30 aprile 1992, n. 285",
+  "sigla": "C.d.S.",
+  "file": "C.D.S/codeice della strada.pdf",
+  "codice": "092G0306",
+  "dataGU": "1992-05-18",
+  "descrizione": "DECRETO LEGISLATIVO 30 aprile 1992, n. 285"
+ },
+ {
+  "id": "1992-495-dpr",
+  "titolo": "Regolamento di esecuzione del Codice della strada",
+  "rif": "D.P.R. 16 dicembre 1992, n. 495",
+  "sigla": "reg. C.d.S.",
+  "file": "C.D.S/attuazione.pdf",
+  "codice": "092G0531",
+  "dataGU": "1992-12-28",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1992, n. 495"
+ },
+ {
+  "id": "1931-773-rd",
+  "titolo": "Testo unico delle leggi di pubblica sicurezza (T.U.L.P.S.)",
+  "rif": "R.D. 18 giugno 1931, n. 773",
+  "sigla": "T.U.L.P.S.",
+  "file": "leggi/tulps 773_1931.pdf",
+  "codice": "031U0773",
+  "dataGU": "1931-06-26",
+  "descrizione": "REGIO DECRETO 18 giugno 1931, n. 773"
+ },
+ {
+  "id": "1940-635-rd",
+  "titolo": "Regolamento di esecuzione del T.U.L.P.S.",
+  "rif": "R.D. 6 maggio 1940, n. 635",
+  "sigla": "reg. T.U.L.P.S.",
+  "file": "leggi/635_1940.pdf",
+  "codice": "040U0635",
+  "dataGU": "1940-06-26",
+  "descrizione": "REGIO DECRETO 6 maggio 1940, n. 635"
+ },
+ {
+  "id": "1981-121-legge",
+  "titolo": "Nuovo ordinamento dell'Amministrazione della pubblica sicurezza",
+  "rif": "Legge 1 aprile 1981, n. 121",
+  "sigla": "",
+  "file": "leggi/121_1981.pdf",
+  "codice": "081U0121",
+  "dataGU": "1981-04-10",
+  "descrizione": "LEGGE 1 aprile 1981, n. 121"
+ },
+ {
+  "id": "2001-128-legge",
+  "titolo": "Interventi in materia di tutela della sicurezza dei cittadini",
+  "rif": "Legge 26 marzo 2001, n. 128",
+  "sigla": "",
+  "file": "leggi/128_2001.pdf",
+  "codice": "001G0167",
+  "dataGU": "2001-04-19",
+  "descrizione": "LEGGE 26 marzo 2001, n. 128"
+ },
+ {
+  "id": "1982-378-dpr",
+  "titolo": "Regolamento sul Centro Elaborazione Dati (dati di polizia)",
+  "rif": "D.P.R. 3 maggio 1982, n. 378",
+  "sigla": "",
+  "file": "leggi/378_1982.pdf",
+  "codice": "082U0378",
+  "dataGU": "1982-06-23",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 3 maggio 1982, n. 378"
+ },
+ {
+  "id": "2008-92-dl",
+  "titolo": "Misure urgenti in materia di sicurezza pubblica",
+  "rif": "D.L. 23 maggio 2008, n. 92",
+  "sigla": "",
+  "file": "leggi/D.L. 92_2008 sicurezza pubblica.pdf",
+  "codice": "008G0115",
+  "dataGU": "2008-05-26",
+  "descrizione": "DECRETO-LEGGE 23 maggio 2008, n. 92"
+ },
+ {
+  "id": "2017-14-dl",
+  "titolo": "Disposizioni urgenti in materia di sicurezza delle città (DASPO urbano)",
+  "rif": "D.L. 20 febbraio 2017, n. 14",
+  "sigla": "",
+  "file": "leggi/D.L. 14_2017 sicurezza urbana DASPO.pdf",
+  "codice": "17G00030",
+  "dataGU": "2017-02-20",
+  "descrizione": "DECRETO-LEGGE 20 febbraio 2017, n. 14"
+ },
+ {
+  "id": "2025-48-dl",
+  "titolo": "Disposizioni urgenti in materia di sicurezza pubblica e tutela del personale in servizio",
+  "rif": "D.L. 11 aprile 2025, n. 48",
+  "sigla": "",
+  "file": "leggi/D.L. 48_2025 sicurezza (art 28 porto fuori servizio).pdf",
+  "codice": "25G00060",
+  "dataGU": "2025-04-11",
+  "descrizione": "DECRETO-LEGGE 11 aprile 2025, n. 48"
+ },
+ {
+  "id": "1975-110-legge",
+  "titolo": "Controllo delle armi, delle munizioni e degli esplosivi",
+  "rif": "Legge 18 aprile 1975, n. 110",
+  "sigla": "",
+  "file": "leggi/110_1975.pdf",
+  "codice": "075U0110",
+  "dataGU": "1975-04-21",
+  "descrizione": "LEGGE 18 aprile 1975, n. 110"
+ },
+ {
+  "id": "1967-895-legge",
+  "titolo": "Disposizioni per il controllo delle armi (armi illegali)",
+  "rif": "Legge 2 ottobre 1967, n. 895",
+  "sigla": "",
+  "file": "leggi/L. 895_1967 armi illegali.pdf",
+  "codice": "067U0895",
+  "dataGU": "1967-10-12",
+  "descrizione": "LEGGE 2 ottobre 1967, n. 895"
+ },
+ {
+  "id": "1986-85-legge",
+  "titolo": "Norme in materia di armi per uso sportivo",
+  "rif": "Legge 25 marzo 1986, n. 85",
+  "sigla": "",
+  "file": "leggi/L. 85_1986 armi sportive.pdf",
+  "codice": "086U0085",
+  "dataGU": "1986-04-03",
+  "descrizione": "LEGGE 25 marzo 1986, n. 85"
+ },
+ {
+  "id": "1969-323-legge",
+  "titolo": "Porto d'armi per lo sport del tiro a volo",
+  "rif": "Legge 18 giugno 1969, n. 323",
+  "sigla": "",
+  "file": "leggi/L. 323_1969 tiro a volo.pdf",
+  "codice": "069U0323",
+  "dataGU": "1969-07-08",
+  "descrizione": "LEGGE 18 giugno 1969, n. 323"
+ },
+ {
+  "id": "1992-157-legge",
+  "titolo": "Protezione della fauna selvatica e prelievo venatorio (caccia)",
+  "rif": "Legge 11 febbraio 1992, n. 157",
+  "sigla": "",
+  "file": "leggi/L. 157_1992 caccia.pdf",
+  "codice": "092G0211",
+  "dataGU": "1992-02-25",
+  "descrizione": "LEGGE 11 febbraio 1992, n. 157"
+ },
+ {
+  "id": "1992-527-dlgs",
+  "titolo": "Attuazione della direttiva 91/477/CEE sulle armi",
+  "rif": "D.Lgs. 30 dicembre 1992, n. 527",
+  "sigla": "",
+  "file": "leggi/D.Lgs 527_1992 armi (direttiva 91-477 categorie A-B-C).pdf",
+  "codice": "093G0011",
+  "dataGU": "1993-01-11",
+  "descrizione": "DECRETO LEGISLATIVO 30 dicembre 1992, n. 527"
+ },
+ {
+  "id": "2018-104-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2017/853 sulle armi",
+  "rif": "D.Lgs. 10 agosto 2018, n. 104",
+  "sigla": "",
+  "file": "leggi/D.Lgs 104_2018 armi (recepimento dir 2017-853).pdf",
+  "codice": "18G00127",
+  "dataGU": "2018-09-08",
+  "descrizione": "DECRETO LEGISLATIVO 10 agosto 2018, n. 104"
+ },
+ {
+  "id": "1998-286-dlgs",
+  "titolo": "Testo unico sull'immigrazione",
+  "rif": "D.Lgs. 25 luglio 1998, n. 286",
+  "sigla": "T.U. immigrazione",
+  "file": "leggi/t.u.i. 286_1998.pdf",
+  "codice": "098G0348",
+  "dataGU": "1998-08-18",
+  "descrizione": "DECRETO LEGISLATIVO 25 luglio 1998, n. 286"
+ },
+ {
+  "id": "1999-394-dpr",
+  "titolo": "Regolamento di attuazione del Testo unico sull'immigrazione",
+  "rif": "D.P.R. 31 agosto 1999, n. 394",
+  "sigla": "",
+  "file": "leggi/394_1999.pdf",
+  "codice": "099G0265",
+  "dataGU": "1999-11-03",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1999, n. 394"
+ },
+ {
+  "id": "2007-30-dlgs",
+  "titolo": "Libera circolazione dei cittadini dell'Unione europea",
+  "rif": "D.Lgs. 6 febbraio 2007, n. 30",
+  "sigla": "",
+  "file": "leggi/30_2007.pdf",
+  "codice": "007G0033",
+  "dataGU": "2007-03-27",
+  "descrizione": "DECRETO LEGISLATIVO 6 febbraio 2007, n. 30"
+ },
+ {
+  "id": "2007-251-dlgs",
+  "titolo": "Qualifica di rifugiato e protezione internazionale",
+  "rif": "D.Lgs. 19 novembre 2007, n. 251",
+  "sigla": "",
+  "file": "leggi/251_2007.pdf",
+  "codice": "007G0259",
+  "dataGU": "2008-01-04",
+  "descrizione": "DECRETO LEGISLATIVO 19 novembre 2007, n. 251"
+ },
+ {
+  "id": "2018-51-dlgs",
+  "titolo": "Protezione dei dati personali a fini di polizia e di giustizia penale",
+  "rif": "D.Lgs. 18 maggio 2018, n. 51",
+  "sigla": "",
+  "file": "leggi/51_2018.pdf",
+  "codice": "18G00080",
+  "dataGU": "2018-05-24",
+  "descrizione": "DECRETO LEGISLATIVO 18 maggio 2018, n. 51"
+ },
+ {
+  "id": "2018-15-dpr",
+  "titolo": "Regolamento sul trattamento dei dati per finalità di polizia",
+  "rif": "D.P.R. 15 gennaio 2018, n. 15",
+  "sigla": "",
+  "file": "leggi/15_2018.pdf",
+  "codice": "18G00040",
+  "dataGU": "2018-03-14",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2018, n. 15"
+ },
+ {
+  "id": "1990-241-legge",
+  "titolo": "Procedimento amministrativo e diritto di accesso ai documenti",
+  "rif": "Legge 7 agosto 1990, n. 241",
+  "sigla": "",
+  "file": "leggi/241_1990.pdf",
+  "codice": "090G0294",
+  "dataGU": "1990-08-18",
+  "descrizione": "LEGGE 7 agosto 1990, n. 241"
+ },
+ {
+  "id": "2006-184-dpr",
+  "titolo": "Regolamento sull'accesso ai documenti amministrativi",
+  "rif": "D.P.R. 12 aprile 2006, n. 184",
+  "sigla": "",
+  "file": "leggi/184_2006.pdf",
+  "codice": "006G0200",
+  "dataGU": "2006-05-18",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 2006, n. 184"
+ },
+ {
+  "id": "2013-33-dlgs",
+  "titolo": "Trasparenza e accesso civico",
+  "rif": "D.Lgs. 14 marzo 2013, n. 33",
+  "sigla": "",
+  "file": "leggi/33_2013.pdf",
+  "codice": "13G00076",
+  "dataGU": "2013-04-05",
+  "descrizione": "DECRETO LEGISLATIVO 14 marzo 2013, n. 33"
+ },
+ {
+  "id": "2010-66-dlgs",
+  "titolo": "Codice dell'ordinamento militare (C.O.M.)",
+  "rif": "D.Lgs. 15 marzo 2010, n. 66",
+  "sigla": "C.O.M.",
+  "file": "leggi/66_2010.pdf",
+  "codice": "010G0089",
+  "dataGU": "2010-05-08",
+  "descrizione": "DECRETO LEGISLATIVO 15 marzo 2010, n. 66"
+ },
+ {
+  "id": "2010-90-dpr",
+  "titolo": "Testo unico delle disposizioni regolamentari sull'ordinamento militare (T.U.O.M.)",
+  "rif": "D.P.R. 15 marzo 2010, n. 90",
+  "sigla": "",
+  "file": "leggi/90_2010.pdf",
+  "codice": "010G0091",
+  "dataGU": "2010-06-18",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 2010, n. 90"
+ },
+ {
+  "id": "2022-150-dlgs",
+  "titolo": "Riforma Cartabia del processo penale",
+  "rif": "D.Lgs. 10 ottobre 2022, n. 150",
+  "sigla": "D.Lgs. 150/2022",
+  "file": "cartabia 150_2022.pdf",
+  "codice": "22G00159",
+  "dataGU": "2022-10-17",
+  "descrizione": "DECRETO LEGISLATIVO 10 ottobre 2022, n. 150"
+ },
+ {
+  "id": "2022-149-dlgs",
+  "titolo": "Riforma Cartabia del processo civile",
+  "rif": "D.Lgs. 10 ottobre 2022, n. 149",
+  "sigla": "D.Lgs. 149/2022",
+  "file": "leggi/legge cartabbia 149_2022.pdf",
+  "codice": "22G00158",
+  "dataGU": "2022-10-17",
+  "descrizione": "DECRETO LEGISLATIVO 10 ottobre 2022, n. 149"
+ }
+]
