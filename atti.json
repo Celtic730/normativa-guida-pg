@@ -1178,5 +1178,675 @@
   "codice": "26G00179",
   "dataGU": "2026-09-15",
   "descrizione": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160"
+ },
+ {
+  "id": "2020-28-dl",
+  "titolo": "Misure urgenti per la funzionalita' dei sistemi di intercettazioni di conversazioni e comunicazioni, ulteriori misure urgenti in materia di ordinament",
+  "rif": "Decreto-legge 30 aprile 2020, n. 28",
+  "sigla": "D.L. 28/2020",
+  "file": "",
+  "codice": "20G00046",
+  "dataGU": "2020-04-30",
+  "descrizione": "DECRETO-LEGGE 30 aprile 2020, n. 28"
+ },
+ {
+  "id": "2020-70-legge",
+  "titolo": "Conversione D.L.: misure urgenti per la funzionalita' dei sistemi di intercettazioni di conversazioni e comunicazioni, ulteriori misure urgenti in mat",
+  "rif": "Legge 25 giugno 2020, n. 70",
+  "sigla": "L. 70/2020",
+  "file": "",
+  "codice": "20G00088",
+  "dataGU": "2020-06-29",
+  "descrizione": "LEGGE 25 giugno 2020, n. 70"
+ },
+ {
+  "id": "2020-130-dl",
+  "titolo": "Disposizioni urgenti in materia di immigrazione, protezione internazionale e complementare, modifiche agli articoli 131-bis, 391-bis, 391-ter e 588 de",
+  "rif": "Decreto-legge 21 ottobre 2020, n. 130",
+  "sigla": "D.L. 130/2020",
+  "file": "",
+  "codice": "20G00154",
+  "dataGU": "2020-10-21",
+  "descrizione": "DECRETO-LEGGE 21 ottobre 2020, n. 130"
+ },
+ {
+  "id": "2020-173-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di immigrazione, protezione internazionale e complementare, modifiche agli articoli 131-bis, 391-bis",
+  "rif": "Legge 18 dicembre 2020, n. 173",
+  "sigla": "L. 173/2020",
+  "file": "",
+  "codice": "20G00195",
+  "dataGU": "2020-12-19",
+  "descrizione": "LEGGE 18 dicembre 2020, n. 173"
+ },
+ {
+  "id": "2020-75-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2017/1371, relativa alla lotta contro la frode che lede gli interessi finanziari dell'Unione mediante il diritto penal",
+  "rif": "Decreto legislativo 14 luglio 2020, n. 75",
+  "sigla": "D.Lgs. 75/2020",
+  "file": "",
+  "codice": "20G00091",
+  "dataGU": "2020-07-15",
+  "descrizione": "DECRETO LEGISLATIVO 14 luglio 2020, n. 75"
+ },
+ {
+  "id": "2020-19-dl",
+  "titolo": "Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19.",
+  "rif": "Decreto-legge 25 marzo 2020, n. 19",
+  "sigla": "D.L. 19/2020",
+  "file": "",
+  "codice": "20G00035",
+  "dataGU": "2020-03-25",
+  "descrizione": "DECRETO-LEGGE 25 marzo 2020, n. 19"
+ },
+ {
+  "id": "2020-33-dl",
+  "titolo": "Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19.",
+  "rif": "Decreto-legge 16 maggio 2020, n. 33",
+  "sigla": "D.L. 33/2020",
+  "file": "",
+  "codice": "20G00051",
+  "dataGU": "2020-05-16",
+  "descrizione": "DECRETO-LEGGE 16 maggio 2020, n. 33"
+ },
+ {
+  "id": "2021-82-dl",
+  "titolo": "Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersi",
+  "rif": "Decreto-legge 14 giugno 2021, n. 82",
+  "sigla": "D.L. 82/2021",
+  "file": "",
+  "codice": "21G00098",
+  "dataGU": "2021-06-14",
+  "descrizione": "DECRETO-LEGGE 14 giugno 2021, n. 82"
+ },
+ {
+  "id": "2021-109-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agen",
+  "rif": "Legge 4 agosto 2021, n. 109",
+  "sigla": "L. 109/2021",
+  "file": "",
+  "codice": "21G00122",
+  "dataGU": "2021-08-04",
+  "descrizione": "LEGGE 4 agosto 2021, n. 109"
+ },
+ {
+  "id": "2021-120-dl",
+  "titolo": "Disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile.",
+  "rif": "Decreto-legge 8 settembre 2021, n. 120",
+  "sigla": "D.L. 120/2021",
+  "file": "",
+  "codice": "21G00130",
+  "dataGU": "2021-09-09",
+  "descrizione": "DECRETO-LEGGE 8 settembre 2021, n. 120"
+ },
+ {
+  "id": "2021-155-legge",
+  "titolo": "Conversione D.L.: disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile.",
+  "rif": "Legge 8 novembre 2021, n. 155",
+  "sigla": "L. 155/2021",
+  "file": "",
+  "codice": "21G00167",
+  "dataGU": "2021-11-08",
+  "descrizione": "LEGGE 8 novembre 2021, n. 155"
+ },
+ {
+  "id": "2021-134-legge",
+  "titolo": "Delega al Governo per l'efficienza del processo penale nonche' in materia di giustizia riparativa e disposizioni per la celere definizione dei procedi",
+  "rif": "Legge 27 settembre 2021, n. 134",
+  "sigla": "L. 134/2021",
+  "file": "",
+  "codice": "21G00146",
+  "dataGU": "2021-10-04",
+  "descrizione": "LEGGE 27 settembre 2021, n. 134"
+ },
+ {
+  "id": "2021-186-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/1153 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che reca disposizioni per agevolare l'uso di inf",
+  "rif": "Decreto legislativo 8 novembre 2021, n. 186",
+  "sigla": "D.Lgs. 186/2021",
+  "file": "",
+  "codice": "21G00195",
+  "dataGU": "2021-11-29",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 186"
+ },
+ {
+  "id": "2021-195-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, sulla lotta al riciclaggio mediante diritto pen",
+  "rif": "Decreto legislativo 8 novembre 2021, n. 195",
+  "sigla": "D.Lgs. 195/2021",
+  "file": "",
+  "codice": "21G00203",
+  "dataGU": "2021-11-30",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 195"
+ },
+ {
+  "id": "2021-188-dlgs",
+  "titolo": "Disposizioni per il compiuto adeguamento della normativa nazionale alle disposizioni della direttiva (UE) 2016/343 del Parlamento europeo e del Consig",
+  "rif": "Decreto legislativo 8 novembre 2021, n. 188",
+  "sigla": "D.Lgs. 188/2021",
+  "file": "",
+  "codice": "21G00199",
+  "dataGU": "2021-11-29",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 188"
+ },
+ {
+  "id": "2020-193-dpr",
+  "titolo": "Regolamento per il riordino del Banco nazionale di prova delle armi da fuoco portatili e per le munizioni commerciali, in attuazione dell'articolo 1, ",
+  "rif": "Decreto del Presidente della Repubblica 24 novembre 2020, n. 193",
+  "sigla": "D.P.R. 193/2020",
+  "file": "",
+  "codice": "21G00050",
+  "dataGU": "2021-03-26",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 2020, n. 193"
+ },
+ {
+  "id": "2021-42-dl",
+  "titolo": "Misure urgenti sulla disciplina sanzionatoria in materia di sicurezza alimentare.",
+  "rif": "Decreto-legge 22 marzo 2021, n. 42",
+  "sigla": "D.L. 42/2021",
+  "file": "",
+  "codice": "21G00048",
+  "dataGU": "2021-03-24",
+  "descrizione": "DECRETO-LEGGE 22 marzo 2021, n. 42"
+ },
+ {
+  "id": "2022-199-legge",
+  "titolo": "Conversione in legge, con modificazioni del decreto-legge 31 ottobre 2022, n. 162, recante misure urgenti in materia di divieto di concessione dei ben",
+  "rif": "Legge 30 dicembre 2022, n. 199",
+  "sigla": "L. 199/2022",
+  "file": "",
+  "codice": "22G00209",
+  "dataGU": "2022-12-30",
+  "descrizione": "LEGGE 30 dicembre 2022, n. 199"
+ },
+ {
+  "id": "2022-191-dpr",
+  "titolo": "Regolamento recante modifiche al decreto del Presidente della Repubblica 31 agosto 1999, n. 394, in attuazione dell'articolo 22 della legge 7 aprile 2",
+  "rif": "Decreto del Presidente della Repubblica 4 ottobre 2022, n. 191",
+  "sigla": "D.P.R. 191/2022",
+  "file": "",
+  "codice": "22G00202",
+  "dataGU": "2022-12-13",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 4 ottobre 2022, n. 191"
+ },
+ {
+  "id": "2022-148-dpr",
+  "titolo": "Regolamento recante modifiche al regolamento per la sicurezza della navigazione e della vita umana in mare di cui al decreto del Presidente della Repu",
+  "rif": "Decreto del Presidente della Repubblica 19 luglio 2022, n. 148",
+  "sigla": "D.P.R. 148/2022",
+  "file": "",
+  "codice": "22G00156",
+  "dataGU": "2022-10-10",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 2022, n. 148"
+ },
+ {
+  "id": "2023-50-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di flussi di ingresso legale dei lavoratori stranieri e di prevenzione e contrasto all'immigrazione ",
+  "rif": "Legge 5 maggio 2023, n. 50",
+  "sigla": "L. 50/2023",
+  "file": "",
+  "codice": "23G00058",
+  "dataGU": "2023-05-05",
+  "descrizione": "LEGGE 5 maggio 2023, n. 50"
+ },
+ {
+  "id": "2023-137-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di processo penale, di processo civile, di contrasto agli incendi boschivi, di recupero dalle tossic",
+  "rif": "Legge 9 ottobre 2023, n. 137",
+  "sigla": "L. 137/2023",
+  "file": "",
+  "codice": "23G00149",
+  "dataGU": "2023-10-09",
+  "descrizione": "LEGGE 9 ottobre 2023, n. 137"
+ },
+ {
+  "id": "2023-159-legge",
+  "titolo": "Conversione D.L.: misure urgenti di contrasto al disagio giovanile, alla poverta' educativa e alla criminalita' minorile, nonche' per la sicurezza dei",
+  "rif": "Legge 13 novembre 2023, n. 159",
+  "sigla": "L. 159/2023",
+  "file": "",
+  "codice": "23G00172",
+  "dataGU": "2023-11-14",
+  "descrizione": "LEGGE 13 novembre 2023, n. 159"
+ },
+ {
+  "id": "2023-133-dl",
+  "titolo": "Disposizioni urgenti in materia di immigrazione e protezione internazionale, nonche' per il supporto alle politiche di sicurezza e la funzionalita' de",
+  "rif": "Decreto-legge 5 ottobre 2023, n. 133",
+  "sigla": "D.L. 133/2023",
+  "file": "",
+  "codice": "23G00145",
+  "dataGU": "2023-10-05",
+  "descrizione": "DECRETO-LEGGE 5 ottobre 2023, n. 133"
+ },
+ {
+  "id": "2023-176-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di immigrazione e protezione internazionale, nonche' per il supporto alle politiche di sicurezza e l",
+  "rif": "Legge 1 dicembre 2023, n. 176",
+  "sigla": "L. 176/2023",
+  "file": "",
+  "codice": "23G00189",
+  "dataGU": "2023-12-04",
+  "descrizione": "LEGGE 1 dicembre 2023, n. 176"
+ },
+ {
+  "id": "2023-138-legge",
+  "titolo": "Introduzione del reato di omicidio nautico e del reato di lesioni personali nautiche.",
+  "rif": "Legge 26 settembre 2023, n. 138",
+  "sigla": "L. 138/2023",
+  "file": "",
+  "codice": "23G00146",
+  "dataGU": "2023-10-10",
+  "descrizione": "LEGGE 26 settembre 2023, n. 138"
+ },
+ {
+  "id": "2023-168-legge",
+  "titolo": "Disposizioni per il contrasto della violenza sulle donne e della violenza domestica.",
+  "rif": "Legge 24 novembre 2023, n. 168",
+  "sigla": "L. 168/2023",
+  "file": "",
+  "codice": "23G00178",
+  "dataGU": "2023-11-24",
+  "descrizione": "LEGGE 24 novembre 2023, n. 168"
+ },
+ {
+  "id": "2023-122-legge",
+  "titolo": "Modifiche al decreto legislativo 20 febbraio 2006, n. 106, concernenti i poteri del procuratore della Repubblica nei casi di violazione dell'articolo ",
+  "rif": "Legge 8 settembre 2023, n. 122",
+  "sigla": "L. 122/2023",
+  "file": "",
+  "codice": "23G00132",
+  "dataGU": "2023-09-15",
+  "descrizione": "LEGGE 8 settembre 2023, n. 122"
+ },
+ {
+  "id": "2023-107-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2021/784 del Parlamento europeo e del Consiglio, del 29 aprile 2021, rela",
+  "rif": "Decreto legislativo 24 luglio 2023, n. 107",
+  "sigla": "D.Lgs. 107/2023",
+  "file": "",
+  "codice": "23G00114",
+  "dataGU": "2023-08-11",
+  "descrizione": "DECRETO LEGISLATIVO 24 luglio 2023, n. 107"
+ },
+ {
+  "id": "2023-182-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 2018/1727 del Parlamento europeo e del Consiglio, del 14 novembre 2018",
+  "rif": "Decreto legislativo 23 novembre 2023, n. 182",
+  "sigla": "D.Lgs. 182/2023",
+  "file": "",
+  "codice": "23G00190",
+  "dataGU": "2023-12-09",
+  "descrizione": "DECRETO LEGISLATIVO 23 novembre 2023, n. 182"
+ },
+ {
+  "id": "2023-184-dlgs",
+  "titolo": "Recepimento della direttiva (UE) 2021/2118 del Parlamento europeo e del Consiglio, del 24 novembre 2021, recante modifica della direttiva 2009/103/CE ",
+  "rif": "Decreto legislativo 22 novembre 2023, n. 184",
+  "sigla": "D.Lgs. 184/2023",
+  "file": "",
+  "codice": "23G00196",
+  "dataGU": "2023-12-13",
+  "descrizione": "DECRETO LEGISLATIVO 22 novembre 2023, n. 184"
+ },
+ {
+  "id": "2024-6-legge",
+  "titolo": "Disposizioni sanzionatorie in materia di distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paes",
+  "rif": "Legge 22 gennaio 2024, n. 6",
+  "sigla": "L. 6/2024",
+  "file": "",
+  "codice": "24G00016",
+  "dataGU": "2024-01-24",
+  "descrizione": "LEGGE 22 gennaio 2024, n. 6"
+ },
+ {
+  "id": "2024-25-legge",
+  "titolo": "Modifiche agli articoli 61, 336 e 341-bis del codice penale e altre disposizioni per la tutela della sicurezza del personale scolastico.",
+  "rif": "Legge 4 marzo 2024, n. 25",
+  "sigla": "L. 25/2024",
+  "file": "",
+  "codice": "24G00043",
+  "dataGU": "2024-03-15",
+  "descrizione": "LEGGE 4 marzo 2024, n. 25"
+ },
+ {
+  "id": "2024-31-dlgs",
+  "titolo": "Disposizioni integrative e correttive del decreto legislativo 10 ottobre 2022, n. 150, di attuazione della legge 27 settembre 2021, n. 134, recante de",
+  "rif": "Decreto legislativo 19 marzo 2024, n. 31",
+  "sigla": "D.Lgs. 31/2024",
+  "file": "",
+  "codice": "24G00052",
+  "dataGU": "2024-03-20",
+  "descrizione": "DECRETO LEGISLATIVO 19 marzo 2024, n. 31"
+ },
+ {
+  "id": "2024-70-legge",
+  "titolo": "Disposizioni e delega al Governo in materia di prevenzione e contrasto del bullismo e del cyberbullismo.",
+  "rif": "Legge 17 maggio 2024, n. 70",
+  "sigla": "L. 70/2024",
+  "file": "",
+  "codice": "24G00086",
+  "dataGU": "2024-05-30",
+  "descrizione": "LEGGE 17 maggio 2024, n. 70"
+ },
+ {
+  "id": "2024-90-legge",
+  "titolo": "Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici.",
+  "rif": "Legge 28 giugno 2024, n. 90",
+  "sigla": "L. 90/2024",
+  "file": "",
+  "codice": "24G00108",
+  "dataGU": "2024-07-02",
+  "descrizione": "LEGGE 28 giugno 2024, n. 90"
+ },
+ {
+  "id": "2024-112-legge",
+  "titolo": "Conversione D.L.: misure urgenti in materia penitenziaria, di giustizia civile e penale e di personale del Ministero della giustizia.",
+  "rif": "Legge 8 agosto 2024, n. 112",
+  "sigla": "L. 112/2024",
+  "file": "",
+  "codice": "24G00133",
+  "dataGU": "2024-08-09",
+  "descrizione": "LEGGE 8 agosto 2024, n. 112"
+ },
+ {
+  "id": "2024-114-legge",
+  "titolo": "Modifiche al codice penale, al codice di procedura penale, all'ordinamento giudiziario e al codice dell'ordinamento militare.",
+  "rif": "Legge 9 agosto 2024, n. 114",
+  "sigla": "L. 114/2024",
+  "file": "",
+  "codice": "24G00122",
+  "dataGU": "2024-08-10",
+  "descrizione": "LEGGE 9 agosto 2024, n. 114"
+ },
+ {
+  "id": "2024-137-dl",
+  "titolo": "Misure urgenti per contrastare i fenomeni di violenza nei confronti dei professionisti sanitari, socio-sanitari, ausiliari e di assistenza e cura nell",
+  "rif": "Decreto-legge 1 ottobre 2024, n. 137",
+  "sigla": "D.L. 137/2024",
+  "file": "",
+  "codice": "24G00158",
+  "dataGU": "2024-10-01",
+  "descrizione": "DECRETO-LEGGE 1 ottobre 2024, n. 137"
+ },
+ {
+  "id": "2024-171-legge",
+  "titolo": "Conversione D.L.: misure urgenti per contrastare i fenomeni di violenza nei confronti dei professionisti sanitari, socio-sanitari, ausiliari e di assi",
+  "rif": "Legge 18 novembre 2024, n. 171",
+  "sigla": "L. 171/2024",
+  "file": "",
+  "codice": "24G00190",
+  "dataGU": "2024-11-25",
+  "descrizione": "LEGGE 18 novembre 2024, n. 171"
+ },
+ {
+  "id": "2024-187-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di ingresso in Italia di lavoratori stranieri, di tutela e assistenza alle vittime di caporalato, di",
+  "rif": "Legge 9 dicembre 2024, n. 187",
+  "sigla": "L. 187/2024",
+  "file": "",
+  "codice": "24G00206",
+  "dataGU": "2024-12-10",
+  "descrizione": "LEGGE 9 dicembre 2024, n. 187"
+ },
+ {
+  "id": "2024-169-legge",
+  "titolo": "Modifica all'articolo 12 della legge 19 febbraio 2004, n. 40, in materia di perseguibilita' del reato di surrogazione di maternita' commesso all'ester",
+  "rif": "Legge 4 novembre 2024, n. 169",
+  "sigla": "L. 169/2024",
+  "file": "",
+  "codice": "24G00187",
+  "dataGU": "2024-11-18",
+  "descrizione": "LEGGE 4 novembre 2024, n. 169"
+ },
+ {
+  "id": "2024-177-legge",
+  "titolo": "Interventi in materia di sicurezza stradale e delega al Governo per la revisione del codice della strada, di cui al decreto legislativo 30 aprile 1992",
+  "rif": "Legge 25 novembre 2024, n. 177",
+  "sigla": "L. 177/2024",
+  "file": "",
+  "codice": "24G00199",
+  "dataGU": "2024-11-29",
+  "descrizione": "LEGGE 25 novembre 2024, n. 177"
+ },
+ {
+  "id": "2024-141-dlgs",
+  "titolo": "Disposizioni nazionali complementari al codice doganale dell'Unione e revisione del sistema sanzionatorio in materia di accise e altre imposte indiret",
+  "rif": "Decreto legislativo 26 settembre 2024, n. 141",
+  "sigla": "D.Lgs. 141/2024",
+  "file": "",
+  "codice": "24G00156",
+  "dataGU": "2024-10-03",
+  "descrizione": "DECRETO LEGISLATIVO 26 settembre 2024, n. 141"
+ },
+ {
+  "id": "2024-156-dlgs",
+  "titolo": "Adeguamento della disciplina sanzionatoria prevista dal testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, pre",
+  "rif": "Decreto legislativo 7 ottobre 2024, n. 156",
+  "sigla": "D.Lgs. 156/2024",
+  "file": "",
+  "codice": "24G00172",
+  "dataGU": "2024-10-21",
+  "descrizione": "DECRETO LEGISLATIVO 7 ottobre 2024, n. 156"
+ },
+ {
+  "id": "2024-173-dlgs",
+  "titolo": "Testo unico delle sanzioni tributarie amministrative e penali.",
+  "rif": "Decreto legislativo 5 novembre 2024, n. 173",
+  "sigla": "D.Lgs. 173/2024",
+  "file": "",
+  "codice": "24G00191",
+  "dataGU": "2024-11-28",
+  "descrizione": "DECRETO LEGISLATIVO 5 novembre 2024, n. 173"
+ },
+ {
+  "id": "2025-37-dl",
+  "titolo": "Disposizioni urgenti per il contrasto dell'immigrazione irregolare.",
+  "rif": "Decreto-legge 28 marzo 2025, n. 37",
+  "sigla": "D.L. 37/2025",
+  "file": "",
+  "codice": "25G00050",
+  "dataGU": "2025-03-28",
+  "descrizione": "DECRETO-LEGGE 28 marzo 2025, n. 37"
+ },
+ {
+  "id": "2025-75-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti per il contrasto dell'immigrazione irregolare.",
+  "rif": "Legge 23 maggio 2025, n. 75",
+  "sigla": "L. 75/2025",
+  "file": "",
+  "codice": "25G00083",
+  "dataGU": "2025-05-23",
+  "descrizione": "LEGGE 23 maggio 2025, n. 75"
+ },
+ {
+  "id": "2025-36-dl",
+  "titolo": "Disposizioni urgenti in materia di cittadinanza.",
+  "rif": "Decreto-legge 28 marzo 2025, n. 36",
+  "sigla": "D.L. 36/2025",
+  "file": "",
+  "codice": "25G00049",
+  "dataGU": "2025-03-28",
+  "descrizione": "DECRETO-LEGGE 28 marzo 2025, n. 36"
+ },
+ {
+  "id": "2025-74-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di cittadinanza.",
+  "rif": "Legge 23 maggio 2025, n. 74",
+  "sigla": "L. 74/2025",
+  "file": "",
+  "codice": "25G00082",
+  "dataGU": "2025-05-23",
+  "descrizione": "LEGGE 23 maggio 2025, n. 74"
+ },
+ {
+  "id": "2025-42-legge",
+  "titolo": "Misure in materia di ordinamento, organizzazione e funzionamento delle Forze di polizia, delle Forze armate nonche' del Corpo nazionale dei vigili del",
+  "rif": "Legge 4 aprile 2025, n. 42",
+  "sigla": "L. 42/2025",
+  "file": "",
+  "codice": "25G00053",
+  "dataGU": "2025-04-04",
+  "descrizione": "LEGGE 4 aprile 2025, n. 42"
+ },
+ {
+  "id": "2025-47-legge",
+  "titolo": "Modifiche alla disciplina in materia di durata delle operazioni di intercettazione.",
+  "rif": "Legge 31 marzo 2025, n. 47",
+  "sigla": "L. 47/2025",
+  "file": "",
+  "codice": "25G00055",
+  "dataGU": "2025-04-09",
+  "descrizione": "LEGGE 31 marzo 2025, n. 47"
+ },
+ {
+  "id": "2025-80-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di sicurezza pubblica, di tutela del personale in servizio, nonche' di vittime dell'usura e di ordin",
+  "rif": "Legge 9 giugno 2025, n. 80",
+  "sigla": "L. 80/2025",
+  "file": "",
+  "codice": "25G00088",
+  "dataGU": "2025-06-09",
+  "descrizione": "LEGGE 9 giugno 2025, n. 80"
+ },
+ {
+  "id": "2025-58-legge",
+  "titolo": "Modifiche all'articolo 9 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di semplificazione delle procedure ",
+  "rif": "Legge 9 aprile 2025, n. 58",
+  "sigla": "L. 58/2025",
+  "file": "",
+  "codice": "25G00062",
+  "dataGU": "2025-04-28",
+  "descrizione": "LEGGE 9 aprile 2025, n. 58"
+ },
+ {
+  "id": "2025-82-legge",
+  "titolo": "Modifiche al codice penale, al codice di procedura penale e altre disposizioni per l'integrazione e l'armonizzazione della disciplina in materia di re",
+  "rif": "Legge 6 giugno 2025, n. 82",
+  "sigla": "L. 82/2025",
+  "file": "",
+  "codice": "25G00089",
+  "dataGU": "2025-06-16",
+  "descrizione": "LEGGE 6 giugno 2025, n. 82"
+ },
+ {
+  "id": "2025-99-dlgs",
+  "titolo": "Disposizioni in materia di prevenzione e contrasto del bullismo e del cyberbullismo, in attuazione della delega di cui all'articolo 3 della legge 17 m",
+  "rif": "Decreto legislativo 12 giugno 2025, n. 99",
+  "sigla": "D.Lgs. 99/2025",
+  "file": "",
+  "codice": "25G00100",
+  "dataGU": "2025-07-01",
+  "descrizione": "DECRETO LEGISLATIVO 12 giugno 2025, n. 99"
+ },
+ {
+  "id": "2025-116-dl",
+  "titolo": "Disposizioni urgenti per il contrasto alle attivita' illecite in materia di rifiuti, per la bonifica dell'area denominata Terra dei fuochi ((e per l'i",
+  "rif": "Decreto-legge 8 agosto 2025, n. 116",
+  "sigla": "D.L. 116/2025",
+  "file": "",
+  "codice": "25G00128",
+  "dataGU": "2025-08-08",
+  "descrizione": "DECRETO-LEGGE 8 agosto 2025, n. 116"
+ },
+ {
+  "id": "2025-147-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti per il contrasto alle attivita' illecite in materia di rifiuti, per la bonifica dell'area denominata Terra dei ",
+  "rif": "Legge 3 ottobre 2025, n. 147",
+  "sigla": "L. 147/2025",
+  "file": "",
+  "codice": "25G00154",
+  "dataGU": "2025-10-07",
+  "descrizione": "LEGGE 3 ottobre 2025, n. 147"
+ },
+ {
+  "id": "2025-117-dl",
+  "titolo": "Misure urgenti in materia di giustizia.",
+  "rif": "Decreto-legge 8 agosto 2025, n. 117",
+  "sigla": "D.L. 117/2025",
+  "file": "",
+  "codice": "25G00131",
+  "dataGU": "2025-08-08",
+  "descrizione": "DECRETO-LEGGE 8 agosto 2025, n. 117"
+ },
+ {
+  "id": "2025-148-legge",
+  "titolo": "Conversione D.L.: misure urgenti in materia di giustizia.",
+  "rif": "Legge 3 ottobre 2025, n. 148",
+  "sigla": "L. 148/2025",
+  "file": "",
+  "codice": "25G00155",
+  "dataGU": "2025-10-07",
+  "descrizione": "LEGGE 3 ottobre 2025, n. 148"
+ },
+ {
+  "id": "2025-146-dl",
+  "titolo": "Disposizioni urgenti in materia di ingresso regolare di lavoratori e cittadini stranieri, nonche' di gestione del fenomeno migratorio.",
+  "rif": "Decreto-legge 3 ottobre 2025, n. 146",
+  "sigla": "D.L. 146/2025",
+  "file": "",
+  "codice": "25G00157",
+  "dataGU": "2025-10-03",
+  "descrizione": "DECRETO-LEGGE 3 ottobre 2025, n. 146"
+ },
+ {
+  "id": "2025-179-legge",
+  "titolo": "Conversione D.L.: disposizioni urgenti in materia di ingresso regolare di lavoratori e cittadini stranieri, nonche' di gestione del fenomeno migratori",
+  "rif": "Legge 1 dicembre 2025, n. 179",
+  "sigla": "L. 179/2025",
+  "file": "",
+  "codice": "25G00189",
+  "dataGU": "2025-12-01",
+  "descrizione": "LEGGE 1 dicembre 2025, n. 179"
+ },
+ {
+  "id": "2025-181-legge",
+  "titolo": "Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle v",
+  "rif": "Legge 2 dicembre 2025, n. 181",
+  "sigla": "L. 181/2025",
+  "file": "",
+  "codice": "25G00187",
+  "dataGU": "2025-12-02",
+  "descrizione": "LEGGE 2 dicembre 2025, n. 181"
+ },
+ {
+  "id": "2025-67-dm",
+  "titolo": "Regolamento recante la disciplina dell'anagrafe nazionale delle patenti nautiche.",
+  "rif": "Decreto ministeriale 11 marzo 2025, n. 67",
+  "sigla": "D.M. 67/2025",
+  "file": "",
+  "codice": "25G00074",
+  "dataGU": "2025-05-09",
+  "descrizione": "DECRETO 11 marzo 2025, n. 67"
+ },
+ {
+  "id": "2025-159-dl",
+  "titolo": "Misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile.",
+  "rif": "Decreto-legge 31 ottobre 2025, n. 159",
+  "sigla": "D.L. 159/2025",
+  "file": "",
+  "codice": "25G00172",
+  "dataGU": "2025-10-31",
+  "descrizione": "DECRETO-LEGGE 31 ottobre 2025, n. 159"
+ },
+ {
+  "id": "2025-198-legge",
+  "titolo": "Conversione D.L.: misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile.",
+  "rif": "Legge 29 dicembre 2025, n. 198",
+  "sigla": "L. 198/2025",
+  "file": "",
+  "codice": "25G00203",
+  "dataGU": "2025-12-30",
+  "descrizione": "LEGGE 29 dicembre 2025, n. 198"
+ },
+ {
+  "id": "2025-176-dpr",
+  "titolo": "Regolamento recante modifiche al decreto del Presidente della Repubblica 30 giugno 2000, n. 230, in materia di procedimento per la concessione della l",
+  "rif": "Decreto del Presidente della Repubblica 3 ottobre 2025, n. 176",
+  "sigla": "D.P.R. 176/2025",
+  "file": "",
+  "codice": "25G00184",
+  "dataGU": "2025-11-25",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 3 ottobre 2025, n. 176"
  }
 ]
