@@ -468,5 +468,195 @@
   "codice": "081U0689",
   "dataGU": "1981-11-30",
   "descrizione": "LEGGE 24 novembre 1981, n. 689"
+ },
+ {
+  "id": "1942-262-rd",
+  "titolo": "Codice civile",
+  "rif": "R.D. 16 marzo 1942, n. 262",
+  "sigla": "c.c.",
+  "file": "",
+  "codice": "042U0262",
+  "dataGU": "1942-04-04",
+  "descrizione": "REGIO DECRETO 16 marzo 1942, n. 262"
+ },
+ {
+  "id": "1940-1443-rd",
+  "titolo": "Codice di procedura civile",
+  "rif": "R.D. 28 ottobre 1940, n. 1443",
+  "sigla": "c.p.c.",
+  "file": "",
+  "codice": "040U1443",
+  "dataGU": "1940-10-28",
+  "descrizione": "REGIO DECRETO 28 ottobre 1940, n. 1443"
+ },
+ {
+  "id": "1941-303-rd",
+  "titolo": "Codici penali militari (pace e guerra)",
+  "rif": "R.D. 20 febbraio 1941, n. 303",
+  "sigla": "c.p.m.p./c.p.m.g.",
+  "file": "",
+  "codice": "041U0303",
+  "dataGU": "1941-05-06",
+  "descrizione": "REGIO DECRETO 20 febbraio 1941, n. 303"
+ },
+ {
+  "id": "2003-196-dlgs",
+  "titolo": "Codice in materia di protezione dei dati personali",
+  "rif": "D.Lgs. 30 giugno 2003, n. 196",
+  "sigla": "Codice privacy",
+  "file": "",
+  "codice": "003G0218",
+  "dataGU": "2003-07-29",
+  "descrizione": "DECRETO LEGISLATIVO 30 giugno 2003, n. 196"
+ },
+ {
+  "id": "2005-82-dlgs",
+  "titolo": "Codice dell'amministrazione digitale",
+  "rif": "D.Lgs. 7 marzo 2005, n. 82",
+  "sigla": "C.A.D.",
+  "file": "",
+  "codice": "005G0104",
+  "dataGU": "2005-05-16",
+  "descrizione": "DECRETO LEGISLATIVO 7 marzo 2005, n. 82"
+ },
+ {
+  "id": "2005-206-dlgs",
+  "titolo": "Codice del consumo",
+  "rif": "D.Lgs. 6 settembre 2005, n. 206",
+  "sigla": "Codice del consumo",
+  "file": "",
+  "codice": "005G0232",
+  "dataGU": "2005-10-08",
+  "descrizione": "DECRETO LEGISLATIVO 6 settembre 2005, n. 206"
+ },
+ {
+  "id": "2005-30-dlgs",
+  "titolo": "Codice della proprietà industriale",
+  "rif": "D.Lgs. 10 febbraio 2005, n. 30",
+  "sigla": "C.P.I.",
+  "file": "",
+  "codice": "005G0055",
+  "dataGU": "2005-03-04",
+  "descrizione": "DECRETO LEGISLATIVO 10 febbraio 2005, n. 30"
+ },
+ {
+  "id": "2005-209-dlgs",
+  "titolo": "Codice delle assicurazioni private",
+  "rif": "D.Lgs. 7 settembre 2005, n. 209",
+  "sigla": "Codice assicurazioni",
+  "file": "",
+  "codice": "005G0233",
+  "dataGU": "2005-10-13",
+  "descrizione": "DECRETO LEGISLATIVO 7 settembre 2005, n. 209"
+ },
+ {
+  "id": "2023-36-dlgs",
+  "titolo": "Codice dei contratti pubblici",
+  "rif": "D.Lgs. 31 marzo 2023, n. 36",
+  "sigla": "Codice appalti",
+  "file": "",
+  "codice": "23G00044",
+  "dataGU": "2023-03-31",
+  "descrizione": "DECRETO LEGISLATIVO 31 marzo 2023, n. 36"
+ },
+ {
+  "id": "2011-159-dlgs",
+  "titolo": "Codice delle leggi antimafia",
+  "rif": "D.Lgs. 6 settembre 2011, n. 159",
+  "sigla": "Codice antimafia",
+  "file": "",
+  "codice": "011G0201",
+  "dataGU": "2011-09-28",
+  "descrizione": "DECRETO LEGISLATIVO 6 settembre 2011, n. 159"
+ },
+ {
+  "id": "2010-104-dlgs",
+  "titolo": "Codice del processo amministrativo",
+  "rif": "D.Lgs. 2 luglio 2010, n. 104",
+  "sigla": "c.p.a.",
+  "file": "",
+  "codice": "010G0127",
+  "dataGU": "2010-07-07",
+  "descrizione": "DECRETO LEGISLATIVO 2 luglio 2010, n. 104"
+ },
+ {
+  "id": "2018-1-dlgs",
+  "titolo": "Codice della protezione civile",
+  "rif": "D.Lgs. 2 gennaio 2018, n. 1",
+  "sigla": "Codice prot. civile",
+  "file": "",
+  "codice": "18G00011",
+  "dataGU": "2018-01-22",
+  "descrizione": "DECRETO LEGISLATIVO 2 gennaio 2018, n. 1"
+ },
+ {
+  "id": "2017-117-dlgs",
+  "titolo": "Codice del Terzo settore",
+  "rif": "D.Lgs. 3 luglio 2017, n. 117",
+  "sigla": "Codice Terzo settore",
+  "file": "",
+  "codice": "17G00128",
+  "dataGU": "2017-08-02",
+  "descrizione": "DECRETO LEGISLATIVO 3 luglio 2017, n. 117"
+ },
+ {
+  "id": "2019-14-dlgs",
+  "titolo": "Codice della crisi d'impresa e dell'insolvenza",
+  "rif": "D.Lgs. 12 gennaio 2019, n. 14",
+  "sigla": "Codice crisi",
+  "file": "",
+  "codice": "19G00007",
+  "dataGU": "2019-02-14",
+  "descrizione": "DECRETO LEGISLATIVO 12 gennaio 2019, n. 14"
+ },
+ {
+  "id": "2003-259-dlgs",
+  "titolo": "Codice delle comunicazioni elettroniche",
+  "rif": "D.Lgs. 1 agosto 2003, n. 259",
+  "sigla": "Codice comunicazioni",
+  "file": "",
+  "codice": "003G0280",
+  "dataGU": "2003-09-15",
+  "descrizione": "DECRETO LEGISLATIVO 1 agosto 2003, n. 259"
+ },
+ {
+  "id": "2006-198-dlgs",
+  "titolo": "Codice delle pari opportunità",
+  "rif": "D.Lgs. 11 aprile 2006, n. 198",
+  "sigla": "Codice pari opportunità",
+  "file": "",
+  "codice": "006G0216",
+  "dataGU": "2006-05-31",
+  "descrizione": "DECRETO LEGISLATIVO 11 aprile 2006, n. 198"
+ },
+ {
+  "id": "2011-79-dlgs",
+  "titolo": "Codice del turismo",
+  "rif": "D.Lgs. 23 maggio 2011, n. 79",
+  "sigla": "Codice turismo",
+  "file": "",
+  "codice": "011G0123",
+  "dataGU": "2011-06-06",
+  "descrizione": "DECRETO LEGISLATIVO 23 maggio 2011, n. 79"
+ },
+ {
+  "id": "2016-174-dlgs",
+  "titolo": "Codice di giustizia contabile",
+  "rif": "D.Lgs. 26 agosto 2016, n. 174",
+  "sigla": "Codice giust. contabile",
+  "file": "",
+  "codice": "16G00187",
+  "dataGU": "2016-09-07",
+  "descrizione": "DECRETO LEGISLATIVO 26 agosto 2016, n. 174"
+ },
+ {
+  "id": "2008-81-dlgs",
+  "titolo": "Testo unico sicurezza sul lavoro",
+  "rif": "D.Lgs. 9 aprile 2008, n. 81",
+  "sigla": "T.U. sicurezza lavoro",
+  "file": "",
+  "codice": "008G0104",
+  "dataGU": "2008-04-30",
+  "descrizione": "DECRETO LEGISLATIVO 9 aprile 2008, n. 81"
  }
 ]
