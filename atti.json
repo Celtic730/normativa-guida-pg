@@ -3918,5 +3918,675 @@
   "codice": "26G00010",
   "dataGU": "2026-01-09",
   "descrizione": "DECRETO LEGISLATIVO 7 gennaio 2026, n. 2"
+ },
+ {
+  "id": "1990-309-dpr",
+  "titolo": "Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza.",
+  "rif": "D.P.R. 9 ottobre 1990, n. 309",
+  "sigla": "D.P.R. 309/1990",
+  "file": "",
+  "codice": "090G0363",
+  "dataGU": "1990-10-31",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 9 ottobre 1990, n. 309"
+ },
+ {
+  "id": "1975-152-legge",
+  "titolo": "Disposizioni a tutela dell'ordine pubblico.",
+  "rif": "Legge 22 maggio 1975, n. 152",
+  "sigla": "Legge 152/1975",
+  "file": "",
+  "codice": "075U0152",
+  "dataGU": "1975-05-24",
+  "descrizione": "LEGGE 22 maggio 1975, n. 152"
+ },
+ {
+  "id": "1992-306-dl",
+  "titolo": "Modifiche urgenti al nuovo codice di procedura penale e provvedimenti di contrasto alla criminalita' mafiosa.",
+  "rif": "D.L. 8 giugno 1992, n. 306",
+  "sigla": "D.L. 306/1992",
+  "file": "",
+  "codice": "092G0353",
+  "dataGU": "1992-06-08",
+  "descrizione": "DECRETO-LEGGE 8 giugno 1992, n. 306"
+ },
+ {
+  "id": "2013-93-dl",
+  "titolo": "Disposizioni urgenti in materia di sicurezza e per il contrasto della violenza di genere, nonche' in tema di protezione civile e di commissariamento delle province.",
+  "rif": "D.L. 14 agosto 2013, n. 93",
+  "sigla": "D.L. 93/2013",
+  "file": "",
+  "codice": "13G00141",
+  "dataGU": "2013-08-16",
+  "descrizione": "DECRETO-LEGGE 14 agosto 2013, n. 93"
+ },
+ {
+  "id": "1993-122-dl",
+  "titolo": "Misure urgenti in materia di discriminazione razziale, etnica e religiosa.",
+  "rif": "D.L. 26 aprile 1993, n. 122",
+  "sigla": "D.L. 122/1993",
+  "file": "",
+  "codice": "093G0187",
+  "dataGU": "1993-04-27",
+  "descrizione": "DECRETO-LEGGE 26 aprile 1993, n. 122"
+ },
+ {
+  "id": "2019-69-legge",
+  "titolo": "Modifiche al codice penale, al codice di procedura penale e altre disposizioni in materia di tutela delle vittime di violenza domestica e di genere.",
+  "rif": "Legge 19 luglio 2019, n. 69",
+  "sigla": "Legge 69/2019",
+  "file": "",
+  "codice": "19G00076",
+  "dataGU": "2019-07-25",
+  "descrizione": "LEGGE 19 luglio 2019, n. 69"
+ },
+ {
+  "id": "2000-274-dlgs",
+  "titolo": "Disposizioni sulla competenza penale del giudice di pace, a norma dell'articolo 14 della legge 24 novembre 1999, n. 468.",
+  "rif": "D.Lgs. 28 agosto 2000, n. 274",
+  "sigla": "D.Lgs. 274/2000",
+  "file": "",
+  "codice": "000G0324",
+  "dataGU": "2000-10-06",
+  "descrizione": "DECRETO LEGISLATIVO 28 agosto 2000, n. 274"
+ },
+ {
+  "id": "1990-55-legge",
+  "titolo": "Nuove disposizioni per la prevenzione della delinquenza di tipo mafioso e di altre gravi forme di manifestazione di pericolosita' sociale.",
+  "rif": "Legge 19 marzo 1990, n. 55",
+  "sigla": "Legge 55/1990",
+  "file": "",
+  "codice": "090G0088",
+  "dataGU": "1990-03-23",
+  "descrizione": "LEGGE 19 marzo 1990, n. 55"
+ },
+ {
+  "id": "2009-11-dl",
+  "titolo": "Misure urgenti in materia di sicurezza pubblica e di contrasto alla violenza sessuale, nonche' in tema di atti persecutori.",
+  "rif": "D.L. 23 febbraio 2009, n. 11",
+  "sigla": "D.L. 11/2009",
+  "file": "",
+  "codice": "009G0019",
+  "dataGU": "2009-02-24",
+  "descrizione": "DECRETO-LEGGE 23 febbraio 2009, n. 11"
+ },
+ {
+  "id": "2022-46-legge",
+  "titolo": "Norme sull'esercizio della liberta' sindacale del personale delle Forze armate e delle Forze di polizia a ordinamento militare, nonche' delega al Governo per il coordinamento normativo.",
+  "rif": "Legge 28 aprile 2022, n. 46",
+  "sigla": "Legge 46/2022",
+  "file": "",
+  "codice": "22G00055",
+  "dataGU": "2022-05-12",
+  "descrizione": "LEGGE 28 aprile 2022, n. 46"
+ },
+ {
+  "id": "2005-45-dl",
+  "titolo": "Disposizioni urgenti per la funzionalita' dell'Amministrazione della pubblica sicurezza, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco.",
+  "rif": "D.L. 31 marzo 2005, n. 45",
+  "sigla": "D.L. 45/2005",
+  "file": "",
+  "codice": "005G0068",
+  "dataGU": "2005-04-01",
+  "descrizione": "DECRETO-LEGGE 31 marzo 2005, n. 45"
+ },
+ {
+  "id": "1991-152-dl",
+  "titolo": "Provvedimenti urgenti in tema di lotta alla criminalita' organizzata e di trasparenza e buon andamento dell'attivita' amministrativa.",
+  "rif": "D.L. 13 maggio 1991, n. 152",
+  "sigla": "D.L. 152/1991",
+  "file": "",
+  "codice": "091G0191",
+  "dataGU": "1991-05-13",
+  "descrizione": "DECRETO-LEGGE 13 maggio 1991, n. 152"
+ },
+ {
+  "id": "1998-112-dlgs",
+  "titolo": "Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59.",
+  "rif": "D.Lgs. 31 marzo 1998, n. 112",
+  "sigla": "D.Lgs. 112/1998",
+  "file": "",
+  "codice": "098G0159",
+  "dataGU": "1998-04-21",
+  "descrizione": "DECRETO LEGISLATIVO 31 marzo 1998, n. 112"
+ },
+ {
+  "id": "1977-533-legge",
+  "titolo": "Disposizioni in materia di ordine pubblico.",
+  "rif": "Legge 8 agosto 1977, n. 533",
+  "sigla": "Legge 533/1977",
+  "file": "",
+  "codice": "077U0533",
+  "dataGU": "1977-08-20",
+  "descrizione": "LEGGE 8 agosto 1977, n. 533"
+ },
+ {
+  "id": "1962-283-legge",
+  "titolo": "Modifica degli articoli 242, 243, 247, 250 e 262 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265: Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande.",
+  "rif": "Legge 30 aprile 1962, n. 283",
+  "sigla": "Legge 283/1962",
+  "file": "",
+  "codice": "062U0283",
+  "dataGU": "1962-06-04",
+  "descrizione": "LEGGE 30 aprile 1962, n. 283"
+ },
+ {
+  "id": "2011-150-dlgs",
+  "titolo": "Disposizioni complementari al codice di procedura civile in materia di riduzione e semplificazione dei procedimenti civili di cognizione, ai sensi dell'articolo 54 della legge 18 giugno 2009, n. 69. (11G0192)",
+  "rif": "D.Lgs. 1 settembre 2011, n. 150",
+  "sigla": "D.Lgs. 150/2011",
+  "file": "",
+  "codice": "011G0192",
+  "dataGU": "2011-09-21",
+  "descrizione": "DECRETO LEGISLATIVO 1 settembre 2011, n. 150"
+ },
+ {
+  "id": "1992-104-legge",
+  "titolo": "Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate.",
+  "rif": "Legge 5 febbraio 1992, n. 104",
+  "sigla": "Legge 104/1992",
+  "file": "",
+  "codice": "092G0108",
+  "dataGU": "1992-02-17",
+  "descrizione": "LEGGE 5 febbraio 1992, n. 104"
+ },
+ {
+  "id": "1978-59-dl",
+  "titolo": "Norme penali e processuali per la prevenzione e la repressione di gravi reati.",
+  "rif": "D.L. 21 marzo 1978, n. 59",
+  "sigla": "D.L. 59/1978",
+  "file": "",
+  "codice": "078U0059",
+  "dataGU": "1978-03-22",
+  "descrizione": "DECRETO-LEGGE 21 marzo 1978, n. 59"
+ },
+ {
+  "id": "1952-645-legge",
+  "titolo": "Norme di attuazione della XII disposizione transitoria e finale (comma primo) della Costituzione.",
+  "rif": "Legge 20 giugno 1952, n. 645",
+  "sigla": "Legge 645/1952",
+  "file": "",
+  "codice": "052U0645",
+  "dataGU": "1952-06-23",
+  "descrizione": "LEGGE 20 giugno 1952, n. 645"
+ },
+ {
+  "id": "2003-140-legge",
+  "titolo": "Disposizioni per l'attuazione dell'articolo 68 della Costituzione nonche' in materia di processi penali nei confronti delle alte cariche dello Stato.",
+  "rif": "Legge 20 giugno 2003, n. 140",
+  "sigla": "Legge 140/2003",
+  "file": "",
+  "codice": "003G0164",
+  "dataGU": "2003-06-21",
+  "descrizione": "LEGGE 20 giugno 2003, n. 140"
+ },
+ {
+  "id": "1989-401-legge",
+  "titolo": "Interventi nel settore del giuoco e delle scommesse clandestini e tutela della correttezza nello svolgimento di ((manifestazioni sportive)).",
+  "rif": "Legge 13 dicembre 1989, n. 401",
+  "sigla": "Legge 401/1989",
+  "file": "",
+  "codice": "089G0477",
+  "dataGU": "1989-12-18",
+  "descrizione": "LEGGE 13 dicembre 1989, n. 401"
+ },
+ {
+  "id": "2001-374-dl",
+  "titolo": "Disposizioni urgenti per contrastare il terrorismo internazionale.",
+  "rif": "D.L. 18 ottobre 2001, n. 374",
+  "sigla": "D.L. 374/2001",
+  "file": "",
+  "codice": "001G0440",
+  "dataGU": "2001-10-19",
+  "descrizione": "DECRETO-LEGGE 18 ottobre 2001, n. 374"
+ },
+ {
+  "id": "2005-144-dl",
+  "titolo": "Misure urgenti per il contrasto del terrorismo internazionale.",
+  "rif": "D.L. 27 luglio 2005, n. 144",
+  "sigla": "D.L. 144/2005",
+  "file": "",
+  "codice": "005G0176",
+  "dataGU": "2005-07-27",
+  "descrizione": "DECRETO-LEGGE 27 luglio 2005, n. 144"
+ },
+ {
+  "id": "2014-36-dl",
+  "titolo": "Disposizioni urgenti in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nonche' di impiego di medicinali ((...)).",
+  "rif": "D.L. 20 marzo 2014, n. 36",
+  "sigla": "D.L. 36/2014",
+  "file": "",
+  "codice": "14G00047",
+  "dataGU": "2014-03-21",
+  "descrizione": "DECRETO-LEGGE 20 marzo 2014, n. 36"
+ },
+ {
+  "id": "2016-242-legge",
+  "titolo": "Disposizioni per la promozione della coltivazione e della filiera agroindustriale della canapa.",
+  "rif": "Legge 2 dicembre 2016, n. 242",
+  "sigla": "Legge 242/2016",
+  "file": "",
+  "codice": "16G00258",
+  "dataGU": "2016-12-30",
+  "descrizione": "LEGGE 2 dicembre 2016, n. 242"
+ },
+ {
+  "id": "2016-41-legge",
+  "titolo": "Introduzione del reato di omicidio stradale e del reato di lesioni personali stradali, nonche' disposizioni di coordinamento al decreto legislativo 30 aprile 1992, n. 285, e al decreto legislativo 28 agosto 2000, n. 274.",
+  "rif": "Legge 23 marzo 2016, n. 41",
+  "sigla": "Legge 41/2016",
+  "file": "",
+  "codice": "16G00048",
+  "dataGU": "2016-03-24",
+  "descrizione": "LEGGE 23 marzo 2016, n. 41"
+ },
+ {
+  "id": "2017-110-legge",
+  "titolo": "Introduzione del delitto di tortura nell'ordinamento italiano.",
+  "rif": "Legge 14 luglio 2017, n. 110",
+  "sigla": "Legge 110/2017",
+  "file": "",
+  "codice": "17G00126",
+  "dataGU": "2017-07-18",
+  "descrizione": "LEGGE 14 luglio 2017, n. 110"
+ },
+ {
+  "id": "2008-25-dlgs",
+  "titolo": "Attuazione della direttiva 2005/85/CE recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato.",
+  "rif": "D.Lgs. 28 gennaio 2008, n. 25",
+  "sigla": "D.Lgs. 25/2008",
+  "file": "",
+  "codice": "008G0044",
+  "dataGU": "2008-02-16",
+  "descrizione": "DECRETO LEGISLATIVO 28 gennaio 2008, n. 25"
+ },
+ {
+  "id": "1941-633-legge",
+  "titolo": "Protezione del diritto d'autore e di altri diritti connessi al suo esercizio. (041U0633)",
+  "rif": "Legge 22 aprile 1941, n. 633",
+  "sigla": "Legge 633/1941",
+  "file": "",
+  "codice": "041U0633",
+  "dataGU": "1941-07-16",
+  "descrizione": "LEGGE 22 aprile 1941, n. 633"
+ },
+ {
+  "id": "2007-124-legge",
+  "titolo": "Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto.",
+  "rif": "Legge 3 agosto 2007, n. 124",
+  "sigla": "Legge 124/2007",
+  "file": "",
+  "codice": "007G0139",
+  "dataGU": "2007-08-13",
+  "descrizione": "LEGGE 3 agosto 2007, n. 124"
+ },
+ {
+  "id": "2015-7-dl",
+  "titolo": "Misure urgenti per il contrasto del terrorismo, anche di matrice internazionale, nonche' proroga delle missioni internazionali delle Forze armate e di polizia, iniziative di cooperazione allo sviluppo e sostegno ai processi di ricostruzione e partecipazione alle iniziative delle Organizzazioni internazionali per il consolidamento dei processi di pace e di stabilizzazione.",
+  "rif": "D.L. 18 febbraio 2015, n. 7",
+  "sigla": "D.L. 7/2015",
+  "file": "",
+  "codice": "15G00019",
+  "dataGU": "2015-02-19",
+  "descrizione": "DECRETO-LEGGE 18 febbraio 2015, n. 7"
+ },
+ {
+  "id": "1989-272-dlgs",
+  "titolo": "Norme di attuazione, di coordinamento e transitorie del decreto del Presidente della Repubblica 22 settembre 1988, n. 448, recante disposizioni sul processo penale a carico di imputati minorenni.",
+  "rif": "D.Lgs. 28 luglio 1989, n. 272",
+  "sigla": "D.Lgs. 272/1989",
+  "file": "",
+  "codice": "089G0341",
+  "dataGU": "1989-08-05",
+  "descrizione": "DECRETO LEGISLATIVO 28 luglio 1989, n. 272"
+ },
+ {
+  "id": "2019-161-dl",
+  "titolo": "Modifiche urgenti alla disciplina delle intercettazioni di conversazioni o comunicazioni.",
+  "rif": "D.L. 30 dicembre 2019, n. 161",
+  "sigla": "D.L. 161/2019",
+  "file": "",
+  "codice": "19G00169",
+  "dataGU": "2019-12-31",
+  "descrizione": "DECRETO-LEGGE 30 dicembre 2019, n. 161"
+ },
+ {
+  "id": "2019-36-legge",
+  "titolo": "Modifiche al codice penale e altre disposizioni in materia di legittima difesa.",
+  "rif": "Legge 26 aprile 2019, n. 36",
+  "sigla": "Legge 36/2019",
+  "file": "",
+  "codice": "19G00042",
+  "dataGU": "2019-05-03",
+  "descrizione": "LEGGE 26 aprile 2019, n. 36"
+ },
+ {
+  "id": "2005-272-dl",
+  "titolo": "Misure urgenti per garantire la sicurezza ed i finanziamenti per le prossime Olimpiadi invernali, nonche' la funzionalita' dell'Amministrazione dell'interno. Disposizioni per favorire il recupero di tossicodipendenti recidivi ((e modifiche al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.))",
+  "rif": "D.L. 30 dicembre 2005, n. 272",
+  "sigla": "D.L. 272/2005",
+  "file": "",
+  "codice": "005G0304",
+  "dataGU": "2005-12-30",
+  "descrizione": "DECRETO-LEGGE 30 dicembre 2005, n. 272"
+ },
+ {
+  "id": "2002-121-dl",
+  "titolo": "Disposizioni urgenti per garantire la sicurezza nella circolazione stradale.",
+  "rif": "D.L. 20 giugno 2002, n. 121",
+  "sigla": "D.L. 121/2002",
+  "file": "",
+  "codice": "002G0154",
+  "dataGU": "2002-06-21",
+  "descrizione": "DECRETO-LEGGE 20 giugno 2002, n. 121"
+ },
+ {
+  "id": "2000-146-dlgs",
+  "titolo": "Adeguamento delle strutture e degli organici dell'Amministrazione penitenziaria e dell'Ufficio centrale per la giustizia minorile, nonche' istituzione dei ruoli direttivi ordinario e speciale del Corpo di polizia penitenziaria, a norma dell'articolo 12 della legge 28 luglio 1999, n. 266.",
+  "rif": "D.Lgs. 21 maggio 2000, n. 146",
+  "sigla": "D.Lgs. 146/2000",
+  "file": "",
+  "codice": "000G0196",
+  "dataGU": "2000-06-08",
+  "descrizione": "DECRETO LEGISLATIVO 21 maggio 2000, n. 146"
+ },
+ {
+  "id": "2003-28-dl",
+  "titolo": "Disposizioni urgenti per contrastare i fenomeni di violenza in occasione di competizioni sportive.",
+  "rif": "D.L. 24 febbraio 2003, n. 28",
+  "sigla": "D.L. 28/2003",
+  "file": "",
+  "codice": "003G0048",
+  "dataGU": "2003-02-24",
+  "descrizione": "DECRETO-LEGGE 24 febbraio 2003, n. 28"
+ },
+ {
+  "id": "1998-114-dlgs",
+  "titolo": "Riforma della disciplina relativa al settore del commercio, a norma dell'articolo 4, comma 4, della legge 15 marzo 1997, n. 59.",
+  "rif": "D.Lgs. 31 marzo 1998, n. 114",
+  "sigla": "D.Lgs. 114/1998",
+  "file": "",
+  "codice": "098G0143",
+  "dataGU": "1998-04-24",
+  "descrizione": "DECRETO LEGISLATIVO 31 marzo 1998, n. 114"
+ },
+ {
+  "id": "1991-287-legge",
+  "titolo": "Aggiornamento della normativa sull'insediamento e sull'attivita' dei pubblici esercizi.",
+  "rif": "Legge 25 agosto 1991, n. 287",
+  "sigla": "Legge 287/1991",
+  "file": "",
+  "codice": "091G0328",
+  "dataGU": "1991-09-03",
+  "descrizione": "LEGGE 25 agosto 1991, n. 287"
+ },
+ {
+  "id": "2017-103-legge",
+  "titolo": "Modifiche al codice penale, al codice di procedura penale e all'ordinamento penitenziario.",
+  "rif": "Legge 23 giugno 2017, n. 103",
+  "sigla": "Legge 103/2017",
+  "file": "",
+  "codice": "17G00116",
+  "dataGU": "2017-07-04",
+  "descrizione": "LEGGE 23 giugno 2017, n. 103"
+ },
+ {
+  "id": "1993-8-dl",
+  "titolo": "Disposizioni urgenti in materia di finanza derivata e di contabilita' pubblica.",
+  "rif": "D.L. 18 gennaio 1993, n. 8",
+  "sigla": "D.L. 8/1993",
+  "file": "",
+  "codice": "092G0033",
+  "dataGU": "1993-01-19",
+  "descrizione": "DECRETO-LEGGE 18 gennaio 1993, n. 8"
+ },
+ {
+  "id": "1998-252-dpr",
+  "titolo": "Regolamento recante norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia.",
+  "rif": "D.P.R. 3 giugno 1998, n. 252",
+  "sigla": "D.P.R. 252/1998",
+  "file": "",
+  "codice": "098G0299",
+  "dataGU": "1998-07-30",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 3 giugno 1998, n. 252"
+ },
+ {
+  "id": "1986-65-legge",
+  "titolo": "Legge-quadro sull'ordinamento della polizia municipale.",
+  "rif": "Legge 7 marzo 1986, n. 65",
+  "sigla": "Legge 65/1986",
+  "file": "",
+  "codice": "086U0065",
+  "dataGU": "1986-03-15",
+  "descrizione": "LEGGE 7 marzo 1986, n. 65"
+ },
+ {
+  "id": "2022-57-dpr",
+  "titolo": "Recepimento dell'accordo sindacale per il personale non dirigente delle Forze di polizia ad ordinamento civile e del provvedimento di concertazione per il personale non dirigente delle Forze di polizia ad ordinamento militare «Triennio 2019-2021».",
+  "rif": "D.P.R. 20 aprile 2022, n. 57",
+  "sigla": "D.P.R. 57/2022",
+  "file": "",
+  "codice": "22G00066",
+  "dataGU": "2022-05-31",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 2022, n. 57"
+ },
+ {
+  "id": "2022-56-dpr",
+  "titolo": "Recepimento del provvedimento di concertazione per il personale non dirigente delle Forze armate «Triennio 2019-2021».",
+  "rif": "D.P.R. 20 aprile 2022, n. 56",
+  "sigla": "D.P.R. 56/2022",
+  "file": "",
+  "codice": "22G00065",
+  "dataGU": "2022-05-31",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 2022, n. 56"
+ },
+ {
+  "id": "1975-654-legge",
+  "titolo": "Ratifica ed esecuzione della convenzione internazionale sull'eliminazione di tutte le forme di discriminazione razziale, aperta alla firma a New York il 7 marzo 1966.",
+  "rif": "Legge 13 ottobre 1975, n. 654",
+  "sigla": "Legge 654/1975",
+  "file": "",
+  "codice": "075U0654",
+  "dataGU": "1975-12-23",
+  "descrizione": "LEGGE 13 ottobre 1975, n. 654"
+ },
+ {
+  "id": "1975-354-legge",
+  "titolo": "Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'.",
+  "rif": "Legge 26 luglio 1975, n. 354",
+  "sigla": "Legge 354/1975",
+  "file": "",
+  "codice": "075U0354",
+  "dataGU": "1975-08-09",
+  "descrizione": "LEGGE 26 luglio 1975, n. 354"
+ },
+ {
+  "id": "2000-230-dpr",
+  "titolo": "Regolamento recante norme sull'ordinamento penitenziario e sulle misure privative e limitative della liberta'.",
+  "rif": "D.P.R. 30 giugno 2000, n. 230",
+  "sigla": "D.P.R. 230/2000",
+  "file": "",
+  "codice": "000G0283",
+  "dataGU": "2000-08-22",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 2000, n. 230"
+ },
+ {
+  "id": "1948-47-legge",
+  "titolo": "Disposizioni sulla stampa.",
+  "rif": "Legge 8 febbraio 1948, n. 47",
+  "sigla": "Legge 47/1948",
+  "file": "",
+  "codice": "048U0047",
+  "dataGU": "1948-02-20",
+  "descrizione": "LEGGE 8 febbraio 1948, n. 47"
+ },
+ {
+  "id": "2016-35-dlgs",
+  "titolo": "Attuazione della decisione quadro 2003/577/GAI del Consiglio, del 22 luglio 2003, relativa all'esecuzione nell'Unione europea dei provvedimenti di blocco dei beni o di sequestro probatorio.",
+  "rif": "D.Lgs. 15 febbraio 2016, n. 35",
+  "sigla": "D.Lgs. 35/2016",
+  "file": "",
+  "codice": "16G00043",
+  "dataGU": "2016-03-11",
+  "descrizione": "DECRETO LEGISLATIVO 15 febbraio 2016, n. 35"
+ },
+ {
+  "id": "2017-216-dlgs",
+  "titolo": "Disposizioni in materia di intercettazioni di conversazioni o comunicazioni, in attuazione della delega di cui all'articolo 1, commi 82, 83 e 84, lettere a), b), c), d) ed e), della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 29 dicembre 2017, n. 216",
+  "sigla": "D.Lgs. 216/2017",
+  "file": "",
+  "codice": "18G00002",
+  "dataGU": "2018-01-11",
+  "descrizione": "DECRETO LEGISLATIVO 29 dicembre 2017, n. 216"
+ },
+ {
+  "id": "2003-228-legge",
+  "titolo": "Misure contro la tratta di persone.",
+  "rif": "Legge 11 agosto 2003, n. 228",
+  "sigla": "Legge 228/2003",
+  "file": "",
+  "codice": "003G0248",
+  "dataGU": "2003-08-23",
+  "descrizione": "LEGGE 11 agosto 2003, n. 228"
+ },
+ {
+  "id": "1993-547-legge",
+  "titolo": "Modificazioni ed integrazioni alle norme del codice penale e del codice di procedura penale in tema di criminalita' informatica.",
+  "rif": "Legge 23 dicembre 1993, n. 547",
+  "sigla": "Legge 547/1993",
+  "file": "",
+  "codice": "093G0633",
+  "dataGU": "1993-12-30",
+  "descrizione": "LEGGE 23 dicembre 1993, n. 547"
+ },
+ {
+  "id": "2021-132-dl",
+  "titolo": "Misure urgenti in materia di giustizia e di difesa, nonche' proroghe in tema di referendum, assegno temporaneo e IRAP.",
+  "rif": "D.L. 30 settembre 2021, n. 132",
+  "sigla": "D.L. 132/2021",
+  "file": "",
+  "codice": "21G00145",
+  "dataGU": "2021-09-30",
+  "descrizione": "DECRETO-LEGGE 30 settembre 2021, n. 132"
+ },
+ {
+  "id": "2010-136-legge",
+  "titolo": "Piano straordinario contro le mafie, nonche' delega al Governo in materia di normativa antimafia. (10G0162)",
+  "rif": "Legge 13 agosto 2010, n. 136",
+  "sigla": "Legge 136/2010",
+  "file": "",
+  "codice": "010G0162",
+  "dataGU": "2010-08-23",
+  "descrizione": "LEGGE 13 agosto 2010, n. 136"
+ },
+ {
+  "id": "2023-60-legge",
+  "titolo": "Norme in materia di procedibilita' d'ufficio e di arresto in flagranza.",
+  "rif": "Legge 24 maggio 2023, n. 60",
+  "sigla": "Legge 60/2023",
+  "file": "",
+  "codice": "23G00067",
+  "dataGU": "2023-06-01",
+  "descrizione": "LEGGE 24 maggio 2023, n. 60"
+ },
+ {
+  "id": "2003-215-dlgs",
+  "titolo": "Attuazione della direttiva 2000/43/CE per la parita' di trattamento tra le persone indipendentemente dalla razza e dall'origine etnica.",
+  "rif": "D.Lgs. 9 luglio 2003, n. 215",
+  "sigla": "D.Lgs. 215/2003",
+  "file": "",
+  "codice": "003G0239",
+  "dataGU": "2003-08-12",
+  "descrizione": "DECRETO LEGISLATIVO 9 luglio 2003, n. 215"
+ },
+ {
+  "id": "2003-216-dlgs",
+  "titolo": "Attuazione della direttiva 2000/78/CE per la parita' di trattamento in materia di occupazione e di condizioni di lavoro ((e della direttiva n. 2014/54/UE relativa alle misure intese ad agevolare l'esercizio dei diritti conferiti ai lavoratori nel quadro della libera circolazione dei lavoratori)).",
+  "rif": "D.Lgs. 9 luglio 2003, n. 216",
+  "sigla": "D.Lgs. 216/2003",
+  "file": "",
+  "codice": "003G0240",
+  "dataGU": "2003-08-13",
+  "descrizione": "DECRETO LEGISLATIVO 9 luglio 2003, n. 216"
+ },
+ {
+  "id": "1982-164-legge",
+  "titolo": "Norme in materia di rettificazione di attribuzione di sesso.",
+  "rif": "Legge 14 aprile 1982, n. 164",
+  "sigla": "Legge 164/1982",
+  "file": "",
+  "codice": "082U0164",
+  "dataGU": "1982-04-19",
+  "descrizione": "LEGGE 14 aprile 1982, n. 164"
+ },
+ {
+  "id": "2001-165-dlgs",
+  "titolo": "Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche.",
+  "rif": "D.Lgs. 30 marzo 2001, n. 165",
+  "sigla": "D.Lgs. 165/2001",
+  "file": "",
+  "codice": "001G0219",
+  "dataGU": "2001-05-09",
+  "descrizione": "DECRETO LEGISLATIVO 30 marzo 2001, n. 165"
+ },
+ {
+  "id": "2000-445-dpr",
+  "titolo": "Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa. (Testo A).",
+  "rif": "D.P.R. 28 dicembre 2000, n. 445",
+  "sigla": "D.P.R. 445/2000",
+  "file": "",
+  "codice": "001G0049",
+  "dataGU": "2001-02-20",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 2000, n. 445"
+ },
+ {
+  "id": "2001-231-dlgs",
+  "titolo": "Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'articolo 11 della legge 29 settembre 2000, n. 300.",
+  "rif": "D.Lgs. 8 giugno 2001, n. 231",
+  "sigla": "D.Lgs. 231/2001",
+  "file": "",
+  "codice": "001G0293",
+  "dataGU": "2001-06-19",
+  "descrizione": "DECRETO LEGISLATIVO 8 giugno 2001, n. 231"
+ },
+ {
+  "id": "1988-448-dpr",
+  "titolo": "Approvazione delle disposizioni sul processo penale a carico di imputati minorenni",
+  "rif": "D.P.R. 22 settembre 1988, n. 448",
+  "sigla": "D.P.R. 448/1988",
+  "file": "",
+  "codice": "088G0493",
+  "dataGU": "1988-10-24",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1988, n. 448"
+ },
+ {
+  "id": "2006-7-legge",
+  "titolo": "Disposizioni concernenti la prevenzione e il divieto delle pratiche di mutilazione genitale femminile.",
+  "rif": "Legge 9 gennaio 2006, n. 7",
+  "sigla": "Legge 7/2006",
+  "file": "",
+  "codice": "005G0307",
+  "dataGU": "2006-01-18",
+  "descrizione": "LEGGE 9 gennaio 2006, n. 7"
+ },
+ {
+  "id": "2009-18-legge",
+  "titolo": "Ratifica ed esecuzione della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', con Protocollo opzionale, fatta a New York il 13 dicembre 2006 e istituzione dell'Osservatorio nazionale sulla condizione delle persone con disabilita'.",
+  "rif": "Legge 3 marzo 2009, n. 18",
+  "sigla": "Legge 18/2009",
+  "file": "",
+  "codice": "009G0027",
+  "dataGU": "2009-03-14",
+  "descrizione": "LEGGE 3 marzo 2009, n. 18"
+ },
+ {
+  "id": "2009-94-legge",
+  "titolo": "Disposizioni in materia di sicurezza pubblica. (09G0096)",
+  "rif": "Legge 15 luglio 2009, n. 94",
+  "sigla": "Legge 94/2009",
+  "file": "",
+  "codice": "009G0096",
+  "dataGU": "2009-07-24",
+  "descrizione": "LEGGE 15 luglio 2009, n. 94"
  }
 ]
