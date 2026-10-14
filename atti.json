@@ -1848,5 +1848,2075 @@
   "codice": "25G00184",
   "dataGU": "2025-11-25",
   "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 3 ottobre 2025, n. 176"
+ },
+ {
+  "id": "2015-221-legge",
+  "titolo": "Disposizioni in materia ambientale per promuovere misure di green economy e per il contenimento dell'uso eccessivo di risorse naturali.",
+  "rif": "Legge 28 dicembre 2015, n. 221",
+  "sigla": "Legge 221/2015",
+  "file": "",
+  "codice": "16G00006",
+  "dataGU": "2016-01-18",
+  "descrizione": "LEGGE 28 dicembre 2015, n. 221"
+ },
+ {
+  "id": "2015-212-dlgs",
+  "titolo": "Attuazione della direttiva 2012/29/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012, che istituisce norme minime in materia di diritti, assistenza e protezione delle vittime di reato e che sostituisce la decisione quadro 2001/220/GAI.",
+  "rif": "D.Lgs. 15 dicembre 2015, n. 212",
+  "sigla": "D.Lgs. 212/2015",
+  "file": "",
+  "codice": "15G00221",
+  "dataGU": "2016-01-05",
+  "descrizione": "DECRETO LEGISLATIVO 15 dicembre 2015, n. 212"
+ },
+ {
+  "id": "2015-173-legge",
+  "titolo": "Modifiche alla legge 4 maggio 1983, n. 184, sul diritto alla continuita' affettiva dei bambini e delle bambine in affido familiare.",
+  "rif": "Legge 19 ottobre 2015, n. 173",
+  "sigla": "Legge 173/2015",
+  "file": "",
+  "codice": "15G00187",
+  "dataGU": "2015-10-29",
+  "descrizione": "LEGGE 19 ottobre 2015, n. 173"
+ },
+ {
+  "id": "2015-167-legge",
+  "titolo": "Delega al Governo per la riforma del codice della nautica da diporto.",
+  "rif": "Legge 7 ottobre 2015, n. 167",
+  "sigla": "Legge 167/2015",
+  "file": "",
+  "codice": "15G00184",
+  "dataGU": "2015-10-21",
+  "descrizione": "LEGGE 7 ottobre 2015, n. 167"
+ },
+ {
+  "id": "2015-151-dlgs",
+  "titolo": "Disposizioni di razionalizzazione e semplificazione delle procedure e degli adempimenti a carico di cittadini e imprese e altre disposizioni in materia di rapporto di lavoro e pari opportunita', in attuazione della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 14 settembre 2015, n. 151",
+  "sigla": "D.Lgs. 151/2015",
+  "file": "",
+  "codice": "15G00164",
+  "dataGU": "2015-09-23",
+  "descrizione": "DECRETO LEGISLATIVO 14 settembre 2015, n. 151"
+ },
+ {
+  "id": "2015-150-dlgs",
+  "titolo": "Disposizioni per il riordino della normativa in materia di servizi per il lavoro e di politiche attive, ai sensi dell'articolo 1, comma 3, della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 14 settembre 2015, n. 150",
+  "sigla": "D.Lgs. 150/2015",
+  "file": "",
+  "codice": "15G00162",
+  "dataGU": "2015-09-23",
+  "descrizione": "DECRETO LEGISLATIVO 14 settembre 2015, n. 150"
+ },
+ {
+  "id": "2015-148-dlgs",
+  "titolo": "Disposizioni per il riordino della normativa in materia di ammortizzatori sociali in costanza di rapporto di lavoro, in attuazione della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 14 settembre 2015, n. 148",
+  "sigla": "D.Lgs. 148/2015",
+  "file": "",
+  "codice": "15G00160",
+  "dataGU": "2015-09-23",
+  "descrizione": "DECRETO LEGISLATIVO 14 settembre 2015, n. 148"
+ },
+ {
+  "id": "2015-129-dlgs",
+  "titolo": "Disciplina sanzionatoria delle violazioni delle disposizioni del Regolamento (UE) n. 1177/2010, che modifica il Regolamento (CE) n. 2006/2004, relativo ai diritti dei passeggeri che viaggiano via mare e per vie navigabili interne.",
+  "rif": "D.Lgs. 29 luglio 2015, n. 129",
+  "sigla": "D.Lgs. 129/2015",
+  "file": "",
+  "codice": "15G00144",
+  "dataGU": "2015-08-19",
+  "descrizione": "DECRETO LEGISLATIVO 29 luglio 2015, n. 129"
+ },
+ {
+  "id": "2015-121-legge",
+  "titolo": "Modifica al codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, in materia di soggetti sottoposti alla verifica antimafia.",
+  "rif": "Legge 6 agosto 2015, n. 121",
+  "sigla": "Legge 121/2015",
+  "file": "",
+  "codice": "15G00137",
+  "dataGU": "2015-08-10",
+  "descrizione": "LEGGE 6 agosto 2015, n. 121"
+ },
+ {
+  "id": "2015-107-legge",
+  "titolo": "Riforma del sistema nazionale di istruzione e formazione e delega per il riordino delle disposizioni legislative vigenti.",
+  "rif": "Legge 13 luglio 2015, n. 107",
+  "sigla": "Legge 107/2015",
+  "file": "",
+  "codice": "15G00122",
+  "dataGU": "2015-07-15",
+  "descrizione": "LEGGE 13 luglio 2015, n. 107"
+ },
+ {
+  "id": "2015-92-dl",
+  "titolo": "Misure urgenti in materia di rifiuti e di autorizzazione integrata ambientale, nonche' per l'esercizio dell'attivita' d'impresa di stabilimenti industriali di interesse strategico nazionale.",
+  "rif": "D.L. 4 luglio 2015, n. 92",
+  "sigla": "D.L. 92/2015",
+  "file": "",
+  "codice": "15G00115",
+  "dataGU": "2015-07-04",
+  "descrizione": "DECRETO-LEGGE 4 luglio 2015, n. 92"
+ },
+ {
+  "id": "2015-81-dlgs",
+  "titolo": "Disciplina organica dei contratti di lavoro e revisione della normativa in tema di mansioni, a norma dell'articolo 1, comma 7, della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 15 giugno 2015, n. 81",
+  "sigla": "D.Lgs. 81/2015",
+  "file": "",
+  "codice": "15G00095",
+  "dataGU": "2015-06-24",
+  "descrizione": "DECRETO LEGISLATIVO 15 giugno 2015, n. 81"
+ },
+ {
+  "id": "2015-80-dlgs",
+  "titolo": "Misure per la conciliazione delle esigenze di cura, di vita e di lavoro, in attuazione dell'articolo 1, commi 8 e 9, della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 15 giugno 2015, n. 80",
+  "sigla": "D.Lgs. 80/2015",
+  "file": "",
+  "codice": "15G00094",
+  "dataGU": "2015-06-24",
+  "descrizione": "DECRETO LEGISLATIVO 15 giugno 2015, n. 80"
+ },
+ {
+  "id": "2015-78-dl",
+  "titolo": "Disposizioni urgenti in materia di enti territoriali ((. Disposizioni per garantire la continuita' dei dispositivi di sicurezza e di controllo del territorio. Razionalizzazione delle spese del Servizio sanitario nazionale nonche' norme in materia di rifiuti e di emissioni industriali)).",
+  "rif": "D.L. 19 giugno 2015, n. 78",
+  "sigla": "D.L. 78/2015",
+  "file": "",
+  "codice": "15G00093",
+  "dataGU": "2015-06-19",
+  "descrizione": "DECRETO-LEGGE 19 giugno 2015, n. 78"
+ },
+ {
+  "id": "2015-23-dlgs",
+  "titolo": "Disposizioni in materia di contratto di lavoro a tempo indeterminato a tutele crescenti, in attuazione della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 4 marzo 2015, n. 23",
+  "sigla": "D.Lgs. 23/2015",
+  "file": "",
+  "codice": "15G00037",
+  "dataGU": "2015-03-06",
+  "descrizione": "DECRETO LEGISLATIVO 4 marzo 2015, n. 23"
+ },
+ {
+  "id": "2015-19-legge",
+  "titolo": "Divieto di concessione dei benefici ai condannati per il delitto di cui all'articolo 416-ter del codice penale.",
+  "rif": "Legge 23 febbraio 2015, n. 19",
+  "sigla": "Legge 19/2015",
+  "file": "",
+  "codice": "15G00030",
+  "dataGU": "2015-03-05",
+  "descrizione": "LEGGE 23 febbraio 2015, n. 19"
+ },
+ {
+  "id": "2015-18-legge",
+  "titolo": "Disciplina della responsabilita' civile dei magistrati.",
+  "rif": "Legge 27 febbraio 2015, n. 18",
+  "sigla": "Legge 18/2015",
+  "file": "",
+  "codice": "15G00034",
+  "dataGU": "2015-03-04",
+  "descrizione": "LEGGE 27 febbraio 2015, n. 18"
+ },
+ {
+  "id": "2016-240-dlgs",
+  "titolo": "Norma di attuazione dello Statuto speciale per la Regione Trentino-Alto Adige in materia di temporanee variazioni all'elenco delle specie cacciabili.",
+  "rif": "D.Lgs. 11 dicembre 2016, n. 240",
+  "sigla": "D.Lgs. 240/2016",
+  "file": "",
+  "codice": "16G00254",
+  "dataGU": "2016-12-29",
+  "descrizione": "DECRETO LEGISLATIVO 11 dicembre 2016, n. 240"
+ },
+ {
+  "id": "2016-237-dl",
+  "titolo": "Disposizioni urgenti per la tutela del risparmio nel settore creditizio.",
+  "rif": "D.L. 23 dicembre 2016, n. 237",
+  "sigla": "D.L. 237/2016",
+  "file": "",
+  "codice": "16G00252",
+  "dataGU": "2016-12-23",
+  "descrizione": "DECRETO-LEGGE 23 dicembre 2016, n. 237"
+ },
+ {
+  "id": "2016-132-legge",
+  "titolo": "Istituzione del Sistema nazionale a rete per la protezione dell'ambiente e disciplina dell'Istituto superiore per la protezione e la ricerca ambientale.",
+  "rif": "Legge 28 giugno 2016, n. 132",
+  "sigla": "Legge 132/2016",
+  "file": "",
+  "codice": "16G00144",
+  "dataGU": "2016-07-18",
+  "descrizione": "LEGGE 28 giugno 2016, n. 132"
+ },
+ {
+  "id": "2016-129-dlgs",
+  "titolo": "Disposizioni integrative e correttive del decreto legislativo 4 marzo 2014, n. 32, recante attuazione della direttiva 2010/64/UE sul diritto all'interpretazione e alla traduzione nei procedimenti penali.",
+  "rif": "D.Lgs. 23 giugno 2016, n. 129",
+  "sigla": "D.Lgs. 129/2016",
+  "file": "",
+  "codice": "16G00142",
+  "dataGU": "2016-07-14",
+  "descrizione": "DECRETO LEGISLATIVO 23 giugno 2016, n. 129"
+ },
+ {
+  "id": "2016-116-dlgs",
+  "titolo": "Modifiche all'articolo 55-quater del decreto legislativo 30 marzo 2001, n. 165, ai sensi dell'articolo 17, comma 1, lettera s), della legge 7 agosto 2015, n. 124, in materia di licenziamento disciplinare.",
+  "rif": "D.Lgs. 20 giugno 2016, n. 116",
+  "sigla": "D.Lgs. 116/2016",
+  "file": "",
+  "codice": "16G00127",
+  "dataGU": "2016-06-28",
+  "descrizione": "DECRETO LEGISLATIVO 20 giugno 2016, n. 116"
+ },
+ {
+  "id": "2016-115-legge",
+  "titolo": "Modifica all'articolo 3 della legge 13 ottobre 1975, n. 654, in materia di contrasto e repressione dei crimini di genocidio, crimini contro l'umanita' e crimini di guerra, come definiti dagli articoli 6, 7 e 8 dello statuto della Corte penale internazionale.",
+  "rif": "Legge 16 giugno 2016, n. 115",
+  "sigla": "Legge 115/2016",
+  "file": "",
+  "codice": "16G00124",
+  "dataGU": "2016-06-28",
+  "descrizione": "LEGGE 16 giugno 2016, n. 115"
+ },
+ {
+  "id": "2016-112-legge",
+  "titolo": "Disposizioni in materia di assistenza in favore delle persone con disabilita' grave prive del sostegno familiare.",
+  "rif": "Legge 22 giugno 2016, n. 112",
+  "sigla": "Legge 112/2016",
+  "file": "",
+  "codice": "16G00125",
+  "dataGU": "2016-06-24",
+  "descrizione": "LEGGE 22 giugno 2016, n. 112"
+ },
+ {
+  "id": "2016-106-legge",
+  "titolo": "Delega al Governo per la riforma del Terzo settore, dell'impresa sociale e per la disciplina del servizio civile universale.",
+  "rif": "Legge 6 giugno 2016, n. 106",
+  "sigla": "Legge 106/2016",
+  "file": "",
+  "codice": "16G00118",
+  "dataGU": "2016-06-18",
+  "descrizione": "LEGGE 6 giugno 2016, n. 106"
+ },
+ {
+  "id": "2016-97-dlgs",
+  "titolo": "Revisione e semplificazione delle disposizioni in materia di prevenzione della corruzione, pubblicita' e trasparenza, correttivo della legge 6 novembre 2012, n. 190 e del decreto legislativo 14 marzo 2013, n. 33, ai sensi dell'articolo 7 della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche.",
+  "rif": "D.Lgs. 25 maggio 2016, n. 97",
+  "sigla": "D.Lgs. 97/2016",
+  "file": "",
+  "codice": "16G00108",
+  "dataGU": "2016-06-08",
+  "descrizione": "DECRETO LEGISLATIVO 25 maggio 2016, n. 97"
+ },
+ {
+  "id": "2016-76-legge",
+  "titolo": "Regolamentazione delle unioni civili tra persone dello stesso sesso e disciplina delle convivenze.",
+  "rif": "Legge 20 maggio 2016, n. 76",
+  "sigla": "Legge 76/2016",
+  "file": "",
+  "codice": "16G00082",
+  "dataGU": "2016-05-21",
+  "descrizione": "LEGGE 20 maggio 2016, n. 76"
+ },
+ {
+  "id": "2016-73-dlgs",
+  "titolo": "Attuazione della decisione quadro 2008/675/GAI, relativa alla considerazione delle decisioni di condanna tra Stati membri dell'Unione europea in occasione di un nuovo procedimento penale.",
+  "rif": "D.Lgs. 12 maggio 2016, n. 73",
+  "sigla": "D.Lgs. 73/2016",
+  "file": "",
+  "codice": "16G00089",
+  "dataGU": "2016-05-20",
+  "descrizione": "DECRETO LEGISLATIVO 12 maggio 2016, n. 73"
+ },
+ {
+  "id": "2016-57-legge",
+  "titolo": "Delega al Governo per la riforma organica della magistratura onoraria e altre disposizioni sui giudici di pace.",
+  "rif": "Legge 28 aprile 2016, n. 57",
+  "sigla": "Legge 57/2016",
+  "file": "",
+  "codice": "16G00069",
+  "dataGU": "2016-04-29",
+  "descrizione": "LEGGE 28 aprile 2016, n. 57"
+ },
+ {
+  "id": "2016-32-dlgs",
+  "titolo": "Attuazione della direttiva del Parlamento europeo e del Consiglio, del 20 novembre 2013, n. 2013/54/UE, relativa a talune responsabilita' dello Stato di bandiera ai fini della conformita' alla convenzione sul lavoro marittimo del 2006 e della sua applicazione.",
+  "rif": "D.Lgs. 15 febbraio 2016, n. 32",
+  "sigla": "D.Lgs. 32/2016",
+  "file": "",
+  "codice": "16G00040",
+  "dataGU": "2016-03-09",
+  "descrizione": "DECRETO LEGISLATIVO 15 febbraio 2016, n. 32"
+ },
+ {
+  "id": "2016-29-dlgs",
+  "titolo": "Disposizioni per conformare il diritto interno alla decisione quadro 2009/948/GAI del Consiglio, del 30 novembre 2009, sulla prevenzione e la risoluzione dei conflitti relativi all'esercizio della giurisdizione nei procedimenti penali.",
+  "rif": "D.Lgs. 15 febbraio 2016, n. 29",
+  "sigla": "D.Lgs. 29/2016",
+  "file": "",
+  "codice": "16G00037",
+  "dataGU": "2016-03-07",
+  "descrizione": "DECRETO LEGISLATIVO 15 febbraio 2016, n. 29"
+ },
+ {
+  "id": "2016-8-dlgs",
+  "titolo": "Disposizioni in materia di depenalizzazione, a norma dell'articolo 2, comma 2, della legge 28 aprile 2014, n. 67.",
+  "rif": "D.Lgs. 15 gennaio 2016, n. 8",
+  "sigla": "D.Lgs. 8/2016",
+  "file": "",
+  "codice": "16G00011",
+  "dataGU": "2016-01-22",
+  "descrizione": "DECRETO LEGISLATIVO 15 gennaio 2016, n. 8"
+ },
+ {
+  "id": "2016-7-dlgs",
+  "titolo": "Disposizioni in materia di abrogazione di reati e introduzione di illeciti con sanzioni pecuniarie civili, a norma dell'articolo 2, comma 3, della legge 28 aprile 2014, n. 67.",
+  "rif": "D.Lgs. 15 gennaio 2016, n. 7",
+  "sigla": "D.Lgs. 7/2016",
+  "file": "",
+  "codice": "16G00010",
+  "dataGU": "2016-01-22",
+  "descrizione": "DECRETO LEGISLATIVO 15 gennaio 2016, n. 7"
+ },
+ {
+  "id": "2017-229-dlgs",
+  "titolo": "Revisione ed integrazione del decreto legislativo 18 luglio 2005, n. 171, recante codice della nautica da diporto ed attuazione della direttiva 2003/44/CE, a norma dell'articolo 6 della legge 8 luglio 2003, n. 172, in attuazione dell'articolo 1 della legge 7 ottobre 2015, n. 167.",
+  "rif": "D.Lgs. 3 novembre 2017, n. 229",
+  "sigla": "D.Lgs. 229/2017",
+  "file": "",
+  "codice": "18G00018",
+  "dataGU": "2018-01-29",
+  "descrizione": "DECRETO LEGISLATIVO 3 novembre 2017, n. 229"
+ },
+ {
+  "id": "2017-219-legge",
+  "titolo": "Norme in materia di consenso informato e di disposizioni anticipate di trattamento.",
+  "rif": "Legge 22 dicembre 2017, n. 219",
+  "sigla": "Legge 219/2017",
+  "file": "",
+  "codice": "18G00006",
+  "dataGU": "2018-01-16",
+  "descrizione": "LEGGE 22 dicembre 2017, n. 219"
+ },
+ {
+  "id": "2017-203-dlgs",
+  "titolo": "Riforma delle diposizioni legislative in materia di tutela dei minori nel settore cinematografico e audiovisivo, a norma dell'articolo 33 della legge 14 novembre 2016, n. 220.",
+  "rif": "D.Lgs. 7 dicembre 2017, n. 203",
+  "sigla": "D.Lgs. 203/2017",
+  "file": "",
+  "codice": "17G00217",
+  "dataGU": "2017-12-28",
+  "descrizione": "DECRETO LEGISLATIVO 7 dicembre 2017, n. 203"
+ },
+ {
+  "id": "2017-190-dlgs",
+  "titolo": "Disciplina sanzionatoria per la violazione delle disposizioni di cui alla direttiva 94/11/CE, concernente l'etichettatura dei materiali usati nei principali componenti delle calzature destinate alla vendita al consumatore ed al regolamento (UE) n. 1007/2011 del Parlamento europeo e del consiglio, del 27 settembre 2011, relativo alle denominazioni delle fibre tessili e all'etichettatura e al contrassegno della composizione fibrosa dei prodotti tessili.",
+  "rif": "D.Lgs. 15 novembre 2017, n. 190",
+  "sigla": "D.Lgs. 190/2017",
+  "file": "",
+  "codice": "17G00203",
+  "dataGU": "2017-12-20",
+  "descrizione": "DECRETO LEGISLATIVO 15 novembre 2017, n. 190"
+ },
+ {
+  "id": "2017-179-legge",
+  "titolo": "Disposizioni per la tutela degli autori di segnalazioni di reati o irregolarita' di cui siano venuti a conoscenza nell'ambito di un rapporto di lavoro pubblico o privato.",
+  "rif": "Legge 30 novembre 2017, n. 179",
+  "sigla": "Legge 179/2017",
+  "file": "",
+  "codice": "17G00193",
+  "dataGU": "2017-12-14",
+  "descrizione": "LEGGE 30 novembre 2017, n. 179"
+ },
+ {
+  "id": "2017-172-legge",
+  "titolo": "Conversione in legge, con modificazioni, del decreto-legge 16 ottobre 2017, n. 148, recante disposizioni urgenti in materia finanziaria e per esigenze indifferibili. Modifica alla disciplina dell'estinzione del reato per condotte riparatorie.",
+  "rif": "Legge 4 dicembre 2017, n. 172",
+  "sigla": "Legge 172/2017",
+  "file": "",
+  "codice": "17G00186",
+  "dataGU": "2017-12-05",
+  "descrizione": "LEGGE 4 dicembre 2017, n. 172"
+ },
+ {
+  "id": "2017-161-legge",
+  "titolo": "Modifiche al codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, al codice penale e alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale e altre disposizioni. Delega al Governo per la tutela del lavoro nelle aziende sequestrate e confiscate.",
+  "rif": "Legge 17 ottobre 2017, n. 161",
+  "sigla": "Legge 161/2017",
+  "file": "",
+  "codice": "17G00176",
+  "dataGU": "2017-11-04",
+  "descrizione": "LEGGE 17 ottobre 2017, n. 161"
+ },
+ {
+  "id": "2017-149-dlgs",
+  "titolo": "Disposizioni di modifica del Libro XI del Codice di procedura penale in materia di rapporti giurisdizionali con autorita' straniere.",
+  "rif": "D.Lgs. 3 ottobre 2017, n. 149",
+  "sigla": "D.Lgs. 149/2017",
+  "file": "",
+  "codice": "17G00163",
+  "dataGU": "2017-10-16",
+  "descrizione": "DECRETO LEGISLATIVO 3 ottobre 2017, n. 149"
+ },
+ {
+  "id": "2017-118-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 20 giugno 2016, n. 116, recante modifiche all'articolo 55-quater del decreto legislativo 30 marzo 2001, n. 165, ai sensi dell'articolo 17, comma 1, lettera s), della legge 7 agosto 2015, n. 124, in materia di licenziamento disciplinare.",
+  "rif": "D.Lgs. 20 luglio 2017, n. 118",
+  "sigla": "D.Lgs. 118/2017",
+  "file": "",
+  "codice": "17G00131",
+  "dataGU": "2017-08-04",
+  "descrizione": "DECRETO LEGISLATIVO 20 luglio 2017, n. 118"
+ },
+ {
+  "id": "2017-116-dlgs",
+  "titolo": "Riforma organica della magistratura onoraria e altre disposizioni sui giudici di pace, nonche' disciplina transitoria relativa ai magistrati onorari in servizio, a norma della legge 28 aprile 2016, n. 57.",
+  "rif": "D.Lgs. 13 luglio 2017, n. 116",
+  "sigla": "D.Lgs. 116/2017",
+  "file": "",
+  "codice": "17G00129",
+  "dataGU": "2017-07-31",
+  "descrizione": "DECRETO LEGISLATIVO 13 luglio 2017, n. 116"
+ },
+ {
+  "id": "2017-98-dlgs",
+  "titolo": "Razionalizzazione dei processi di gestione dei dati di circolazione e di proprieta' di autoveicoli, motoveicoli e rimorchi, finalizzata al rilascio di un documento unico, ai sensi dell'articolo 8, comma 1, lettera d), della legge 7 agosto 2015, n. 124.",
+  "rif": "D.Lgs. 29 maggio 2017, n. 98",
+  "sigla": "D.Lgs. 98/2017",
+  "file": "",
+  "codice": "17G00105",
+  "dataGU": "2017-06-24",
+  "descrizione": "DECRETO LEGISLATIVO 29 maggio 2017, n. 98"
+ },
+ {
+  "id": "2017-90-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2015/849 relativa alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo e recante modifica delle direttive 2005/60/CE e 2006/70/CE e attuazione del regolamento (UE) n. 2015/847 riguardante i dati informativi che accompagnano i trasferimenti di fondi e che abroga il regolamento (CE) n. 1781/2006.",
+  "rif": "D.Lgs. 25 maggio 2017, n. 90",
+  "sigla": "D.Lgs. 90/2017",
+  "file": "",
+  "codice": "17G00104",
+  "dataGU": "2017-06-19",
+  "descrizione": "DECRETO LEGISLATIVO 25 maggio 2017, n. 90"
+ },
+ {
+  "id": "2017-81-legge",
+  "titolo": "Misure per la tutela del lavoro autonomo non imprenditoriale e misure volte a favorire l'articolazione flessibile nei tempi e nei luoghi del lavoro subordinato.",
+  "rif": "Legge 22 maggio 2017, n. 81",
+  "sigla": "Legge 81/2017",
+  "file": "",
+  "codice": "17G00096",
+  "dataGU": "2017-06-13",
+  "descrizione": "LEGGE 22 maggio 2017, n. 81"
+ },
+ {
+  "id": "2017-73-dl",
+  "titolo": "Disposizioni urgenti in materia di prevenzione vaccinale ((, di malattie infettive e di controversie relative alla somministrazione di farmaci)).",
+  "rif": "D.L. 7 giugno 2017, n. 73",
+  "sigla": "D.L. 73/2017",
+  "file": "",
+  "codice": "17G00095",
+  "dataGU": "2017-06-07",
+  "descrizione": "DECRETO-LEGGE 7 giugno 2017, n. 73"
+ },
+ {
+  "id": "2017-71-legge",
+  "titolo": "((Disposizioni a tutela dei minori per la prevenzione e il contrasto dei fenomeni del bullismo e del cyberbullismo)).",
+  "rif": "Legge 29 maggio 2017, n. 71",
+  "sigla": "Legge 71/2017",
+  "file": "",
+  "codice": "17G00085",
+  "dataGU": "2017-06-03",
+  "descrizione": "LEGGE 29 maggio 2017, n. 71"
+ },
+ {
+  "id": "2017-66-dlgs",
+  "titolo": "Norme per la promozione dell'inclusione scolastica degli studenti con disabilita', a norma dell'articolo 1, commi 180 e 181, lettera c), della legge 13 luglio 2015, n. 107.",
+  "rif": "D.Lgs. 13 aprile 2017, n. 66",
+  "sigla": "D.Lgs. 66/2017",
+  "file": "",
+  "codice": "17G00074",
+  "dataGU": "2017-05-16",
+  "descrizione": "DECRETO LEGISLATIVO 13 aprile 2017, n. 66"
+ },
+ {
+  "id": "2017-63-dlgs",
+  "titolo": "Effettivita' del diritto allo studio attraverso la definizione delle prestazioni, in relazione ai servizi alla persona, con particolare riferimento alle condizioni di disagio e ai servizi strumentali, nonche' potenziamento della carta dello studente, a norma dell'articolo 1, commi 180 e 181, lettera f), della legge 13 luglio 2015, n. 107.",
+  "rif": "D.Lgs. 13 aprile 2017, n. 63",
+  "sigla": "D.Lgs. 63/2017",
+  "file": "",
+  "codice": "17G00071",
+  "dataGU": "2017-05-16",
+  "descrizione": "DECRETO LEGISLATIVO 13 aprile 2017, n. 63"
+ },
+ {
+  "id": "2017-52-dlgs",
+  "titolo": "Norme di attuazione della Convenzione relativa all'assistenza giudiziaria in materia penale tra gli Stati membri dell'Unione europea, fatta a Bruxelles il 29 maggio 2000.",
+  "rif": "D.Lgs. 5 aprile 2017, n. 52",
+  "sigla": "D.Lgs. 52/2017",
+  "file": "",
+  "codice": "17G00065",
+  "dataGU": "2017-04-27",
+  "descrizione": "DECRETO LEGISLATIVO 5 aprile 2017, n. 52"
+ },
+ {
+  "id": "2017-47-legge",
+  "titolo": "Disposizioni in materia di misure di protezione dei minori stranieri non accompagnati.",
+  "rif": "Legge 7 aprile 2017, n. 47",
+  "sigla": "Legge 47/2017",
+  "file": "",
+  "codice": "17G00062",
+  "dataGU": "2017-04-21",
+  "descrizione": "LEGGE 7 aprile 2017, n. 47"
+ },
+ {
+  "id": "2017-44-legge",
+  "titolo": "Modifiche alla legge 20 febbraio 2006, n. 77, concernenti la tutela e la valorizzazione del patrimonio culturale immateriale.",
+  "rif": "Legge 8 marzo 2017, n. 44",
+  "sigla": "Legge 44/2017",
+  "file": "",
+  "codice": "17G00057",
+  "dataGU": "2017-04-06",
+  "descrizione": "LEGGE 8 marzo 2017, n. 44"
+ },
+ {
+  "id": "2017-42-dlgs",
+  "titolo": "Disposizioni in materia di armonizzazione della normativa nazionale in materia di inquinamento acustico, a norma dell'articolo 19, comma 2, lettere a), b), c), d), e), f) e h) della legge 30 ottobre 2014, n. 161.",
+  "rif": "D.Lgs. 17 febbraio 2017, n. 42",
+  "sigla": "D.Lgs. 42/2017",
+  "file": "",
+  "codice": "17G00055",
+  "dataGU": "2017-04-04",
+  "descrizione": "DECRETO LEGISLATIVO 17 febbraio 2017, n. 42"
+ },
+ {
+  "id": "2017-41-dlgs",
+  "titolo": "Disposizioni per l'armonizzazione della normativa nazionale in materia di inquinamento acustico con la direttiva 2000/14/CE e con il regolamento (CE) n. 765/2008, a norma dell'articolo 19, comma 2, lettere i), l) e m) della legge 30 ottobre 2014, n. 161.",
+  "rif": "D.Lgs. 17 febbraio 2017, n. 41",
+  "sigla": "D.Lgs. 41/2017",
+  "file": "",
+  "codice": "17G00054",
+  "dataGU": "2017-04-04",
+  "descrizione": "DECRETO LEGISLATIVO 17 febbraio 2017, n. 41"
+ },
+ {
+  "id": "2017-38-dlgs",
+  "titolo": "Attuazione della decisione quadro 2003/568/GAI del Consiglio, del 22 luglio 2003, relativa alla lotta contro la corruzione nel settore privato.",
+  "rif": "D.Lgs. 15 marzo 2017, n. 38",
+  "sigla": "D.Lgs. 38/2017",
+  "file": "",
+  "codice": "17G00052",
+  "dataGU": "2017-03-30",
+  "descrizione": "DECRETO LEGISLATIVO 15 marzo 2017, n. 38"
+ },
+ {
+  "id": "2017-25-dl",
+  "titolo": "Disposizioni urgenti per l'abrogazione delle disposizioni in materia di lavoro accessorio nonche' per la modifica delle disposizioni sulla responsabilita' solidale in materia di appalti.",
+  "rif": "D.L. 17 marzo 2017, n. 25",
+  "sigla": "D.L. 25/2017",
+  "file": "",
+  "codice": "17G00044",
+  "dataGU": "2017-03-17",
+  "descrizione": "DECRETO-LEGGE 17 marzo 2017, n. 25"
+ },
+ {
+  "id": "2017-24-legge",
+  "titolo": "Disposizioni in materia di sicurezza delle cure e della persona assistita, nonche' in materia di responsabilita' professionale degli esercenti le professioni sanitarie.",
+  "rif": "Legge 8 marzo 2017, n. 24",
+  "sigla": "Legge 24/2017",
+  "file": "",
+  "codice": "17G00041",
+  "dataGU": "2017-03-17",
+  "descrizione": "LEGGE 8 marzo 2017, n. 24"
+ },
+ {
+  "id": "2017-13-dl",
+  "titolo": "Disposizioni urgenti per l'accelerazione dei procedimenti in materia di protezione internazionale, nonche' per il contrasto dell'immigrazione illegale.",
+  "rif": "D.L. 17 febbraio 2017, n. 13",
+  "sigla": "D.L. 13/2017",
+  "file": "",
+  "codice": "17G00026",
+  "dataGU": "2017-02-17",
+  "descrizione": "DECRETO-LEGGE 17 febbraio 2017, n. 13"
+ },
+ {
+  "id": "2017-7-dlgs",
+  "titolo": "Modifiche e riordino delle norme di diritto internazionale privato per la regolamentazione delle unioni civili, ai sensi dell'articolo 1, comma 28, lettera b), della legge 20 maggio 2016, n. 76.",
+  "rif": "D.Lgs. 19 gennaio 2017, n. 7",
+  "sigla": "D.Lgs. 7/2017",
+  "file": "",
+  "codice": "17G00013",
+  "dataGU": "2017-01-27",
+  "descrizione": "DECRETO LEGISLATIVO 19 gennaio 2017, n. 7"
+ },
+ {
+  "id": "2017-6-dlgs",
+  "titolo": "Modificazioni ed integrazioni normative in materia penale per il necessario coordinamento con la disciplina delle unioni civili, ai sensi dell'articolo 1, comma 28, lettera c), della legge 20 maggio 2016, n. 76.",
+  "rif": "D.Lgs. 19 gennaio 2017, n. 6",
+  "sigla": "D.Lgs. 6/2017",
+  "file": "",
+  "codice": "17G00012",
+  "dataGU": "2017-01-27",
+  "descrizione": "DECRETO LEGISLATIVO 19 gennaio 2017, n. 6"
+ },
+ {
+  "id": "2017-5-dlgs",
+  "titolo": "Adeguamento delle disposizioni dell'ordinamento dello stato civile in materia di iscrizioni, trascrizioni e annotazioni, nonche' modificazioni ed integrazioni normative per la regolamentazione delle unioni civili, ai sensi dell'articolo 1, comma 28, lettere a) e c), della legge 20 maggio 2016, n. 76.",
+  "rif": "D.Lgs. 19 gennaio 2017, n. 5",
+  "sigla": "D.Lgs. 5/2017",
+  "file": "",
+  "codice": "17G00011",
+  "dataGU": "2017-01-27",
+  "descrizione": "DECRETO LEGISLATIVO 19 gennaio 2017, n. 5"
+ },
+ {
+  "id": "2018-144-dpr",
+  "titolo": "Regolamento recante modifiche agli articoli 245, 247, 264 e 402 del regolamento di esecuzione e attuazione del nuovo codice della strada, di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495.",
+  "rif": "D.P.R. 8 novembre 2018, n. 144",
+  "sigla": "D.P.R. 144/2018",
+  "file": "",
+  "codice": "18G00169",
+  "dataGU": "2018-12-29",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 8 novembre 2018, n. 144"
+ },
+ {
+  "id": "2018-124-dlgs",
+  "titolo": "Riforma dell'ordinamento penitenziario in materia di vita detentiva e lavoro penitenziario, in attuazione della delega di cui all'articolo 1, commi 82, 83 e 85, lettere g), h) e r), della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 2 ottobre 2018, n. 124",
+  "sigla": "D.Lgs. 124/2018",
+  "file": "",
+  "codice": "18G00150",
+  "dataGU": "2018-10-26",
+  "descrizione": "DECRETO LEGISLATIVO 2 ottobre 2018, n. 124"
+ },
+ {
+  "id": "2018-123-dlgs",
+  "titolo": "Riforma dell'ordinamento penitenziario, in attuazione della delega di cui all'articolo 1, commi 82, 83 e 85, lettere a), d), i), l), m), o), r), t) e u), della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 2 ottobre 2018, n. 123",
+  "sigla": "D.Lgs. 123/2018",
+  "file": "",
+  "codice": "18G00149",
+  "dataGU": "2018-10-26",
+  "descrizione": "DECRETO LEGISLATIVO 2 ottobre 2018, n. 123"
+ },
+ {
+  "id": "2018-120-dlgs",
+  "titolo": "Disposizioni per armonizzare la disciplina delle spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di spese per le prestazioni obbligatorie e funzionali alle operazioni di intercettazione, in attuazione dell'articolo 1, comma 91, della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 2 ottobre 2018, n. 120",
+  "sigla": "D.Lgs. 120/2018",
+  "file": "",
+  "codice": "18G00146",
+  "dataGU": "2018-10-26",
+  "descrizione": "DECRETO LEGISLATIVO 2 ottobre 2018, n. 120"
+ },
+ {
+  "id": "2018-105-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 3 luglio 2017, n. 117, recante: «Codice del Terzo settore, a norma dell'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106.».",
+  "rif": "D.Lgs. 3 agosto 2018, n. 105",
+  "sigla": "D.Lgs. 105/2018",
+  "file": "",
+  "codice": "18G00131",
+  "dataGU": "2018-09-10",
+  "descrizione": "DECRETO LEGISLATIVO 3 agosto 2018, n. 105"
+ },
+ {
+  "id": "2018-101-dlgs",
+  "titolo": "Disposizioni per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).",
+  "rif": "D.Lgs. 10 agosto 2018, n. 101",
+  "sigla": "D.Lgs. 101/2018",
+  "file": "",
+  "codice": "18G00129",
+  "dataGU": "2018-09-04",
+  "descrizione": "DECRETO LEGISLATIVO 10 agosto 2018, n. 101"
+ },
+ {
+  "id": "2018-100-legge",
+  "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulle attivita' illecite connesse al ciclo dei rifiuti e su illeciti ambientali ad esse correlati.",
+  "rif": "Legge 7 agosto 2018, n. 100",
+  "sigla": "Legge 100/2018",
+  "file": "",
+  "codice": "18G00126",
+  "dataGU": "2018-08-20",
+  "descrizione": "LEGGE 7 agosto 2018, n. 100"
+ },
+ {
+  "id": "2018-87-dl",
+  "titolo": "Disposizioni urgenti per la dignita' dei lavoratori e delle imprese.",
+  "rif": "D.L. 12 luglio 2018, n. 87",
+  "sigla": "D.L. 87/2018",
+  "file": "",
+  "codice": "18G00112",
+  "dataGU": "2018-07-13",
+  "descrizione": "DECRETO-LEGGE 12 luglio 2018, n. 87"
+ },
+ {
+  "id": "2018-73-dl",
+  "titolo": "Misure urgenti e indifferibili per assicurare il regolare e ordinato svolgimento dei procedimenti e dei processi penali nel periodo necessario a consentire interventi di edilizia giudiziaria per il Tribunale di Bari e la Procura della Repubblica presso il medesimo tribunale.",
+  "rif": "D.L. 22 giugno 2018, n. 73",
+  "sigla": "D.L. 73/2018",
+  "file": "",
+  "codice": "18G00104",
+  "dataGU": "2018-06-22",
+  "descrizione": "DECRETO-LEGGE 22 giugno 2018, n. 73"
+ },
+ {
+  "id": "2018-72-dlgs",
+  "titolo": "Tutela del lavoro nell'ambito delle imprese sequestrate e confiscate in attuazione dell'articolo 34 della legge 17 ottobre 2017, n. 161.",
+  "rif": "D.Lgs. 18 maggio 2018, n. 72",
+  "sigla": "D.Lgs. 72/2018",
+  "file": "",
+  "codice": "18G00098",
+  "dataGU": "2018-06-21",
+  "descrizione": "DECRETO LEGISLATIVO 18 maggio 2018, n. 72"
+ },
+ {
+  "id": "2018-53-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2016/681 del Parlamento europeo e del Consiglio, del 27 aprile 2016, sull'uso dei dati del codice di prenotazione (PNR) a fini di prevenzione, accertamento, indagine e azione penale nei confronti dei reati di terrorismo e dei reati gravi e disciplina dell'obbligo per i vettori di comunicare i dati relativi alle persone trasportate in attuazione della direttiva 2004/82/CE del Consiglio del 29 aprile 2004.",
+  "rif": "D.Lgs. 21 maggio 2018, n. 53",
+  "sigla": "D.Lgs. 53/2018",
+  "file": "",
+  "codice": "18G00081",
+  "dataGU": "2018-05-25",
+  "descrizione": "DECRETO LEGISLATIVO 21 maggio 2018, n. 53"
+ },
+ {
+  "id": "2018-36-dlgs",
+  "titolo": "Disposizioni di modifica della disciplina del regime di procedibilita' per taluni reati in attuazione della delega di cui all'articolo 1, commi 16, lettere a) e b), e 17, della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 10 aprile 2018, n. 36",
+  "sigla": "D.Lgs. 36/2018",
+  "file": "",
+  "codice": "18G00061",
+  "dataGU": "2018-04-24",
+  "descrizione": "DECRETO LEGISLATIVO 10 aprile 2018, n. 36"
+ },
+ {
+  "id": "2018-30-dl",
+  "titolo": "Misure urgenti per assicurare la continuita' delle funzioni dell'Autorita' di regolazione per energia, reti e ambiente (ARERA).",
+  "rif": "D.L. 10 aprile 2018, n. 30",
+  "sigla": "D.L. 30/2018",
+  "file": "",
+  "codice": "18G00059",
+  "dataGU": "2018-04-10",
+  "descrizione": "DECRETO-LEGGE 10 aprile 2018, n. 30"
+ },
+ {
+  "id": "2018-27-dpr",
+  "titolo": "Regolamento recante modifiche al decreto del Presidente della Repubblica 1° agosto 2006, n. 256, concernente il regolamento di riorganizzazione dell'Istituto superiore di Polizia.",
+  "rif": "D.P.R. 8 febbraio 2018, n. 27",
+  "sigla": "D.P.R. 27/2018",
+  "file": "",
+  "codice": "18G00052",
+  "dataGU": "2018-03-29",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 8 febbraio 2018, n. 27"
+ },
+ {
+  "id": "2018-21-dlgs",
+  "titolo": "Disposizioni di attuazione del principio di delega della riserva di codice nella materia penale a norma dell'articolo 1, comma 85, lettera q), della legge 23 giugno 2017, n. 103.",
+  "rif": "D.Lgs. 1 marzo 2018, n. 21",
+  "sigla": "D.Lgs. 21/2018",
+  "file": "",
+  "codice": "18G00046",
+  "dataGU": "2018-03-22",
+  "descrizione": "DECRETO LEGISLATIVO 1 marzo 2018, n. 21"
+ },
+ {
+  "id": "2018-6-legge",
+  "titolo": "Disposizioni per la protezione dei testimoni di giustizia.",
+  "rif": "Legge 11 gennaio 2018, n. 6",
+  "sigla": "Legge 6/2018",
+  "file": "",
+  "codice": "18G00022",
+  "dataGU": "2018-02-06",
+  "descrizione": "LEGGE 11 gennaio 2018, n. 6"
+ },
+ {
+  "id": "2019-125-dlgs",
+  "titolo": "Modifiche ed integrazioni ai decreti legislativi 25 maggio 2017, n. 90 e n. 92, recanti attuazione della direttiva (UE) 2015/849, nonche' attuazione della direttiva (UE) 2018/843 che modifica la direttiva (UE) 2015/849 relativa alla prevenzione dell'uso del sistema finanziario ai fini di riciclaggio o finanziamento del terrorismo e che modifica le direttive 2009/138/CE e 2013/36/UE.",
+  "rif": "D.Lgs. 4 ottobre 2019, n. 125",
+  "sigla": "D.Lgs. 125/2019",
+  "file": "",
+  "codice": "19G00131",
+  "dataGU": "2019-10-26",
+  "descrizione": "DECRETO LEGISLATIVO 4 ottobre 2019, n. 125"
+ },
+ {
+  "id": "2019-105-dl",
+  "titolo": "Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica ((e di disciplina dei poteri speciali nei settori di rilevanza strategica)).",
+  "rif": "D.L. 21 settembre 2019, n. 105",
+  "sigla": "D.L. 105/2019",
+  "file": "",
+  "codice": "19G00111",
+  "dataGU": "2019-09-21",
+  "descrizione": "DECRETO-LEGGE 21 settembre 2019, n. 105"
+ },
+ {
+  "id": "2019-96-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 13 aprile 2017, n. 66, recante: «Norme per la promozione dell'inclusione scolastica degli studenti con disabilita', a norma dell'articolo 1, commi 180 e 181, lettera c), della legge 13 luglio 2015, n. 107».",
+  "rif": "D.Lgs. 7 agosto 2019, n. 96",
+  "sigla": "D.Lgs. 96/2019",
+  "file": "",
+  "codice": "19G00107",
+  "dataGU": "2019-08-28",
+  "descrizione": "DECRETO LEGISLATIVO 7 agosto 2019, n. 96"
+ },
+ {
+  "id": "2019-84-legge",
+  "titolo": "Modifica all'articolo 1, comma 5, della legge 7 ottobre 2015, n. 167, in materia di proroga del termine per l'adozione di disposizioni integrative e correttive concernenti la revisione e l'integrazione del codice della nautica da diporto.",
+  "rif": "Legge 6 agosto 2019, n. 84",
+  "sigla": "Legge 84/2019",
+  "file": "",
+  "codice": "19G00096",
+  "dataGU": "2019-08-14",
+  "descrizione": "LEGGE 6 agosto 2019, n. 84"
+ },
+ {
+  "id": "2019-83-dlgs",
+  "titolo": "Disciplina sanzionatoria per la violazione delle disposizioni di cui al regolamento (UE) 2015/757 del 29 aprile 2015, concernente il monitoraggio, la comunicazione e la verifica delle emissioni di anidride carbonica generate dal trasporto marittimo.",
+  "rif": "D.Lgs. 25 luglio 2019, n. 83",
+  "sigla": "D.Lgs. 83/2019",
+  "file": "",
+  "codice": "19G00093",
+  "dataGU": "2019-08-13",
+  "descrizione": "DECRETO LEGISLATIVO 25 luglio 2019, n. 83"
+ },
+ {
+  "id": "2019-75-dl",
+  "titolo": "Misure urgenti per assicurare la continuita' delle funzioni del Collegio del Garante per la protezione dei dati personali.",
+  "rif": "D.L. 7 agosto 2019, n. 75",
+  "sigla": "D.L. 75/2019",
+  "file": "",
+  "codice": "19G00087",
+  "dataGU": "2019-08-07",
+  "descrizione": "DECRETO-LEGGE 7 agosto 2019, n. 75"
+ },
+ {
+  "id": "2019-73-legge",
+  "titolo": "Modifiche di termini in materia di obbligo di patente nautica e di formazione al salvamento acquatico.",
+  "rif": "Legge 24 luglio 2019, n. 73",
+  "sigla": "Legge 73/2019",
+  "file": "",
+  "codice": "19G00082",
+  "dataGU": "2019-08-02",
+  "descrizione": "LEGGE 24 luglio 2019, n. 73"
+ },
+ {
+  "id": "2019-53-dl",
+  "titolo": "Disposizioni urgenti in materia di ordine e sicurezza pubblica.",
+  "rif": "D.L. 14 giugno 2019, n. 53",
+  "sigla": "D.L. 53/2019",
+  "file": "",
+  "codice": "19G00063",
+  "dataGU": "2019-06-14",
+  "descrizione": "DECRETO-LEGGE 14 giugno 2019, n. 53"
+ },
+ {
+  "id": "2019-52-dlgs",
+  "titolo": "Attuazione della delega per il riassetto e la riforma della normativa in materia di sperimentazione clinica dei medicinali ad uso umano, ai sensi dell'articolo 1, commi 1 e 2, della legge 11 gennaio 2018, n. 3.",
+  "rif": "D.Lgs. 14 maggio 2019, n. 52",
+  "sigla": "D.Lgs. 52/2019",
+  "file": "",
+  "codice": "19G00059",
+  "dataGU": "2019-06-12",
+  "descrizione": "DECRETO LEGISLATIVO 14 maggio 2019, n. 52"
+ },
+ {
+  "id": "2019-43-legge",
+  "titolo": "Modifica all'articolo 416-ter del codice penale in materia di voto di scambio politico-mafioso.",
+  "rif": "Legge 21 maggio 2019, n. 43",
+  "sigla": "Legge 43/2019",
+  "file": "",
+  "codice": "19G00051",
+  "dataGU": "2019-05-27",
+  "descrizione": "LEGGE 21 maggio 2019, n. 43"
+ },
+ {
+  "id": "2019-35-dl",
+  "titolo": "Misure emergenziali per il servizio sanitario della Regione Calabria e altre misure urgenti in materia sanitaria.",
+  "rif": "D.L. 30 aprile 2019, n. 35",
+  "sigla": "D.L. 35/2019",
+  "file": "",
+  "codice": "19G00041",
+  "dataGU": "2019-05-02",
+  "descrizione": "DECRETO-LEGGE 30 aprile 2019, n. 35"
+ },
+ {
+  "id": "2019-29-legge",
+  "titolo": "Istituzione e disciplina della Rete nazionale dei registri dei tumori e dei sistemi di sorveglianza e del referto epidemiologico per il controllo sanitario della popolazione.",
+  "rif": "Legge 22 marzo 2019, n. 29",
+  "sigla": "Legge 29/2019",
+  "file": "",
+  "codice": "19G00036",
+  "dataGU": "2019-04-05",
+  "descrizione": "LEGGE 22 marzo 2019, n. 29"
+ },
+ {
+  "id": "2019-24-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2016/1919 del Parlamento europeo e del Consiglio, del 26 ottobre 2016, sull'ammissione al patrocinio a spese dello Stato per indagati e imputati nell'ambito di procedimenti penali e per le persone ricercate nell'ambito di procedimenti di esecuzione del mandato d'arresto europeo.",
+  "rif": "D.Lgs. 7 marzo 2019, n. 24",
+  "sigla": "D.Lgs. 24/2019",
+  "file": "",
+  "codice": "19G00031",
+  "dataGU": "2019-03-26",
+  "descrizione": "DECRETO LEGISLATIVO 7 marzo 2019, n. 24"
+ },
+ {
+  "id": "2019-20-legge",
+  "titolo": "Delega al Governo per l'adozione di disposizioni integrative e correttive dei decreti legislativi adottati in attuazione della delega per la riforma delle discipline della crisi di impresa e dell'insolvenza, di cui alla legge 19 ottobre 2017, n. 155.",
+  "rif": "Legge 8 marzo 2019, n. 20",
+  "sigla": "Legge 20/2019",
+  "file": "",
+  "codice": "19G00028",
+  "dataGU": "2019-03-20",
+  "descrizione": "LEGGE 8 marzo 2019, n. 20"
+ },
+ {
+  "id": "2019-3-legge",
+  "titolo": "Misure per il contrasto dei reati contro la pubblica amministrazione, nonche' in materia di prescrizione del reato e in materia di trasparenza dei partiti e movimenti politici.",
+  "rif": "Legge 9 gennaio 2019, n. 3",
+  "sigla": "Legge 3/2019",
+  "file": "",
+  "codice": "18G00170",
+  "dataGU": "2019-01-16",
+  "descrizione": "LEGGE 9 gennaio 2019, n. 3"
+ },
+ {
+  "id": "2020-160-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 3 novembre 2017, n. 229, concernente revisione ed integrazione del decreto legislativo 18 luglio 2005, n. 171, recante codice della nautica da diporto ed attuazione della direttiva 2003/44/CE, a norma dell'articolo 6 della legge 8 luglio 2003, n. 172, in attuazione dell'articolo 1, comma 5, della legge 7 ottobre 2015, n. 167.",
+  "rif": "D.Lgs. 12 novembre 2020, n. 160",
+  "sigla": "D.Lgs. 160/2020",
+  "file": "",
+  "codice": "20G00185",
+  "dataGU": "2020-12-07",
+  "descrizione": "DECRETO LEGISLATIVO 12 novembre 2020, n. 160"
+ },
+ {
+  "id": "2020-150-dl",
+  "titolo": "Misure urgenti per il rilancio del servizio sanitario della regione Calabria e per il rinnovo degli organi elettivi delle regioni a statuto ordinario.",
+  "rif": "D.L. 10 novembre 2020, n. 150",
+  "sigla": "D.L. 150/2020",
+  "file": "",
+  "codice": "20G00171",
+  "dataGU": "2020-11-10",
+  "descrizione": "DECRETO-LEGGE 10 novembre 2020, n. 150"
+ },
+ {
+  "id": "2020-137-dl",
+  "titolo": "((Ulteriori misure urgenti in materia di tutela della salute, sostegno ai lavoratori e alle imprese, giustizia e sicurezza, connesse all'emergenza epidemiologica da COVID-19.))",
+  "rif": "D.L. 28 ottobre 2020, n. 137",
+  "sigla": "D.L. 137/2020",
+  "file": "",
+  "codice": "20G00166",
+  "dataGU": "2020-10-28",
+  "descrizione": "DECRETO-LEGGE 28 ottobre 2020, n. 137"
+ },
+ {
+  "id": "2020-121-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2018/850, che modifica la direttiva 1999/31/CE relativa alle discariche di rifiuti.",
+  "rif": "D.Lgs. 3 settembre 2020, n. 121",
+  "sigla": "D.Lgs. 121/2020",
+  "file": "",
+  "codice": "20G00138",
+  "dataGU": "2020-09-14",
+  "descrizione": "DECRETO LEGISLATIVO 3 settembre 2020, n. 121"
+ },
+ {
+  "id": "2020-118-dlgs",
+  "titolo": "Attuazione degli articoli 2 e 3 della direttiva (UE) 2018/849, che modificano le direttive 2006/66/CE relative a pile e accumulatori e ai rifiuti di pile e accumulatori e 2012/19/UE sui rifiuti di apparecchiature elettriche ed elettroniche.",
+  "rif": "D.Lgs. 3 settembre 2020, n. 118",
+  "sigla": "D.Lgs. 118/2020",
+  "file": "",
+  "codice": "20G00136",
+  "dataGU": "2020-09-12",
+  "descrizione": "DECRETO LEGISLATIVO 3 settembre 2020, n. 118"
+ },
+ {
+  "id": "2020-116-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2018/851 che modifica la direttiva 2008/98/CE relativa ai rifiuti e attuazione della direttiva (UE) 2018/852 che modifica la direttiva 1994/62/CE sugli imballaggi e i rifiuti di imballaggio.",
+  "rif": "D.Lgs. 3 settembre 2020, n. 116",
+  "sigla": "D.Lgs. 116/2020",
+  "file": "",
+  "codice": "20G00135",
+  "dataGU": "2020-09-11",
+  "descrizione": "DECRETO LEGISLATIVO 3 settembre 2020, n. 116"
+ },
+ {
+  "id": "2020-107-legge",
+  "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulle attivita' connesse alle comunita' di tipo familiare che accolgono minori. Disposizioni in materia di diritto del minore ad una famiglia.",
+  "rif": "Legge 29 luglio 2020, n. 107",
+  "sigla": "Legge 107/2020",
+  "file": "",
+  "codice": "20G00126",
+  "dataGU": "2020-08-28",
+  "descrizione": "LEGGE 29 luglio 2020, n. 107"
+ },
+ {
+  "id": "2020-99-dlgs",
+  "titolo": "Disciplina sanzionatoria delle violazioni delle disposizioni del regolamento (UE) n. 1257/2013, relativo al riciclaggio delle navi, che modifica il regolamento (CE) n. 1013/2006 e la direttiva 2009/16/CE.",
+  "rif": "D.Lgs. 30 luglio 2020, n. 99",
+  "sigla": "D.Lgs. 99/2020",
+  "file": "",
+  "codice": "20G00118",
+  "dataGU": "2020-08-11",
+  "descrizione": "DECRETO LEGISLATIVO 30 luglio 2020, n. 99"
+ },
+ {
+  "id": "2020-83-dl",
+  "titolo": "Misure urgenti connesse con la scadenza della dichiarazione di emergenza epidemiologica da COVID-19 deliberata il 31 gennaio 2020 ((e disciplina del rinnovo degli incarichi di direzione di organi del Sistema di informazione per la sicurezza della Repubblica)).",
+  "rif": "D.L. 30 luglio 2020, n. 83",
+  "sigla": "D.L. 83/2020",
+  "file": "",
+  "codice": "20G00112",
+  "dataGU": "2020-07-30",
+  "descrizione": "DECRETO-LEGGE 30 luglio 2020, n. 83"
+ },
+ {
+  "id": "2020-50-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2018/645 del Parlamento europeo e del Consiglio, del 18 aprile 2018, che modifica la direttiva 2003/59/CE sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri e la direttiva 2006/126/CE concernente la patente di guida.",
+  "rif": "D.Lgs. 10 giugno 2020, n. 50",
+  "sigla": "D.Lgs. 50/2020",
+  "file": "",
+  "codice": "20G00068",
+  "dataGU": "2020-06-10",
+  "descrizione": "DECRETO LEGISLATIVO 10 giugno 2020, n. 50"
+ },
+ {
+  "id": "2020-44-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2017/2398 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, che modifica la direttiva 2004/37/CE del Consiglio, relativa alla protezione dei lavoratori contro i rischi derivanti da un'esposizione ad agenti cancerogeni o mutageni durante il lavoro.",
+  "rif": "D.Lgs. 1 giugno 2020, n. 44",
+  "sigla": "D.Lgs. 44/2020",
+  "file": "",
+  "codice": "20G00062",
+  "dataGU": "2020-06-09",
+  "descrizione": "DECRETO LEGISLATIVO 1 giugno 2020, n. 44"
+ },
+ {
+  "id": "2020-34-dl",
+  "titolo": "Misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonche' di politiche sociali connesse all'emergenza epidemiologica da COVID-19.",
+  "rif": "D.L. 19 maggio 2020, n. 34",
+  "sigla": "D.L. 34/2020",
+  "file": "",
+  "codice": "20G00052",
+  "dataGU": "2020-05-19",
+  "descrizione": "DECRETO-LEGGE 19 maggio 2020, n. 34"
+ },
+ {
+  "id": "2020-18-dl",
+  "titolo": "Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19.",
+  "rif": "D.L. 17 marzo 2020, n. 18",
+  "sigla": "D.L. 18/2020",
+  "file": "",
+  "codice": "20G00034",
+  "dataGU": "2020-03-17",
+  "descrizione": "DECRETO-LEGGE 17 marzo 2020, n. 18"
+ },
+ {
+  "id": "2020-4-dlgs",
+  "titolo": "Disposizioni integrative e correttive del decreto legislativo 2 gennaio 2018, n. 1, recante: «Codice della protezione civile».",
+  "rif": "D.Lgs. 6 febbraio 2020, n. 4",
+  "sigla": "D.Lgs. 4/2020",
+  "file": "",
+  "codice": "20G00016",
+  "dataGU": "2020-02-12",
+  "descrizione": "DECRETO LEGISLATIVO 6 febbraio 2020, n. 4"
+ },
+ {
+  "id": "2020-1-dl",
+  "titolo": "Disposizioni urgenti per l'istituzione del Ministero dell'istruzione e del Ministero dell'universita' e della ricerca.",
+  "rif": "D.L. 9 gennaio 2020, n. 1",
+  "sigla": "D.L. 1/2020",
+  "file": "",
+  "codice": "20G00004",
+  "dataGU": "2020-01-09",
+  "descrizione": "DECRETO-LEGGE 9 gennaio 2020, n. 1"
+ },
+ {
+  "id": "2021-227-legge",
+  "titolo": "Delega al Governo in materia di disabilita'.",
+  "rif": "Legge 22 dicembre 2021, n. 227",
+  "sigla": "Legge 227/2021",
+  "file": "",
+  "codice": "21G00254",
+  "dataGU": "2021-12-30",
+  "descrizione": "LEGGE 22 dicembre 2021, n. 227"
+ },
+ {
+  "id": "2021-213-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/1936 del Parlamento europeo e del Consiglio, del 23 ottobre 2019, che modifica la direttiva 2008/96/CE sulla gestione della sicurezza delle infrastrutture stradali.",
+  "rif": "D.Lgs. 15 novembre 2021, n. 213",
+  "sigla": "D.Lgs. 213/2021",
+  "file": "",
+  "codice": "21G00236",
+  "dataGU": "2021-12-16",
+  "descrizione": "DECRETO LEGISLATIVO 15 novembre 2021, n. 213"
+ },
+ {
+  "id": "2021-206-legge",
+  "titolo": "Delega al Governo per l'efficienza del processo civile e per la revisione della disciplina degli strumenti di risoluzione alternativa delle controversie e misure urgenti di razionalizzazione dei procedimenti in materia di diritti delle persone e delle famiglie nonche' in materia di esecuzione forzata.",
+  "rif": "Legge 26 novembre 2021, n. 206",
+  "sigla": "Legge 206/2021",
+  "file": "",
+  "codice": "21G00229",
+  "dataGU": "2021-12-09",
+  "descrizione": "LEGGE 26 novembre 2021, n. 206"
+ },
+ {
+  "id": "2021-197-dlgs",
+  "titolo": "Recepimento della direttiva (UE) 2019/883, del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa agli impianti portuali di raccolta per il conferimento dei rifiuti delle navi che modifica la direttiva 2010/65/UE e abroga la direttiva 2000/59/CE.",
+  "rif": "D.Lgs. 8 novembre 2021, n. 197",
+  "sigla": "D.Lgs. 197/2021",
+  "file": "",
+  "codice": "21G00201",
+  "dataGU": "2021-11-30",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 197"
+ },
+ {
+  "id": "2021-196-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/904, del Parlamento europeo e del Consiglio del 5 giugno 2019 sulla riduzione dell'incidenza di determinati prodotti di plastica sull'ambiente.",
+  "rif": "D.Lgs. 8 novembre 2021, n. 196",
+  "sigla": "D.Lgs. 196/2021",
+  "file": "",
+  "codice": "21G00210",
+  "dataGU": "2021-11-30",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 196"
+ },
+ {
+  "id": "2021-187-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/1161 che modifica la direttiva 2009/33/CE relativa alla promozione di veicoli puliti e a basso consumo energetico nel trasporto su strada.",
+  "rif": "D.Lgs. 8 novembre 2021, n. 187",
+  "sigla": "D.Lgs. 187/2021",
+  "file": "",
+  "codice": "21G00197",
+  "dataGU": "2021-11-29",
+  "descrizione": "DECRETO LEGISLATIVO 8 novembre 2021, n. 187"
+ },
+ {
+  "id": "2021-162-legge",
+  "titolo": "Modifiche al codice di cui al decreto legislativo 11 aprile 2006, n. 198, e altre disposizioni in materia di pari opportunita' tra uomo e donna in ambito lavorativo.",
+  "rif": "Legge 5 novembre 2021, n. 162",
+  "sigla": "Legge 162/2021",
+  "file": "",
+  "codice": "21G00175",
+  "dataGU": "2021-11-18",
+  "descrizione": "LEGGE 5 novembre 2021, n. 162"
+ },
+ {
+  "id": "2021-153-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/520 del Parlamento europeo e del Consiglio, del 19 marzo 2019, concernente l'interoperabilita' dei sistemi di telepedaggio stradale e intesa ad agevolare lo scambio transfrontaliero di informazioni sul mancato pagamento dei pedaggi stradali nell'Unione.",
+  "rif": "D.Lgs. 5 novembre 2021, n. 153",
+  "sigla": "D.Lgs. 153/2021",
+  "file": "",
+  "codice": "21G00165",
+  "dataGU": "2021-11-06",
+  "descrizione": "DECRETO LEGISLATIVO 5 novembre 2021, n. 153"
+ },
+ {
+  "id": "2021-139-dl",
+  "titolo": "Disposizioni urgenti per l'accesso alle attivita' culturali, sportive e ricreative, nonche' per l'organizzazione di pubbliche amministrazioni e in materia di protezione dei dati personali.",
+  "rif": "D.L. 8 ottobre 2021, n. 139",
+  "sigla": "D.L. 139/2021",
+  "file": "",
+  "codice": "21G00153",
+  "dataGU": "2021-10-08",
+  "descrizione": "DECRETO-LEGGE 8 ottobre 2021, n. 139"
+ },
+ {
+  "id": "2021-130-dl",
+  "titolo": "Misure urgenti per il contenimento degli effetti degli aumenti dei prezzi nel settore elettrico e del gas naturale ((nonche' per l'abrogazione o la modifica di disposizioni che prevedono l'adozione di provvedimenti attuativi)).",
+  "rif": "D.L. 27 settembre 2021, n. 130",
+  "sigla": "D.L. 130/2021",
+  "file": "",
+  "codice": "21G00141",
+  "dataGU": "2021-09-27",
+  "descrizione": "DECRETO-LEGGE 27 settembre 2021, n. 130"
+ },
+ {
+  "id": "2021-121-dl",
+  "titolo": "Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalita' del Ministero delle infrastrutture e della mobilita' sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza ((delle ferrovie e)) delle infrastrutture stradali e autostradali.",
+  "rif": "D.L. 10 settembre 2021, n. 121",
+  "sigla": "D.L. 121/2021",
+  "file": "",
+  "codice": "21G00133",
+  "dataGU": "2021-09-10",
+  "descrizione": "DECRETO-LEGGE 10 settembre 2021, n. 121"
+ },
+ {
+  "id": "2021-111-dl",
+  "titolo": "Misure urgenti per l'esercizio in sicurezza delle attivita' scolastiche, universitarie, sociali e in materia di trasporti.",
+  "rif": "D.L. 6 agosto 2021, n. 111",
+  "sigla": "D.L. 111/2021",
+  "file": "",
+  "codice": "21G00125",
+  "dataGU": "2021-08-06",
+  "descrizione": "DECRETO-LEGGE 6 agosto 2021, n. 111"
+ },
+ {
+  "id": "2021-105-dl",
+  "titolo": "Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19 e per l'esercizio in sicurezza di attivita' sociali ed economiche.",
+  "rif": "D.L. 23 luglio 2021, n. 105",
+  "sigla": "D.L. 105/2021",
+  "file": "",
+  "codice": "21G00117",
+  "dataGU": "2021-07-23",
+  "descrizione": "DECRETO-LEGGE 23 luglio 2021, n. 105"
+ },
+ {
+  "id": "2021-79-dl",
+  "titolo": "Misure urgenti in materia di assegno temporaneo per figli minori.",
+  "rif": "D.L. 8 giugno 2021, n. 79",
+  "sigla": "D.L. 79/2021",
+  "file": "",
+  "codice": "21G00090",
+  "dataGU": "2021-06-08",
+  "descrizione": "DECRETO-LEGGE 8 giugno 2021, n. 79"
+ },
+ {
+  "id": "2021-75-legge",
+  "titolo": "Conversione in legge, con modificazioni, del decreto-legge 1° aprile 2021, n. 45, recante misure urgenti in materia di trasporti e per la disciplina del traffico crocieristico e del trasporto marittimo delle merci nella laguna di Venezia.",
+  "rif": "Legge 17 maggio 2021, n. 75",
+  "sigla": "Legge 75/2021",
+  "file": "",
+  "codice": "21G00085",
+  "dataGU": "2021-05-28",
+  "descrizione": "LEGGE 17 maggio 2021, n. 75"
+ },
+ {
+  "id": "2021-73-dl",
+  "titolo": "Misure urgenti connesse all'emergenza da COVID-19, per le imprese, il lavoro, i giovani, la salute e i servizi territoriali.",
+  "rif": "D.L. 25 maggio 2021, n. 73",
+  "sigla": "D.L. 73/2021",
+  "file": "",
+  "codice": "21G00084",
+  "dataGU": "2021-05-25",
+  "descrizione": "DECRETO-LEGGE 25 maggio 2021, n. 73"
+ },
+ {
+  "id": "2021-45-dl",
+  "titolo": "Misure urgenti in materia di trasporti e per la disciplina del traffico crocieristico e del trasporto marittimo delle merci nella laguna di Venezia.",
+  "rif": "D.L. 1 aprile 2021, n. 45",
+  "sigla": "D.L. 45/2021",
+  "file": "",
+  "codice": "21G00055",
+  "dataGU": "2021-04-01",
+  "descrizione": "DECRETO-LEGGE 1 aprile 2021, n. 45"
+ },
+ {
+  "id": "2021-41-dl",
+  "titolo": "Misure urgenti in materia di sostegno alle imprese e agli operatori economici, di lavoro, salute e servizi territoriali, connesse all'emergenza da COVID-19.",
+  "rif": "D.L. 22 marzo 2021, n. 41",
+  "sigla": "D.L. 41/2021",
+  "file": "",
+  "codice": "21G00049",
+  "dataGU": "2021-03-22",
+  "descrizione": "DECRETO-LEGGE 22 marzo 2021, n. 41"
+ },
+ {
+  "id": "2021-30-dl",
+  "titolo": "Misure urgenti per fronteggiare la diffusione del COVID-19 e interventi di sostegno per lavoratori con figli minori in didattica a distanza o in quarantena.",
+  "rif": "D.L. 13 marzo 2021, n. 30",
+  "sigla": "D.L. 30/2021",
+  "file": "",
+  "codice": "21G00040",
+  "dataGU": "2021-03-13",
+  "descrizione": "DECRETO-LEGGE 13 marzo 2021, n. 30"
+ },
+ {
+  "id": "2021-25-dl",
+  "titolo": "Disposizioni urgenti per il differimento di consultazioni elettorali ((, nonche' per la semplificazione dei procedimenti elettorali e per la continuita' di gestione delle universita' e delle istituzioni dell'alta formazione artistica, musicale e coreutica)) per l'anno 2021.",
+  "rif": "D.L. 5 marzo 2021, n. 25",
+  "sigla": "D.L. 25/2021",
+  "file": "",
+  "codice": "21G00032",
+  "dataGU": "2021-03-08",
+  "descrizione": "DECRETO-LEGGE 5 marzo 2021, n. 25"
+ },
+ {
+  "id": "2021-24-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 2017/625 in materia di controlli sanitari ufficiali sugli animali e sulle merci che entrano nell'Unione e istituzione dei posti di controllo frontalieri del Ministero della salute, in attuazione della delega contenuta nell'articolo 12, comma 3, lettere h) e i) della legge 4 ottobre 2019, n. 117.",
+  "rif": "D.Lgs. 2 febbraio 2021, n. 24",
+  "sigla": "D.Lgs. 24/2021",
+  "file": "",
+  "codice": "21G00027",
+  "dataGU": "2021-03-05",
+  "descrizione": "DECRETO LEGISLATIVO 2 febbraio 2021, n. 24"
+ },
+ {
+  "id": "2021-23-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2017/625 in materia di controlli ufficiali sugli animali e le merci provenienti dagli altri Stati membri dell'Unione e delle connesse competenze degli uffici veterinari per gli adempimenti comunitari del Ministero della salute ai sensi dell'articolo 12, comma 3, lettere f) e i) della legge 4 ottobre 2019, n. 117.",
+  "rif": "D.Lgs. 2 febbraio 2021, n. 23",
+  "sigla": "D.Lgs. 23/2021",
+  "file": "",
+  "codice": "21G00026",
+  "dataGU": "2021-03-04",
+  "descrizione": "DECRETO LEGISLATIVO 2 febbraio 2021, n. 23"
+ },
+ {
+  "id": "2022-213-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 3 settembre 2020, n. 116, di attuazione della direttiva (UE) 2018/851, che modifica la direttiva 2008/98/CE relativa ai rifiuti e attuazione della direttiva (UE) 2018/852, che modifica la direttiva 1994/62/CE sugli imballaggi e i rifiuti di imballaggio.",
+  "rif": "D.Lgs. 23 dicembre 2022, n. 213",
+  "sigla": "D.Lgs. 213/2022",
+  "file": "",
+  "codice": "23G00066",
+  "dataGU": "2023-06-01",
+  "descrizione": "DECRETO LEGISLATIVO 23 dicembre 2022, n. 213"
+ },
+ {
+  "id": "2022-169-dl",
+  "titolo": "Disposizioni urgenti di proroga della partecipazione di personale militare al potenziamento di iniziative della NATO, delle misure per il servizio sanitario della regione Calabria, nonche' di Commissioni presso l'AIFA ((e ulteriori misure urgenti per il comparto militare e delle Forze di polizia)).",
+  "rif": "D.L. 8 novembre 2022, n. 169",
+  "sigla": "D.L. 169/2022",
+  "file": "",
+  "codice": "22G00182",
+  "dataGU": "2022-11-08",
+  "descrizione": "DECRETO-LEGGE 8 novembre 2022, n. 169"
+ },
+ {
+  "id": "2022-156-dlgs",
+  "titolo": "Disposizioni correttive e integrative del decreto legislativo 14 luglio 2020, n. 75, di attuazione della direttiva (UE) 2017/1371, relativa alla lotta contro la frode che lede gli interessi finanziari dell'Unione mediante il diritto penale.",
+  "rif": "D.Lgs. 4 ottobre 2022, n. 156",
+  "sigla": "D.Lgs. 156/2022",
+  "file": "",
+  "codice": "22G00164",
+  "dataGU": "2022-10-22",
+  "descrizione": "DECRETO LEGISLATIVO 4 ottobre 2022, n. 156"
+ },
+ {
+  "id": "2022-136-dlgs",
+  "titolo": "Attuazione dell'articolo 14, comma 2, lettere a), b), e), f), h), i), l), n), o) e p), della legge 22 aprile 2021, n. 53 per adeguare e raccordare la normativa nazionale in materia di prevenzione e controllo delle malattie animali che sono trasmissibili agli animali o all'uomo, alle disposizioni del regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016.",
+  "rif": "D.Lgs. 5 agosto 2022, n. 136",
+  "sigla": "D.Lgs. 136/2022",
+  "file": "",
+  "codice": "22G00144",
+  "dataGU": "2022-09-12",
+  "descrizione": "DECRETO LEGISLATIVO 5 agosto 2022, n. 136"
+ },
+ {
+  "id": "2022-135-dlgs",
+  "titolo": "Disposizioni di attuazione del regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016 in materia di commercio, importazione, conservazione di animali della fauna selvatica ed esotica e formazione per operatori e professionisti degli animali, anche al fine di ridurre il rischio di focolai di zoonosi, nonche' l'introduzione di norme penali volte a punire il commercio illegale di specie protette, ai sensi dell'articolo 14, comma 2, lettere a), b), n), o), p) e q), della legge 22 aprile 2021, n. 53.",
+  "rif": "D.Lgs. 5 agosto 2022, n. 135",
+  "sigla": "D.Lgs. 135/2022",
+  "file": "",
+  "codice": "22G00143",
+  "dataGU": "2022-09-12",
+  "descrizione": "DECRETO LEGISLATIVO 5 agosto 2022, n. 135"
+ },
+ {
+  "id": "2022-119-legge",
+  "titolo": "Disposizioni di revisione del modello di Forze armate interamente professionali, di proroga del termine per la riduzione delle dotazioni dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare, nonche' in materia di avanzamento degli ufficiali. Delega al Governo per la revisione dello strumento militare nazionale.",
+  "rif": "Legge 5 agosto 2022, n. 119",
+  "sigla": "Legge 119/2022",
+  "file": "",
+  "codice": "22G00131",
+  "dataGU": "2022-08-13",
+  "descrizione": "LEGGE 5 agosto 2022, n. 119"
+ },
+ {
+  "id": "2022-62-legge",
+  "titolo": "Disposizioni in materia di trasparenza dei rapporti tra le imprese produttrici, i soggetti che operano nel settore della salute e le organizzazioni sanitarie.",
+  "rif": "Legge 31 maggio 2022, n. 62",
+  "sigla": "Legge 62/2022",
+  "file": "",
+  "codice": "22G00076",
+  "dataGU": "2022-06-11",
+  "descrizione": "LEGGE 31 maggio 2022, n. 62"
+ },
+ {
+  "id": "2022-53-legge",
+  "titolo": "Disposizioni in materia di statistiche in tema di violenza di genere.",
+  "rif": "Legge 5 maggio 2022, n. 53",
+  "sigla": "Legge 53/2022",
+  "file": "",
+  "codice": "22G00062",
+  "dataGU": "2022-05-24",
+  "descrizione": "LEGGE 5 maggio 2022, n. 53"
+ },
+ {
+  "id": "2022-35-legge",
+  "titolo": "Modifiche al testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di limitazione del mandato dei sindaci e di controllo di gestione nei comuni di minori dimensioni, nonche' al decreto legislativo 8 aprile 2013, n. 39, in materia di inconferibilita' di incarichi negli enti privati in controllo pubblico.",
+  "rif": "Legge 12 aprile 2022, n. 35",
+  "sigla": "Legge 35/2022",
+  "file": "",
+  "codice": "22G00043",
+  "dataGU": "2022-04-29",
+  "descrizione": "LEGGE 12 aprile 2022, n. 35"
+ },
+ {
+  "id": "2022-24-dl",
+  "titolo": "Disposizioni urgenti per il superamento delle misure di contrasto alla diffusione dell'epidemia da COVID-19, in conseguenza della cessazione dello stato di emergenza ((, e altre disposizioni in materia sanitaria)).",
+  "rif": "D.L. 24 marzo 2022, n. 24",
+  "sigla": "D.L. 24/2022",
+  "file": "",
+  "codice": "22G00034",
+  "dataGU": "2022-03-24",
+  "descrizione": "DECRETO-LEGGE 24 marzo 2022, n. 24"
+ },
+ {
+  "id": "2022-1-lcost",
+  "titolo": "Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente.",
+  "rif": "Legge cost. 11 febbraio 2022, n. 1",
+  "sigla": "Legge cost. 1/2022",
+  "file": "",
+  "codice": "22G00019",
+  "dataGU": "2022-02-22",
+  "descrizione": "LEGGE COSTITUZIONALE 11 febbraio 2022, n. 1"
+ },
+ {
+  "id": "2022-1-dl",
+  "titolo": "Misure urgenti per fronteggiare l'emergenza COVID-19, in particolare nei luoghi di lavoro, nelle scuole e negli istituti della formazione superiore.",
+  "rif": "D.L. 7 gennaio 2022, n. 1",
+  "sigla": "D.L. 1/2022",
+  "file": "",
+  "codice": "22G00002",
+  "dataGU": "2022-01-07",
+  "descrizione": "DECRETO-LEGGE 7 gennaio 2022, n. 1"
+ },
+ {
+  "id": "2023-231-dpr",
+  "titolo": "Regolamento concernente i compiti del Ministero del lavoro e delle politiche sociali in materia di minori stranieri non accompagnati, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400.",
+  "rif": "D.P.R. 27 dicembre 2023, n. 231",
+  "sigla": "D.P.R. 231/2023",
+  "file": "",
+  "codice": "24G00031",
+  "dataGU": "2024-02-29",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 2023, n. 231"
+ },
+ {
+  "id": "2023-193-legge",
+  "titolo": "Disposizioni per la prevenzione delle discriminazioni e la tutela dei diritti delle persone che sono state affette da malattie oncologiche.",
+  "rif": "Legge 7 dicembre 2023, n. 193",
+  "sigla": "Legge 193/2023",
+  "file": "",
+  "codice": "23G00206",
+  "dataGU": "2023-12-18",
+  "descrizione": "LEGGE 7 dicembre 2023, n. 193"
+ },
+ {
+  "id": "2023-148-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 2018/848, relativo alla produzione biologica e all'etichettatura dei prodotti biologici, e alle disposizioni del regolamento (UE) 2017/625, relativo ai controlli ufficiali e alle altre attivita' ufficiali effettuati per garantire l'applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanita' delle piante nonche' sui prodotti fitosanitari.",
+  "rif": "D.Lgs. 6 ottobre 2023, n. 148",
+  "sigla": "D.Lgs. 148/2023",
+  "file": "",
+  "codice": "23G00159",
+  "dataGU": "2023-10-30",
+  "descrizione": "DECRETO LEGISLATIVO 6 ottobre 2023, n. 148"
+ },
+ {
+  "id": "2023-98-dl",
+  "titolo": "Misure urgenti in materia di tutela dei lavoratori in caso di emergenza climatica e di termini di versamento.",
+  "rif": "D.L. 28 luglio 2023, n. 98",
+  "sigla": "D.L. 98/2023",
+  "file": "",
+  "codice": "23G00110",
+  "dataGU": "2023-07-28",
+  "descrizione": "DECRETO-LEGGE 28 luglio 2023, n. 98"
+ },
+ {
+  "id": "2023-70-dlgs",
+  "titolo": "Recepimento dell'articolo 1, punti 8) e 18), della direttiva (UE) 2021/2118 del Parlamento europeo e del Consiglio, del 24 novembre 2021, recante modifica della direttiva 2009/103/CE concernente l'assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli e il controllo dell'obbligo di assicurare tale responsabilita', per quanto riguarda, rispettivamente, l'articolo 10-bis, paragrafo 13, secondo comma, e l'articolo 25-bis, paragrafo 13, secondo comma, della direttiva 2009/103/CE.",
+  "rif": "D.Lgs. 15 maggio 2023, n. 70",
+  "sigla": "D.Lgs. 70/2023",
+  "file": "",
+  "codice": "23G00077",
+  "dataGU": "2023-06-15",
+  "descrizione": "DECRETO LEGISLATIVO 15 maggio 2023, n. 70"
+ },
+ {
+  "id": "2023-53-legge",
+  "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulle attivita' illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari.",
+  "rif": "Legge 10 maggio 2023, n. 53",
+  "sigla": "Legge 53/2023",
+  "file": "",
+  "codice": "23G00061",
+  "dataGU": "2023-05-18",
+  "descrizione": "LEGGE 10 maggio 2023, n. 53"
+ },
+ {
+  "id": "2023-28-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio, del 25 novembre 2020, relativa alle azioni rappresentative a tutela degli interessi collettivi dei consumatori e che abroga la direttiva 2009/22/CE.",
+  "rif": "D.Lgs. 10 marzo 2023, n. 28",
+  "sigla": "D.Lgs. 28/2023",
+  "file": "",
+  "codice": "23G00036",
+  "dataGU": "2023-03-23",
+  "descrizione": "DECRETO LEGISLATIVO 10 marzo 2023, n. 28"
+ },
+ {
+  "id": "2023-27-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2020/1057 del Parlamento europeo e del Consiglio, del 15 luglio 2020, che stabilisce norme specifiche per quanto riguarda la direttiva 96/71/CE e la direttiva 2014/67/UE sul distacco dei conducenti nel settore del trasporto su strada e che modifica la direttiva 2006/22/CE per quanto riguarda gli obblighi di applicazione e il regolamento (UE) n. 1024/2012.",
+  "rif": "D.Lgs. 23 febbraio 2023, n. 27",
+  "sigla": "D.Lgs. 27/2023",
+  "file": "",
+  "codice": "23G00034",
+  "dataGU": "2023-03-20",
+  "descrizione": "DECRETO LEGISLATIVO 23 febbraio 2023, n. 27"
+ },
+ {
+  "id": "2023-26-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2019/2161 del Parlamento europeo e del Consiglio, del 27 novembre 2019, che modifica la direttiva 93/13/CEE del Consiglio e le direttive 98/6/CE, 2005/29/CE e 2011/83/UE del Parlamento europeo e del Consiglio per una migliore applicazione e una modernizzazione delle norme dell'Unione relative alla protezione dei consumatori.",
+  "rif": "D.Lgs. 7 marzo 2023, n. 26",
+  "sigla": "D.Lgs. 26/2023",
+  "file": "",
+  "codice": "23G00033",
+  "dataGU": "2023-03-18",
+  "descrizione": "DECRETO LEGISLATIVO 7 marzo 2023, n. 26"
+ },
+ {
+  "id": "2023-12-legge",
+  "titolo": "Istituzione di una Commissione parlamentare di inchiesta sul femminicidio, nonche' su ogni forma di violenza di genere.",
+  "rif": "Legge 9 febbraio 2023, n. 12",
+  "sigla": "Legge 12/2023",
+  "file": "",
+  "codice": "23G00019",
+  "dataGU": "2023-02-17",
+  "descrizione": "LEGGE 9 febbraio 2023, n. 12"
+ },
+ {
+  "id": "2023-5-dl",
+  "titolo": "Disposizioni urgenti in materia di trasparenza dei prezzi dei carburanti e di rafforzamento dei poteri di controllo del Garante per la sorveglianza dei prezzi, nonche' di sostegno per la fruizione del trasporto pubblico.",
+  "rif": "D.L. 14 gennaio 2023, n. 5",
+  "sigla": "D.L. 5/2023",
+  "file": "",
+  "codice": "23G00007",
+  "dataGU": "2023-01-14",
+  "descrizione": "DECRETO-LEGGE 14 gennaio 2023, n. 5"
+ },
+ {
+  "id": "2024-217-dpr",
+  "titolo": "Regolamento per la disciplina delle modalita' di accesso alla qualifica iniziale, del percorso di formazione iniziale, della progressione in carriera, dell'aggiornamento professionale, della formazione specialistica e della regolazione dell'attivita' libero professionale dei funzionari della carriera dei medici del Corpo di polizia penitenziaria.",
+  "rif": "D.P.R. 13 novembre 2024, n. 217",
+  "sigla": "D.P.R. 217/2024",
+  "file": "",
+  "codice": "25G00004",
+  "dataGU": "2025-01-14",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 2024, n. 217"
+ },
+ {
+  "id": "2024-204-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del Regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023, riguardante i dati informativi che accompagnano i trasferimenti di fondi e determinate cripto-attivita' e che modifica la direttiva (UE) 2015/849, e per l'attuazione della direttiva (UE) 2015/849, relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, come modificata dall'articolo 38 del medesimo Regolamento (UE) 2023/1113.",
+  "rif": "D.Lgs. 27 dicembre 2024, n. 204",
+  "sigla": "D.Lgs. 204/2024",
+  "file": "",
+  "codice": "24G00221",
+  "dataGU": "2024-12-28",
+  "descrizione": "DECRETO LEGISLATIVO 27 dicembre 2024, n. 204"
+ },
+ {
+  "id": "2024-198-dlgs",
+  "titolo": "Disposizioni per il compiuto adeguamento della normativa nazionale alle disposizioni della direttiva (UE) 2016/343 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sul rafforzamento di alcuni aspetti della presunzione di innocenza e del diritto di presenziare al processo nei procedimenti penali.",
+  "rif": "D.Lgs. 10 dicembre 2024, n. 198",
+  "sigla": "D.Lgs. 198/2024",
+  "file": "",
+  "codice": "24G00216",
+  "dataGU": "2024-12-23",
+  "descrizione": "DECRETO LEGISLATIVO 10 dicembre 2024, n. 198"
+ },
+ {
+  "id": "2024-176-legge",
+  "titolo": "Disposizioni in materia di assistenza sanitaria per le persone senza dimora.",
+  "rif": "Legge 18 novembre 2024, n. 176",
+  "sigla": "Legge 176/2024",
+  "file": "",
+  "codice": "24G00194",
+  "dataGU": "2024-11-29",
+  "descrizione": "LEGGE 18 novembre 2024, n. 176"
+ },
+ {
+  "id": "2024-174-dlgs",
+  "titolo": "Testo unico dei tributi erariali minori.",
+  "rif": "D.Lgs. 5 novembre 2024, n. 174",
+  "sigla": "D.Lgs. 174/2024",
+  "file": "",
+  "codice": "24G00192",
+  "dataGU": "2024-11-28",
+  "descrizione": "DECRETO LEGISLATIVO 5 novembre 2024, n. 174"
+ },
+ {
+  "id": "2024-164-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 10 ottobre 2022, n. 149, recante attuazione della legge 26 novembre 2021, n. 206, recante delega al Governo per l'efficienza del processo civile e per la revisione della disciplina degli strumenti di risoluzione alternativa delle controversie e misure urgenti di razionalizzazione dei procedimenti in materia di diritti delle persone e delle famiglie nonche' in materia di esecuzione forzata.",
+  "rif": "D.Lgs. 31 ottobre 2024, n. 164",
+  "sigla": "D.Lgs. 164/2024",
+  "file": "",
+  "codice": "24G00183",
+  "dataGU": "2024-11-11",
+  "descrizione": "DECRETO LEGISLATIVO 31 ottobre 2024, n. 164"
+ },
+ {
+  "id": "2024-152-legge",
+  "titolo": "Disposizioni in materia di manifestazioni di rievocazione storica e delega al Governo per l'adozione di norme per la salvaguardia del patrimonio culturale immateriale.",
+  "rif": "Legge 7 ottobre 2024, n. 152",
+  "sigla": "Legge 152/2024",
+  "file": "",
+  "codice": "24G00169",
+  "dataGU": "2024-10-17",
+  "descrizione": "LEGGE 7 ottobre 2024, n. 152"
+ },
+ {
+  "id": "2024-150-legge",
+  "titolo": "Revisione della disciplina in materia di valutazione delle studentesse e degli studenti, di tutela dell'autorevolezza del personale scolastico nonche' di indirizzi scolastici differenziati.",
+  "rif": "Legge 1 ottobre 2024, n. 150",
+  "sigla": "Legge 150/2024",
+  "file": "",
+  "codice": "24G00168",
+  "dataGU": "2024-10-16",
+  "descrizione": "LEGGE 1 ottobre 2024, n. 150"
+ },
+ {
+  "id": "2024-140-dpr",
+  "titolo": "Regolamento recante adeguamento e coordinamento delle disposizioni del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, con il codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66.",
+  "rif": "D.P.R. 4 settembre 2024, n. 140",
+  "sigla": "D.P.R. 140/2024",
+  "file": "",
+  "codice": "24G00159",
+  "dataGU": "2024-10-02",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 4 settembre 2024, n. 140"
+ },
+ {
+  "id": "2024-135-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2022/431 del Parlamento europeo e del Consiglio, del 9 marzo 2022, che modifica la direttiva 2004/37/CE sulla protezione dei lavoratori contro i rischi derivanti da un'esposizione ad agenti cancerogeni o mutageni durante il lavoro.",
+  "rif": "D.Lgs. 4 settembre 2024, n. 135",
+  "sigla": "D.Lgs. 135/2024",
+  "file": "",
+  "codice": "24G00153",
+  "dataGU": "2024-09-26",
+  "descrizione": "DECRETO LEGISLATIVO 4 settembre 2024, n. 135"
+ },
+ {
+  "id": "2024-69-dl",
+  "titolo": "Disposizioni urgenti in materia di semplificazione edilizia e urbanistica.",
+  "rif": "D.L. 29 maggio 2024, n. 69",
+  "sigla": "D.L. 69/2024",
+  "file": "",
+  "codice": "24G00088",
+  "dataGU": "2024-05-29",
+  "descrizione": "DECRETO-LEGGE 29 maggio 2024, n. 69"
+ },
+ {
+  "id": "2024-62-dlgs",
+  "titolo": "Definizione della condizione di disabilita', della valutazione di base, di accomodamento ragionevole, della valutazione multidimensionale per l'elaborazione e attuazione del progetto di vita individuale personalizzato e partecipato.",
+  "rif": "D.Lgs. 3 maggio 2024, n. 62",
+  "sigla": "D.Lgs. 62/2024",
+  "file": "",
+  "codice": "24G00079",
+  "dataGU": "2024-05-14",
+  "descrizione": "DECRETO LEGISLATIVO 3 maggio 2024, n. 62"
+ },
+ {
+  "id": "2024-61-dl",
+  "titolo": "Disposizioni urgenti in materia di associazioni professionali a carattere sindacale tra militari, personale militare e civile del Ministero della difesa e operativita' delle Forze armate.",
+  "rif": "D.L. 9 maggio 2024, n. 61",
+  "sigla": "D.L. 61/2024",
+  "file": "",
+  "codice": "24G00078",
+  "dataGU": "2024-05-09",
+  "descrizione": "DECRETO-LEGGE 9 maggio 2024, n. 61"
+ },
+ {
+  "id": "2024-46-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 8 novembre 2021, n. 197, di recepimento della direttiva (UE) 2019/883, del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa agli impianti portuali di raccolta per il conferimento dei rifiuti delle navi, che modifica la direttiva 2010/65/UE e abroga la direttiva 2000/59/CE.",
+  "rif": "D.Lgs. 8 marzo 2024, n. 46",
+  "sigla": "D.Lgs. 46/2024",
+  "file": "",
+  "codice": "24G00061",
+  "dataGU": "2024-04-08",
+  "descrizione": "DECRETO LEGISLATIVO 8 marzo 2024, n. 46"
+ },
+ {
+  "id": "2024-22-legge",
+  "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2.",
+  "rif": "Legge 5 marzo 2024, n. 22",
+  "sigla": "Legge 22/2024",
+  "file": "",
+  "codice": "24G00038",
+  "dataGU": "2024-03-13",
+  "descrizione": "LEGGE 5 marzo 2024, n. 22"
+ },
+ {
+  "id": "2024-21-legge",
+  "titolo": "Interventi a sostegno della competitivita' dei capitali e delega al Governo per la riforma organica delle disposizioni in materia di mercati dei capitali recate dal testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e delle disposizioni in materia di societa' di capitali contenute nel codice civile ((, per la modifica delle disposizioni del codice di procedura civile in materia di arbitrato societario, nonché per la modifica di ulteriori disposizioni vigenti al fine di assicurarne il miglior coordinamento, nonché delega al Governo per la riforma organica e il riordino del sistema sanzionatorio e di tutte le procedure sanzionatorie recati dal medesimo testo unico di cui al decreto legislativo n. 58 del 1998)).",
+  "rif": "Legge 5 marzo 2024, n. 21",
+  "sigla": "Legge 21/2024",
+  "file": "",
+  "codice": "24G00041",
+  "dataGU": "2024-03-12",
+  "descrizione": "LEGGE 5 marzo 2024, n. 21"
+ },
+ {
+  "id": "2024-20-dlgs",
+  "titolo": "Istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita', in attuazione della delega conferita al Governo.",
+  "rif": "D.Lgs. 5 febbraio 2024, n. 20",
+  "sigla": "D.Lgs. 20/2024",
+  "file": "",
+  "codice": "24G00034",
+  "dataGU": "2024-03-05",
+  "descrizione": "DECRETO LEGISLATIVO 5 febbraio 2024, n. 20"
+ },
+ {
+  "id": "2024-7-dl",
+  "titolo": "Disposizioni urgenti per le consultazioni elettorali dell'anno 2024 e in materia di revisione delle anagrafi della popolazione residente e di determinazione della popolazione legale.",
+  "rif": "D.L. 29 gennaio 2024, n. 7",
+  "sigla": "D.L. 7/2024",
+  "file": "",
+  "codice": "24G00017",
+  "dataGU": "2024-01-29",
+  "descrizione": "DECRETO-LEGGE 29 gennaio 2024, n. 7"
+ },
+ {
+  "id": "2024-5-dl",
+  "titolo": "Disposizioni urgenti per la realizzazione degli interventi infrastrutturali connessi con la presidenza italiana del G7.",
+  "rif": "D.L. 19 gennaio 2024, n. 5",
+  "sigla": "D.L. 5/2024",
+  "file": "",
+  "codice": "24G00015",
+  "dataGU": "2024-01-19",
+  "descrizione": "DECRETO-LEGGE 19 gennaio 2024, n. 5"
+ },
+ {
+  "id": "2025-213-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2023/2668 del Parlamento europeo e del Consiglio, del 22 novembre 2023, che modifica la direttiva 2009/148/CE sulla protezione dei lavoratori contro i rischi connessi con un'esposizione all'amianto durante il lavoro.",
+  "rif": "D.Lgs. 31 dicembre 2025, n. 213",
+  "sigla": "D.Lgs. 213/2025",
+  "file": "",
+  "codice": "26G00008",
+  "dataGU": "2026-01-09",
+  "descrizione": "DECRETO LEGISLATIVO 31 dicembre 2025, n. 213"
+ },
+ {
+  "id": "2025-212-dlgs",
+  "titolo": "Recepimento della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativa ai contratti di credito ai consumatori e che abroga la direttiva 2008/48/CE.",
+  "rif": "D.Lgs. 31 dicembre 2025, n. 212",
+  "sigla": "D.Lgs. 212/2025",
+  "file": "",
+  "codice": "26G00009",
+  "dataGU": "2026-01-09",
+  "descrizione": "DECRETO LEGISLATIVO 31 dicembre 2025, n. 212"
+ },
+ {
+  "id": "2025-208-dlgs",
+  "titolo": "Recepimento della direttiva (UE) 2024/1619 del Parlamento europeo e del Consiglio, del 31 maggio 2024, che modifica la direttiva 2013/36/UE per quanto riguarda i poteri di vigilanza, le sanzioni, le succursali di paesi terzi e i rischi ambientali, sociali e di governance, nonche' per l'adeguamento al regolamento (UE) 2024/1623 del Parlamento europeo e del Consiglio, del 31 maggio 2024, che modifica il regolamento (UE) n. 575/2013 per quanto concerne i requisiti per il rischio di credito, il rischio di aggiustamento della valutazione del credito, il rischio operativo, il rischio di mercato e l'output floor.",
+  "rif": "D.Lgs. 31 dicembre 2025, n. 208",
+  "sigla": "D.Lgs. 208/2025",
+  "file": "",
+  "codice": "26G00006",
+  "dataGU": "2026-01-08",
+  "descrizione": "DECRETO LEGISLATIVO 31 dicembre 2025, n. 208"
+ },
+ {
+  "id": "2025-205-dpr",
+  "titolo": "Recepimento degli accordi sindacali relativi al triennio 2021-2023 per il personale dirigente delle Forze di polizia ad ordinamento civile e militare.",
+  "rif": "D.P.R. 4 dicembre 2025, n. 205",
+  "sigla": "D.P.R. 205/2025",
+  "file": "",
+  "codice": "25G00209",
+  "dataGU": "2025-12-31",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 4 dicembre 2025, n. 205"
+ },
+ {
+  "id": "2025-203-dpr",
+  "titolo": "Recepimento degli accordi sindacali relativi al triennio 2018-2020 per il personale dirigente delle Forze di polizia ad ordinamento civile e militare.",
+  "rif": "D.P.R. 4 dicembre 2025, n. 203",
+  "sigla": "D.P.R. 203/2025",
+  "file": "",
+  "codice": "25G00207",
+  "dataGU": "2025-12-31",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 4 dicembre 2025, n. 203"
+ },
+ {
+  "id": "2025-145-dl",
+  "titolo": "Misure urgenti per assicurare la continuita' delle funzioni dell'Autorita' di regolazione per energia, reti e ambiente (ARERA).",
+  "rif": "D.L. 3 ottobre 2025, n. 145",
+  "sigla": "D.L. 145/2025",
+  "file": "",
+  "codice": "25G00156",
+  "dataGU": "2025-10-03",
+  "descrizione": "DECRETO-LEGGE 3 ottobre 2025, n. 145"
+ },
+ {
+  "id": "2025-133-legge",
+  "titolo": "Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell'Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell'Ospedale pediatrico Bambino Gesu'.",
+  "rif": "Legge 24 settembre 2025, n. 133",
+  "sigla": "Legge 133/2025",
+  "file": "",
+  "codice": "25G00144",
+  "dataGU": "2025-09-25",
+  "descrizione": "LEGGE 24 settembre 2025, n. 133"
+ },
+ {
+  "id": "2025-132-legge",
+  "titolo": "Disposizioni e deleghe al Governo in materia di intelligenza artificiale.",
+  "rif": "Legge 23 settembre 2025, n. 132",
+  "sigla": "Legge 132/2025",
+  "file": "",
+  "codice": "25G00143",
+  "dataGU": "2025-09-25",
+  "descrizione": "LEGGE 23 settembre 2025, n. 132"
+ },
+ {
+  "id": "2025-127-dl",
+  "titolo": "Misure urgenti per la riforma dell'esame di Stato del secondo ciclo di istruzione e per il regolare avvio dell'anno scolastico 2025/2026.",
+  "rif": "D.L. 9 settembre 2025, n. 127",
+  "sigla": "D.L. 127/2025",
+  "file": "",
+  "codice": "25G00135",
+  "dataGU": "2025-09-09",
+  "descrizione": "DECRETO-LEGGE 9 settembre 2025, n. 127"
+ },
+ {
+  "id": "2025-110-dl",
+  "titolo": "Misure urgenti per il commissariamento dell'Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell'Ospedale pediatrico Bambino Gesu'.",
+  "rif": "D.L. 1 agosto 2025, n. 110",
+  "sigla": "D.L. 110/2025",
+  "file": "",
+  "codice": "25G00122",
+  "dataGU": "2025-08-01",
+  "descrizione": "DECRETO-LEGGE 1 agosto 2025, n. 110"
+ },
+ {
+  "id": "2025-106-legge",
+  "titolo": "Disposizioni concernenti la conservazione del posto di lavoro e i permessi retribuiti per esami e cure mediche in favore dei lavoratori affetti da malattie oncologiche, invalidanti e croniche.",
+  "rif": "Legge 18 luglio 2025, n. 106",
+  "sigla": "Legge 106/2025",
+  "file": "",
+  "codice": "25G00114",
+  "dataGU": "2025-07-25",
+  "descrizione": "LEGGE 18 luglio 2025, n. 106"
+ },
+ {
+  "id": "2025-103-dpr",
+  "titolo": "Regolamento recante modifiche in materia di amministrazione e contabilita' degli organismi della difesa al Testo unico delle disposizioni regolamentari in materia di ordinamento militare, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 90.",
+  "rif": "D.P.R. 23 aprile 2025, n. 103",
+  "sigla": "D.P.R. 103/2025",
+  "file": "",
+  "codice": "25G00109",
+  "dataGU": "2025-07-08",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 2025, n. 103"
+ },
+ {
+  "id": "2025-90-dl",
+  "titolo": "Disposizioni urgenti in materia di universita' e ricerca, istruzione e salute.",
+  "rif": "D.L. 24 giugno 2025, n. 90",
+  "sigla": "D.L. 90/2025",
+  "file": "",
+  "codice": "25G00102",
+  "dataGU": "2025-06-24",
+  "descrizione": "DECRETO-LEGGE 24 giugno 2025, n. 90"
+ },
+ {
+  "id": "2025-77-dlgs",
+  "titolo": "Disposizioni correttive al decreto legislativo 23 febbraio 2023, n. 27, recante attuazione della direttiva (UE) 2020/1057 del Parlamento europeo e del Consiglio, del 15 luglio 2020, che stabilisce norme specifiche per quanto riguarda la direttiva 96/71/CE e la direttiva 2014/67/UE sul distacco dei conducenti nel settore del trasporto su strada e che modifica la direttiva 2006/22/CE per quanto riguarda gli obblighi di applicazione e il regolamento (UE) n. 1024/2012.",
+  "rif": "D.Lgs. 21 maggio 2025, n. 77",
+  "sigla": "D.Lgs. 77/2025",
+  "file": "",
+  "codice": "25G00085",
+  "dataGU": "2025-05-28",
+  "descrizione": "DECRETO LEGISLATIVO 21 maggio 2025, n. 77"
+ },
+ {
+  "id": "2025-65-dl",
+  "titolo": "Ulteriori disposizioni urgenti per affrontare gli straordinari eventi alluvionali verificatisi nei territori di Emilia-Romagna, Toscana e Marche e gli effetti del fenomeno bradisismico nell'area dei Campi Flegrei, nonche' disposizioni di carattere finanziario in materia di protezione civile.",
+  "rif": "D.L. 7 maggio 2025, n. 65",
+  "sigla": "D.L. 65/2025",
+  "file": "",
+  "codice": "25G00075",
+  "dataGU": "2025-05-07",
+  "descrizione": "DECRETO-LEGGE 7 maggio 2025, n. 65"
+ },
+ {
+  "id": "2025-63-legge",
+  "titolo": "Benefici in favore delle vittime di eventi dannosi derivanti da cedimenti totali o parziali di infrastrutture stradali o autostradali di rilievo nazionale.",
+  "rif": "Legge 15 aprile 2025, n. 63",
+  "sigla": "Legge 63/2025",
+  "file": "",
+  "codice": "25G00069",
+  "dataGU": "2025-05-05",
+  "descrizione": "LEGGE 15 aprile 2025, n. 63"
+ },
+ {
+  "id": "2025-39-dl",
+  "titolo": "Misure urgenti in materia di assicurazione dei rischi catastrofali.",
+  "rif": "D.L. 31 marzo 2025, n. 39",
+  "sigla": "D.L. 39/2025",
+  "file": "",
+  "codice": "25G00051",
+  "dataGU": "2025-03-31",
+  "descrizione": "DECRETO-LEGGE 31 marzo 2025, n. 39"
+ },
+ {
+  "id": "2025-21-legge",
+  "titolo": "Modifica all'articolo 3 della legge 20 agosto 2019, n. 92, concernente l'introduzione delle conoscenze di base in materia di sicurezza nei luoghi di lavoro nell'ambito dell'insegnamento dell'educazione civica.",
+  "rif": "Legge 17 febbraio 2025, n. 21",
+  "sigla": "Legge 21/2025",
+  "file": "",
+  "codice": "25G00021",
+  "dataGU": "2025-03-04",
+  "descrizione": "LEGGE 17 febbraio 2025, n. 21"
+ },
+ {
+  "id": "2025-19-dl",
+  "titolo": "Misure urgenti in favore delle famiglie e delle imprese di agevolazione tariffaria per la fornitura di energia elettrica e gas naturale nonche' per la trasparenza delle offerte al dettaglio e il rafforzamento delle sanzioni delle Autorita' di vigilanza.",
+  "rif": "D.L. 28 febbraio 2025, n. 19",
+  "sigla": "D.L. 19/2025",
+  "file": "",
+  "codice": "25G00030",
+  "dataGU": "2025-02-28",
+  "descrizione": "DECRETO-LEGGE 28 febbraio 2025, n. 19"
+ },
+ {
+  "id": "2025-12-dpr",
+  "titolo": "Regolamento recante la tabella unica del valore pecuniario da attribuire a ogni singolo punto di invalidita' tra dieci e cento punti, comprensivo dei coefficienti di variazione corrispondenti all'eta' del soggetto leso, ai sensi dell'articolo 138, comma 1, lettera b), del codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209.",
+  "rif": "D.P.R. 13 gennaio 2025, n. 12",
+  "sigla": "D.P.R. 12/2025",
+  "file": "",
+  "codice": "25G00019",
+  "dataGU": "2025-02-18",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 2025, n. 12"
+ },
+ {
+  "id": "2025-3-dl",
+  "titolo": "Misure urgenti per assicurare la continuita' produttiva ((ed occupazionale degli impianti dell'ex ILVA S.p.A., nonché per il riesame dell'autorizzazione integrata ambientale per gli impianti di interesse strategico nazionale)).",
+  "rif": "D.L. 24 gennaio 2025, n. 3",
+  "sigla": "D.L. 3/2025",
+  "file": "",
+  "codice": "25G00010",
+  "dataGU": "2025-01-24",
+  "descrizione": "DECRETO-LEGGE 24 gennaio 2025, n. 3"
+ },
+ {
+  "id": "2026-170-dl",
+  "titolo": "Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonche' in materia di formazione superiore e ricerca.",
+  "rif": "D.L. 30 settembre 2026, n. 170",
+  "sigla": "D.L. 170/2026",
+  "file": "",
+  "codice": "26G00190",
+  "dataGU": "2026-09-30",
+  "descrizione": "DECRETO-LEGGE 30 settembre 2026, n. 170"
+ },
+ {
+  "id": "2026-144-dl",
+  "titolo": "Disposizioni urgenti per la funzionalita' della pubblica amministrazione e degli enti territoriali, nonche' in materia di protezione civile.",
+  "rif": "D.L. 7 agosto 2026, n. 144",
+  "sigla": "D.L. 144/2026",
+  "file": "",
+  "codice": "26G00167",
+  "dataGU": "2026-08-07",
+  "descrizione": "DECRETO-LEGGE 7 agosto 2026, n. 144"
+ },
+ {
+  "id": "2026-127-dl",
+  "titolo": "Misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano.",
+  "rif": "D.L. 23 luglio 2026, n. 127",
+  "sigla": "D.L. 127/2026",
+  "file": "",
+  "codice": "26G00151",
+  "dataGU": "2026-07-23",
+  "descrizione": "DECRETO-LEGGE 23 luglio 2026, n. 127"
+ },
+ {
+  "id": "2026-123-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 5 febbraio 2024, n. 20, recante istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita'.",
+  "rif": "D.Lgs. 18 giugno 2026, n. 123",
+  "sigla": "D.Lgs. 123/2026",
+  "file": "",
+  "codice": "26G00141",
+  "dataGU": "2026-07-09",
+  "descrizione": "DECRETO LEGISLATIVO 18 giugno 2026, n. 123"
+ },
+ {
+  "id": "2026-115-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/1712 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che modifica la direttiva 2011/36/UE concernente la prevenzione e la repressione della tratta di esseri umani e la protezione delle vittime.",
+  "rif": "D.Lgs. 12 giugno 2026, n. 115",
+  "sigla": "D.Lgs. 115/2026",
+  "file": "",
+  "codice": "26G00130",
+  "dataGU": "2026-07-01",
+  "descrizione": "DECRETO LEGISLATIVO 12 giugno 2026, n. 115"
+ },
+ {
+  "id": "2026-111-legge",
+  "titolo": "Modifica all'articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti all'Anagrafe degli italiani residenti all'estero, residenti in Paesi che non appartengono all'Unione europea e non aderiscono all'Associazione europea di libero scambio.",
+  "rif": "Legge 12 giugno 2026, n. 111",
+  "sigla": "Legge 111/2026",
+  "file": "",
+  "codice": "26G00127",
+  "dataGU": "2026-06-27",
+  "descrizione": "LEGGE 12 giugno 2026, n. 111"
+ },
+ {
+  "id": "2026-104-legge",
+  "titolo": "Disposizioni in materia di consenso informato in ambito scolastico.",
+  "rif": "Legge 9 giugno 2026, n. 104",
+  "sigla": "Legge 104/2026",
+  "file": "",
+  "codice": "26G00121",
+  "dataGU": "2026-06-22",
+  "descrizione": "LEGGE 9 giugno 2026, n. 104"
+ },
+ {
+  "id": "2026-102-dpr",
+  "titolo": "Regolamento recante modifiche al Testo unico delle disposizioni regolamentari in materia di ordinamento militare, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 90, per l'incremento del contingente degli Uffici di diretta collaborazione del Ministro della difesa.",
+  "rif": "D.P.R. 13 aprile 2026, n. 102",
+  "sigla": "D.P.R. 102/2026",
+  "file": "",
+  "codice": "26G00120",
+  "dataGU": "2026-06-17",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 aprile 2026, n. 102"
+ },
+ {
+  "id": "2026-96-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2023/970 del Parlamento europeo e del Consiglio, del 10 maggio 2023, volta a rafforzare l'applicazione del principio della parita' di retribuzione tra uomini e donne per uno stesso lavoro o per un lavoro di pari valore attraverso la trasparenza retributiva e i relativi meccanismi di applicazione.",
+  "rif": "D.Lgs. 7 maggio 2026, n. 96",
+  "sigla": "D.Lgs. 96/2026",
+  "file": "",
+  "codice": "26G00112",
+  "dataGU": "2026-06-01",
+  "descrizione": "DECRETO LEGISLATIVO 7 maggio 2026, n. 96"
+ },
+ {
+  "id": "2026-91-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/1499 del Consiglio, del 7 maggio 2024, sulle norme riguardanti gli organismi per la parita' in materia di parita' di trattamento tra le persone indipendentemente dalla razza o dall'origine etnica, tra le persone in materia di occupazione e impiego indipendentemente dalla religione o dalle convinzioni personali, dalla disabilita', dall'eta' o dall'orientamento sessuale e tra le donne e gli uomini in materia di sicurezza sociale e per quanto riguarda l'accesso a beni e servizi e la loro fornitura, e che modifica le direttive 2000/43/CE e 2004/113/CE, nonche' attuazione della direttiva (UE) 2024/1500 del Parlamento europeo e del Consiglio, del 14 maggio 2024, sulle norme riguardanti gli organismi per la parita' nel settore della parita' di trattamento e delle pari opportunita' tra donne e uomini in materia di occupazione e impiego, e che modifica le direttive 2006/54/CE e 2010/41/UE.",
+  "rif": "D.Lgs. 7 maggio 2026, n. 91",
+  "sigla": "D.Lgs. 91/2026",
+  "file": "",
+  "codice": "26G00106",
+  "dataGU": "2026-05-23",
+  "descrizione": "DECRETO LEGISLATIVO 7 maggio 2026, n. 91"
+ },
+ {
+  "id": "2026-30-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/825 del Parlamento europeo e del Consiglio, del 28 febbraio 2024, che modifica le direttive 2005/29/CE e 2011/83/UE per quanto riguarda la responsabilizzazione dei consumatori per la transizione verde mediante il miglioramento della tutela dalle pratiche sleali e dell'informazione.",
+  "rif": "D.Lgs. 20 febbraio 2026, n. 30",
+  "sigla": "D.Lgs. 30/2026",
+  "file": "",
+  "codice": "26G00047",
+  "dataGU": "2026-03-09",
+  "descrizione": "DECRETO LEGISLATIVO 20 febbraio 2026, n. 30"
+ },
+ {
+  "id": "2026-29-dlgs",
+  "titolo": "Disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE.",
+  "rif": "D.Lgs. 10 febbraio 2026, n. 29",
+  "sigla": "D.Lgs. 29/2026",
+  "file": "",
+  "codice": "26G00046",
+  "dataGU": "2026-03-06",
+  "descrizione": "DECRETO LEGISLATIVO 10 febbraio 2026, n. 29"
+ },
+ {
+  "id": "2026-28-dlgs",
+  "titolo": "Adeguamento del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, alle disposizioni dei regolamenti (UE) 2023/2631, (UE) 2023/2845, (UE) 2024/791, (UE) 2024/2987, e recepimento delle direttive (UE) 2023/2864 e (UE) 2024/790, nonche' disposizioni integrative e correttive della disciplina prevista dal decreto legislativo 4 settembre 2024, n. 128, per l'attuazione della direttiva (UE) 2021/2101.",
+  "rif": "D.Lgs. 9 febbraio 2026, n. 28",
+  "sigla": "D.Lgs. 28/2026",
+  "file": "",
+  "codice": "26G00035",
+  "dataGU": "2026-03-05",
+  "descrizione": "DECRETO LEGISLATIVO 9 febbraio 2026, n. 28"
+ },
+ {
+  "id": "2026-2-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/884 del Parlamento europeo e del Consiglio, del 13 marzo 2024, che modifica la direttiva 2012/19/UE sui rifiuti di apparecchiature elettriche ed elettroniche - RAEE.",
+  "rif": "D.Lgs. 7 gennaio 2026, n. 2",
+  "sigla": "D.Lgs. 2/2026",
+  "file": "",
+  "codice": "26G00010",
+  "dataGU": "2026-01-09",
+  "descrizione": "DECRETO LEGISLATIVO 7 gennaio 2026, n. 2"
  }
 ]

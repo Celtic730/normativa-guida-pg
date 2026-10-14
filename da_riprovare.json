@@ -68,5 +68,125 @@
   "codice": "24G00171",
   "dataGU": "2024-10-11",
   "descrizione": "DECRETO-LEGGE 11 ottobre 2024, n. 145"
+ },
+ {
+  "id": "2022-115-dl",
+  "titolo": "Misure urgenti in materia di energia, emergenza idrica, politiche sociali e industriali.",
+  "rif": "D.L. 9 agosto 2022, n. 115",
+  "sigla": "D.L. 115/2022",
+  "file": "",
+  "codice": "22G00128",
+  "dataGU": "2022-08-09",
+  "descrizione": "DECRETO-LEGGE 9 agosto 2022, n. 115"
+ },
+ {
+  "id": "2022-4-dl",
+  "titolo": "Misure urgenti in materia di sostegno alle imprese e agli operatori economici, di lavoro, salute e servizi territoriali, connesse all'emergenza da COVID-19, nonche' per il contenimento degli effetti degli aumenti dei prezzi nel settore elettrico.",
+  "rif": "D.L. 27 gennaio 2022, n. 4",
+  "sigla": "D.L. 4/2022",
+  "file": "",
+  "codice": "22G00008",
+  "dataGU": "2022-01-27",
+  "descrizione": "DECRETO-LEGGE 27 gennaio 2022, n. 4"
+ },
+ {
+  "id": "2023-131-dl",
+  "titolo": "Misure urgenti in materia di energia, interventi per sostenere il potere di acquisto e a tutela del risparmio.",
+  "rif": "D.L. 29 settembre 2023, n. 131",
+  "sigla": "D.L. 131/2023",
+  "file": "",
+  "codice": "23G00141",
+  "dataGU": "2023-09-29",
+  "descrizione": "DECRETO-LEGGE 29 settembre 2023, n. 131"
+ },
+ {
+  "id": "2023-124-dl",
+  "titolo": "Disposizioni urgenti in materia di politiche di coesione, per il rilancio dell'economia nelle aree del Mezzogiorno del Paese, nonche' in materia di immigrazione.",
+  "rif": "D.L. 19 settembre 2023, n. 124",
+  "sigla": "D.L. 124/2023",
+  "file": "",
+  "codice": "23G00137",
+  "dataGU": "2023-09-19",
+  "descrizione": "DECRETO-LEGGE 19 settembre 2023, n. 124"
+ },
+ {
+  "id": "2023-121-dl",
+  "titolo": "Misure urgenti in materia di pianificazione della qualita' dell'aria e limitazioni della circolazione stradale.",
+  "rif": "D.L. 12 settembre 2023, n. 121",
+  "sigla": "D.L. 121/2023",
+  "file": "",
+  "codice": "23G00131",
+  "dataGU": "2023-09-12",
+  "descrizione": "DECRETO-LEGGE 12 settembre 2023, n. 121"
+ },
+ {
+  "id": "2023-25-dl",
+  "titolo": "Disposizioni urgenti in materia di emissioni e circolazione di determinati strumenti finanziari in forma digitale e di semplificazione della sperimentazione FinTech.",
+  "rif": "D.L. 17 marzo 2023, n. 25",
+  "sigla": "D.L. 25/2023",
+  "file": "",
+  "codice": "23G00035",
+  "dataGU": "2023-03-17",
+  "descrizione": "DECRETO-LEGGE 17 marzo 2023, n. 25"
+ },
+ {
+  "id": "2024-160-dl",
+  "titolo": "Disposizioni urgenti in materia di lavoro, universita', ricerca e istruzione per una migliore attuazione del Piano nazionale di ripresa e resilienza.",
+  "rif": "D.L. 28 ottobre 2024, n. 160",
+  "sigla": "D.L. 160/2024",
+  "file": "",
+  "codice": "24G00178",
+  "dataGU": "2024-10-28",
+  "descrizione": "DECRETO-LEGGE 28 ottobre 2024, n. 160"
+ },
+ {
+  "id": "2024-153-dl",
+  "titolo": "Disposizioni urgenti per la tutela ambientale del Paese, la razionalizzazione dei procedimenti di valutazione e autorizzazione ambientale, la promozione dell'economia circolare, l'attuazione di interventi in materia di bonifiche di siti contaminati e dissesto idrogeologico.",
+  "rif": "D.L. 17 ottobre 2024, n. 153",
+  "sigla": "D.L. 153/2024",
+  "file": "",
+  "codice": "24G00174",
+  "dataGU": "2024-10-17",
+  "descrizione": "DECRETO-LEGGE 17 ottobre 2024, n. 153"
+ },
+ {
+  "id": "2024-89-dl",
+  "titolo": "Disposizioni urgenti per le infrastrutture e gli investimenti di interesse strategico, per il processo penale e in materia di sport.",
+  "rif": "D.L. 29 giugno 2024, n. 89",
+  "sigla": "D.L. 89/2024",
+  "file": "",
+  "codice": "24G00106",
+  "dataGU": "2024-06-29",
+  "descrizione": "DECRETO-LEGGE 29 giugno 2024, n. 89"
+ },
+ {
+  "id": "2024-71-dl",
+  "titolo": "Disposizioni urgenti in materia di sport, di sostegno didattico agli alunni con disabilita', per il regolare avvio dell'anno scolastico 2024/2025 e in materia di universita' e ricerca.",
+  "rif": "D.L. 31 maggio 2024, n. 71",
+  "sigla": "D.L. 71/2024",
+  "file": "",
+  "codice": "24G00089",
+  "dataGU": "2024-05-31",
+  "descrizione": "DECRETO-LEGGE 31 maggio 2024, n. 71"
+ },
+ {
+  "id": "2026-181-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2024/2839 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, in materia di comunicazione nei settori degli alimenti e dei loro ingredienti, dell'emissione acustica ambientale, dei diritti dei pazienti e delle apparecchiature radio.",
+  "rif": "D.Lgs. 25 settembre 2026, n. 181",
+  "sigla": "D.Lgs. 181/2026",
+  "file": "",
+  "codice": "26G00196",
+  "dataGU": "2026-10-09",
+  "descrizione": "DECRETO LEGISLATIVO 25 settembre 2026, n. 181"
+ },
+ {
+  "id": "2026-179-dlgs",
+  "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale, in materia di poteri delle Autorita' nazionali e di utilizzo dell'intelligenza artificiale nella formazione.",
+  "rif": "D.Lgs. 7 ottobre 2026, n. 179",
+  "sigla": "D.Lgs. 179/2026",
+  "file": "",
+  "codice": "26G00200",
+  "dataGU": "2026-10-08",
+  "descrizione": "DECRETO LEGISLATIVO 7 ottobre 2026, n. 179"
  }
 ]

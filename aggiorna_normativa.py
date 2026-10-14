@@ -1,15 +1,18 @@
 """Controlla su Normattiva gli atti di atti.json e aggiorna solo quelli cambiati.
 Per ogni atto: legge la data «ultimo aggiornamento all'atto» dalla pagina; se e' cambiata (o manca il file) scarica il
 testo vigente in Akoma Ntoso, lo divide in articoli e scrive dati/<id>.json. Alla fine scrive dati/manifest.json.
-Uso: python aggiorna_normativa.py [--force] [--solo ID,ID]"""
+Uso: python aggiorna_normativa.py [--force] [--solo ID,ID] [--workers N]
+(--workers: N atti in parallelo, ma sempre al massimo 1 richiesta al secondo in totale; predefinito 1)"""
 import datetime
 import hashlib
 import json
 import os
 import re
 import sys
+import threading
 import time
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
@@ -22,7 +25,16 @@ BASE = "https://www.normattiva.it"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
       "Accept-Language": "it-IT,it;q=0.9"}
 BLOCK = {"paragraph", "point", "list", "item", "blockList", "intro", "wrapUp", "p"}
-PAUSA = 1.0
+PAUSA = 1.0  # intervallo minimo tra due richieste a Normattiva, comune a tutti i worker
+_ultimo = [0.0]
+_lock_rate = threading.Lock()
+
+
+def attendi():
+    with _lock_rate:
+        t = max(0.0, _ultimo[0] + PAUSA - time.time())
+        _ultimo[0] = time.time() + t
+    time.sleep(t)
 
 
 def tag(e):
@@ -128,39 +140,51 @@ def main():
     atti = json.load(open(os.path.join(QUI, "atti.json"), encoding="utf-8"))
     stato = json.load(open(STATO, encoding="utf-8")) if os.path.exists(STATO) else {}
     os.makedirs(OUT, exist_ok=True)
-    s = sessione()
+    workers = int(sys.argv[sys.argv.index("--workers") + 1]) if "--workers" in sys.argv else 1
+    loc = threading.local()
+    lock = threading.Lock()
     manifest, aggiornati, errori = [], [], []
-    for atto in atti:
-        if solo and atto["id"] not in solo:
-            continue
+
+    def elabora(atto):
+        """Scarica un atto (sessione propria per thread); l'intervallo tra richieste e' comune a tutti i worker."""
         fn = os.path.join(OUT, atto["id"] + ".json")
         try:
+            if not hasattr(loc, "s"):
+                attendi()
+                loc.s = sessione()
+            s = loc.s
+            attendi()
             agg, url = pagina(s, atto)
-            time.sleep(PAUSA)
             old = stato.get(atto["id"], {})
             if not force and os.path.exists(fn) and agg and old.get("aggiornato") == agg:
                 print(f"=  {atto['rif']}: invariato ({agg})")
                 data = json.load(open(fn, encoding="utf-8"))
             else:
+                attendi()
                 root = akn(s, atto, url)
-                time.sleep(PAUSA)
                 arts = articoli(root)
                 h = hashlib.sha256(json.dumps(arts, ensure_ascii=False).encode()).hexdigest()[:16]
                 data = {"id": atto["id"], "titolo": atto["titolo"], "rif": atto["rif"], "sigla": atto["sigla"],
                         "aggiornato": agg, "hash": h, "articoli": arts}
                 json.dump(data, open(fn, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
-                stato[atto["id"]] = {"aggiornato": agg, "hash": h}
-                aggiornati.append(atto["rif"])
+                with lock:
+                    stato[atto["id"]] = {"aggiornato": agg, "hash": h}
+                    aggiornati.append(atto["rif"])
                 print(f"+  {atto['rif']}: {len(arts)} articoli, aggiornato al {agg}")
         except Exception as e:  # un atto che fallisce non blocca gli altri
-            errori.append((atto["rif"], str(e)[:120]))
+            with lock:
+                errori.append((atto["rif"], str(e)[:120]))
             print(f"!! {atto['rif']}: {e}")
             if not os.path.exists(fn):
-                continue
+                return None
             data = json.load(open(fn, encoding="utf-8"))
-        manifest.append({"id": data["id"], "titolo": data["titolo"], "rif": data["rif"], "sigla": data["sigla"],
-                         "aggiornato": data["aggiornato"], "hash": data["hash"], "articoli": len(data["articoli"]),
-                         "file": data["id"] + ".json", "kb": os.path.getsize(fn) // 1024})
+        return {"id": data["id"], "titolo": data["titolo"], "rif": data["rif"], "sigla": data["sigla"],
+                "aggiornato": data["aggiornato"], "hash": data["hash"], "articoli": len(data["articoli"]),
+                "file": data["id"] + ".json", "kb": os.path.getsize(fn) // 1024}
+
+    lista = [a for a in atti if not solo or a["id"] in solo]
+    with ThreadPoolExecutor(max(1, workers)) as ex:  # map mantiene l'ordine di atti.json
+        manifest = [m for m in ex.map(elabora, lista) if m]
     json.dump(stato, open(STATO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     if not solo:
         json.dump({"generato": datetime.date.today().isoformat(), "atti": manifest},
