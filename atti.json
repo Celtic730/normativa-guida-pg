@@ -4588,5 +4588,605 @@
   "codice": "009G0096",
   "dataGU": "2009-07-24",
   "descrizione": "LEGGE 15 luglio 2009, n. 94"
+ },
+ {
+  "id": "2017-31-dpr",
+  "titolo": "Regolamento recante individuazione degli interventi esclusi dall'autorizzazione paesaggistica o sottoposti a procedura autorizzatoria semplificata.",
+  "rif": "D.P.R. 13 febbraio 2017, n. 31",
+  "sigla": "D.P.R. 31/2017",
+  "file": "",
+  "codice": "17G00042",
+  "dataGU": "2017-03-22",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 2017, n. 31"
+ },
+ {
+  "id": "2026-73-dpr",
+  "titolo": "Modifica del regolamento recante individuazione degli interventi esclusi dall'autorizzazione paesaggistica o sottoposti a procedura autorizzatoria semplificata, di cui al decreto del Presidente della Repubblica 13 febbraio 2017, n. 31.",
+  "rif": "D.P.R. 20 febbraio 2026, n. 73",
+  "sigla": "D.P.R. 73/2026",
+  "file": "",
+  "codice": "26G00086",
+  "dataGU": "2026-05-12",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 2026, n. 73"
+ },
+ {
+  "id": "2015-142-dlgs",
+  "titolo": "Attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonche' della direttiva 2013/32/UE, recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale.",
+  "rif": "D.Lgs. 18 agosto 2015, n. 142",
+  "sigla": "D.Lgs. 142/2015",
+  "file": "",
+  "codice": "15G00158",
+  "dataGU": "2015-09-15",
+  "descrizione": "DECRETO LEGISLATIVO 18 agosto 2015, n. 142"
+ },
+ {
+  "id": "2015-21-dpr",
+  "titolo": "Regolamento relativo alle procedure per il riconoscimento e la revoca della protezione internazionale a norma dell'articolo 38, comma 1, del decreto legislativo 28 gennaio 2008, n. 25.",
+  "rif": "D.P.R. 12 gennaio 2015, n. 21",
+  "sigla": "D.P.R. 21/2015",
+  "file": "",
+  "codice": "15G00029",
+  "dataGU": "2015-03-05",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 2015, n. 21"
+ },
+ {
+  "id": "2017-220-dlgs",
+  "titolo": "Disposizioni integrative e correttive del decreto legislativo 18 agosto 2015, n. 142, di attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale nonche' della direttiva 2013/32/UE recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale.",
+  "rif": "D.Lgs. 22 dicembre 2017, n. 220",
+  "sigla": "D.Lgs. 220/2017",
+  "file": "",
+  "codice": "18G00005",
+  "dataGU": "2018-01-16",
+  "descrizione": "DECRETO LEGISLATIVO 22 dicembre 2017, n. 220"
+ },
+ {
+  "id": "2016-184-dlgs",
+  "titolo": "Attuazione della direttiva 2013/48/UE, relativa al diritto di avvalersi di un difensore nel procedimento penale e nel procedimento di esecuzione del mandato d'arresto europeo, al diritto di informare un terzo al momento della privazione della liberta' personale e al diritto delle persone private della liberta' personale di comunicare con terzi e con le Autorita' consolari.",
+  "rif": "D.Lgs. 15 settembre 2016, n. 184",
+  "sigla": "D.Lgs. 184/2016",
+  "file": "",
+  "codice": "16G00197",
+  "dataGU": "2016-10-03",
+  "descrizione": "DECRETO LEGISLATIVO 15 settembre 2016, n. 184"
+ },
+ {
+  "id": "2015-28-dlgs",
+  "titolo": "Disposizioni in materia di non punibilita' per particolare tenuita' del fatto, a norma dell'articolo 1, comma 1, lettera m), della legge 28 aprile 2014, n. 67.",
+  "rif": "D.Lgs. 16 marzo 2015, n. 28",
+  "sigla": "D.Lgs. 28/2015",
+  "file": "",
+  "codice": "15G00044",
+  "dataGU": "2015-03-18",
+  "descrizione": "DECRETO LEGISLATIVO 16 marzo 2015, n. 28"
+ },
+ {
+  "id": "2015-6-dlgs",
+  "titolo": "Riordino della disciplina della difesa d'ufficio, ai sensi dell'articolo 16 della legge 31 dicembre 2012, n. 247.",
+  "rif": "D.Lgs. 30 gennaio 2015, n. 6",
+  "sigla": "D.Lgs. 6/2015",
+  "file": "",
+  "codice": "15G00017",
+  "dataGU": "2015-02-05",
+  "descrizione": "DECRETO LEGISLATIVO 30 gennaio 2015, n. 6"
+ },
+ {
+  "id": "2017-108-dlgs",
+  "titolo": "Norme di attuazione della direttiva 2014/41/UE del Parlamento europeo e del Consiglio, del 3 aprile 2014, relativa all'ordine europeo di indagine penale.",
+  "rif": "D.Lgs. 21 giugno 2017, n. 108",
+  "sigla": "D.Lgs. 108/2017",
+  "file": "",
+  "codice": "17G00120",
+  "dataGU": "2017-07-13",
+  "descrizione": "DECRETO LEGISLATIVO 21 giugno 2017, n. 108"
+ },
+ {
+  "id": "2016-202-dlgs",
+  "titolo": "Attuazione della direttiva 2014/42/UE relativa al congelamento e alla confisca dei beni strumentali e dei proventi da reato nell'Unione europea.",
+  "rif": "D.Lgs. 29 ottobre 2016, n. 202",
+  "sigla": "D.Lgs. 202/2016",
+  "file": "",
+  "codice": "16G00216",
+  "dataGU": "2016-11-09",
+  "descrizione": "DECRETO LEGISLATIVO 29 ottobre 2016, n. 202"
+ },
+ {
+  "id": "2023-203-dlgs",
+  "titolo": "Disposizioni per il compiuto adeguamento della normativa nazionale alle disposizioni del Regolamento (UE) 2018/1805 del Parlamento europeo e del Consiglio, del 14 novembre 2018, relativo al riconoscimento reciproco dei provvedimenti di congelamento e di confisca.",
+  "rif": "D.Lgs. 7 dicembre 2023, n. 203",
+  "sigla": "D.Lgs. 203/2023",
+  "file": "",
+  "codice": "23G00213",
+  "dataGU": "2023-12-22",
+  "descrizione": "DECRETO LEGISLATIVO 7 dicembre 2023, n. 203"
+ },
+ {
+  "id": "2017-95-dlgs",
+  "titolo": "Disposizioni in materia di revisione dei ruoli delle Forze di polizia, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche.",
+  "rif": "D.Lgs. 29 maggio 2017, n. 95",
+  "sigla": "D.Lgs. 95/2017",
+  "file": "",
+  "codice": "17G00087",
+  "dataGU": "2017-06-22",
+  "descrizione": "DECRETO LEGISLATIVO 29 maggio 2017, n. 95"
+ },
+ {
+  "id": "2019-172-dlgs",
+  "titolo": "Disposizioni integrative e correttive, a norma dell'articolo 1, commi 2 e 3, della legge 1° dicembre 2018, n. 132, al decreto legislativo 29 maggio 2017, n. 95, recante: «Disposizioni in materia di revisione dei ruoli delle Forze di polizia, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche».",
+  "rif": "D.Lgs. 27 dicembre 2019, n. 172",
+  "sigla": "D.Lgs. 172/2019",
+  "file": "",
+  "codice": "20G00012",
+  "dataGU": "2020-02-05",
+  "descrizione": "DECRETO LEGISLATIVO 27 dicembre 2019, n. 172"
+ },
+ {
+  "id": "2018-126-dlgs",
+  "titolo": "Disposizioni integrative e correttive, a norma dell'articolo 8, comma 6, della legge 7 agosto 2015, n. 124, al decreto legislativo 29 maggio 2017, n. 95, recante: «Disposizioni in materia di revisione dei ruoli delle Forze di polizia, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche».",
+  "rif": "D.Lgs. 5 ottobre 2018, n. 126",
+  "sigla": "D.Lgs. 126/2018",
+  "file": "",
+  "codice": "18G00152",
+  "dataGU": "2018-11-02",
+  "descrizione": "DECRETO LEGISLATIVO 5 ottobre 2018, n. 126"
+ },
+ {
+  "id": "2017-228-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 19 agosto 2016, n. 177, in materia di razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato, ai sensi dell'articolo 8, comma 6, della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche.",
+  "rif": "D.Lgs. 12 dicembre 2017, n. 228",
+  "sigla": "D.Lgs. 228/2017",
+  "file": "",
+  "codice": "18G00017",
+  "dataGU": "2018-01-27",
+  "descrizione": "DECRETO LEGISLATIVO 12 dicembre 2017, n. 228"
+ },
+ {
+  "id": "2026-62-dl",
+  "titolo": "Disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale.",
+  "rif": "D.L. 30 aprile 2026, n. 62",
+  "sigla": "D.L. 62/2026",
+  "file": "",
+  "codice": "26G00082",
+  "dataGU": "2026-04-30",
+  "descrizione": "DECRETO-LEGGE 30 aprile 2026, n. 62"
+ },
+ {
+  "id": "2018-117-legge",
+  "titolo": "Introduzione dell'obbligo di installazione di dispositivi per prevenire l'abbandono di bambini nei veicoli chiusi.",
+  "rif": "Legge 1 ottobre 2018, n. 117",
+  "sigla": "Legge 117/2018",
+  "file": "",
+  "codice": "18G00136",
+  "dataGU": "2018-10-12",
+  "descrizione": "LEGGE 1 ottobre 2018, n. 117"
+ },
+ {
+  "id": "2020-54-dm",
+  "titolo": "Regolamento recante la definizione del «contratto base» di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, di cui all'articolo 22 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221.",
+  "rif": "DECRETO 11 marzo 2020, n. 54",
+  "sigla": "D.M. 54/2020",
+  "file": "",
+  "codice": "20G00070",
+  "dataGU": "2020-06-17",
+  "descrizione": "DECRETO 11 marzo 2020, n. 54"
+ },
+ {
+  "id": "2016-2-dlgs",
+  "titolo": "Attuazione della direttiva 2014/60/UE relativa alla restituzione dei beni culturali usciti illecitamente dal territorio di uno Stato membro e che modifica il regolamento (UE) n. 1024/2012.",
+  "rif": "D.Lgs. 7 gennaio 2016, n. 2",
+  "sigla": "D.Lgs. 2/2016",
+  "file": "",
+  "codice": "16G00003",
+  "dataGU": "2016-01-11",
+  "descrizione": "DECRETO LEGISLATIVO 7 gennaio 2016, n. 2"
+ },
+ {
+  "id": "2023-172-legge",
+  "titolo": "Disposizioni in materia di divieto di produzione e di immissione sul mercato di alimenti e mangimi costituiti, isolati o prodotti a partire da colture cellulari o di tessuti derivanti da animali vertebrati nonche' di divieto della denominazione di carne per prodotti trasformati contenenti proteine vegetali.",
+  "rif": "Legge 1 dicembre 2023, n. 172",
+  "sigla": "Legge 172/2023",
+  "file": "",
+  "codice": "23G00188",
+  "dataGU": "2023-12-01",
+  "descrizione": "LEGGE 1 dicembre 2023, n. 172"
+ },
+ {
+  "id": "2023-59-dm",
+  "titolo": "Regolamento recante: «Disciplina del sistema di tracciabilita' dei rifiuti e del registro elettronico nazionale per la tracciabilita' dei rifiuti ai sensi dell'articolo 188-bis del decreto legislativo 3 aprile 2006, n. 152».",
+  "rif": "DECRETO 4 aprile 2023, n. 59",
+  "sigla": "D.M. 59/2023",
+  "file": "",
+  "codice": "23G00065",
+  "dataGU": "2023-05-31",
+  "descrizione": "DECRETO 4 aprile 2023, n. 59"
+ },
+ {
+  "id": "2015-74-dlgs",
+  "titolo": "Attuazione della direttiva 2009/138/CE in materia di accesso ed esercizio delle attivita' di assicurazione e riassicurazione (solvibilita' II).",
+  "rif": "D.Lgs. 12 maggio 2015, n. 74",
+  "sigla": "D.Lgs. 74/2015",
+  "file": "",
+  "codice": "15G00088",
+  "dataGU": "2015-06-15",
+  "descrizione": "DECRETO LEGISLATIVO 12 maggio 2015, n. 74"
+ },
+ {
+  "id": "2015-130-dlgs",
+  "titolo": "Attuazione della direttiva 2013/11/UE sulla risoluzione alternativa delle controversie dei consumatori, che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2009/22/CE (direttiva sull'ADR per i consumatori).",
+  "rif": "D.Lgs. 6 agosto 2015, n. 130",
+  "sigla": "D.Lgs. 130/2015",
+  "file": "",
+  "codice": "15G00147",
+  "dataGU": "2015-08-19",
+  "descrizione": "DECRETO LEGISLATIVO 6 agosto 2015, n. 130"
+ },
+ {
+  "id": "2016-72-dlgs",
+  "titolo": "Attuazione della direttiva 2014/17/UE, in merito ai contratti di credito ai consumatori relativi a beni immobili residenziali nonche' modifiche e integrazioni del titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385, sulla disciplina degli agenti in attivita' finanziaria e dei mediatori creditizi e del decreto legislativo 13 agosto 2010, n. 141.",
+  "rif": "D.Lgs. 21 aprile 2016, n. 72",
+  "sigla": "D.Lgs. 72/2016",
+  "file": "",
+  "codice": "16G00087",
+  "dataGU": "2016-05-20",
+  "descrizione": "DECRETO LEGISLATIVO 21 aprile 2016, n. 72"
+ },
+ {
+  "id": "2018-62-dlgs",
+  "titolo": "Attuazione della direttiva (UE) 2015/2302 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativa ai pacchetti turistici e ai servizi turistici collegati, che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2011/83/UE del Parlamento europeo e del Consiglio e che abroga la direttiva 90/314/CEE del Consiglio.",
+  "rif": "D.Lgs. 21 maggio 2018, n. 62",
+  "sigla": "D.Lgs. 62/2018",
+  "file": "",
+  "codice": "18G00086",
+  "dataGU": "2018-06-06",
+  "descrizione": "DECRETO LEGISLATIVO 21 maggio 2018, n. 62"
+ },
+ {
+  "id": "2019-31-legge",
+  "titolo": "Disposizioni in materia di azione di classe.",
+  "rif": "Legge 12 aprile 2019, n. 31",
+  "sigla": "Legge 31/2019",
+  "file": "",
+  "codice": "19G00038",
+  "dataGU": "2019-04-18",
+  "descrizione": "LEGGE 12 aprile 2019, n. 31"
+ },
+ {
+  "id": "2015-26-dpr",
+  "titolo": "((Regolamento recante attuazione dell'articolo 5, comma 1, della legge 10 dicembre 2012, n. 219, in materia di filiazione)).",
+  "rif": "D.P.R. 30 gennaio 2015, n. 26",
+  "sigla": "D.P.R. 26/2015",
+  "file": "",
+  "codice": "15G00040",
+  "dataGU": "2015-03-16",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 2015, n. 26"
+ },
+ {
+  "id": "2015-55-legge",
+  "titolo": "Disposizioni in materia di scioglimento o di cessazione degli effetti civili del matrimonio nonche' di comunione tra i coniugi.",
+  "rif": "Legge 6 maggio 2015, n. 55",
+  "sigla": "Legge 55/2015",
+  "file": "",
+  "codice": "15G00073",
+  "dataGU": "2015-05-11",
+  "descrizione": "LEGGE 6 maggio 2015, n. 55"
+ },
+ {
+  "id": "2021-46-legge",
+  "titolo": "Delega al Governo per riordinare, semplificare e potenziare le misure a sostegno dei figli a carico attraverso l'assegno unico e universale.",
+  "rif": "Legge 1 aprile 2021, n. 46",
+  "sigla": "Legge 46/2021",
+  "file": "",
+  "codice": "21G00057",
+  "dataGU": "2021-04-06",
+  "descrizione": "LEGGE 1 aprile 2021, n. 46"
+ },
+ {
+  "id": "2021-230-dlgs",
+  "titolo": "Istituzione dell'assegno unico e universale per i figli a carico, in attuazione della delega conferita al Governo ai sensi della legge 1° aprile 2021, n. 46.",
+  "rif": "D.Lgs. 29 dicembre 2021, n. 230",
+  "sigla": "D.Lgs. 230/2021",
+  "file": "",
+  "codice": "21G00252",
+  "dataGU": "2021-12-30",
+  "descrizione": "DECRETO LEGISLATIVO 29 dicembre 2021, n. 230"
+ },
+ {
+  "id": "2015-126-dpr",
+  "titolo": "Regolamento recante adeguamento del regolamento anagrafico della popolazione residente, approvato con decreto del Presidente della Repubblica 30 maggio 1989, n. 223, alla disciplina istitutiva dell'anagrafe nazionale della popolazione residente.",
+  "rif": "D.P.R. 17 luglio 2015, n. 126",
+  "sigla": "D.P.R. 126/2015",
+  "file": "",
+  "codice": "15G00140",
+  "dataGU": "2015-08-14",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 2015, n. 126"
+ },
+ {
+  "id": "2024-216-dlgs",
+  "titolo": "Disposizioni integrative e correttive al decreto legislativo 10 ottobre 2022, n. 149, in materia di mediazione civile e commerciale e negoziazione assistita.",
+  "rif": "D.Lgs. 27 dicembre 2024, n. 216",
+  "sigla": "D.Lgs. 216/2024",
+  "file": "",
+  "codice": "25G00003",
+  "dataGU": "2025-01-10",
+  "descrizione": "DECRETO LEGISLATIVO 27 dicembre 2024, n. 216"
+ },
+ {
+  "id": "2015-22-dlgs",
+  "titolo": "Disposizioni per il riordino della normativa in materia di ammortizzatori sociali in caso di disoccupazione involontaria e di ricollocazione dei lavoratori disoccupati, in attuazione della legge 10 dicembre 2014, n. 183.",
+  "rif": "D.Lgs. 4 marzo 2015, n. 22",
+  "sigla": "D.Lgs. 22/2015",
+  "file": "",
+  "codice": "15G00036",
+  "dataGU": "2015-03-06",
+  "descrizione": "DECRETO LEGISLATIVO 4 marzo 2015, n. 22"
+ },
+ {
+  "id": "2023-175-dlgs",
+  "titolo": "Riordino e revisione degli ammortizzatori e delle indennita' e per l'introduzione di un'indennita' di discontinuita' in favore dei lavoratori del settore dello spettacolo.",
+  "rif": "D.Lgs. 30 novembre 2023, n. 175",
+  "sigla": "D.Lgs. 175/2023",
+  "file": "",
+  "codice": "23G00187",
+  "dataGU": "2023-12-02",
+  "descrizione": "DECRETO LEGISLATIVO 30 novembre 2023, n. 175"
+ },
+ {
+  "id": "2016-166-legge",
+  "titolo": "Disposizioni concernenti la donazione e la distribuzione di prodotti alimentari e farmaceutici a fini di solidarieta' sociale e per la limitazione degli sprechi.",
+  "rif": "Legge 19 agosto 2016, n. 166",
+  "sigla": "Legge 166/2016",
+  "file": "",
+  "codice": "16G00179",
+  "dataGU": "2016-08-30",
+  "descrizione": "LEGGE 19 agosto 2016, n. 166"
+ },
+ {
+  "id": "2021-175-legge",
+  "titolo": "Disposizioni per la cura delle malattie rare e per il sostegno della ricerca e della produzione dei farmaci orfani.",
+  "rif": "Legge 10 novembre 2021, n. 175",
+  "sigla": "Legge 175/2021",
+  "file": "",
+  "codice": "21G00189",
+  "dataGU": "2021-11-27",
+  "descrizione": "LEGGE 10 novembre 2021, n. 175"
+ },
+ {
+  "id": "2025-134-dpr",
+  "titolo": "Regolamento concernente modifiche al decreto del Presidente della Repubblica 24 giugno 1998, n. 249, recante lo statuto delle studentesse e degli studenti della scuola secondaria.",
+  "rif": "D.P.R. 8 agosto 2025, n. 134",
+  "sigla": "D.P.R. 134/2025",
+  "file": "",
+  "codice": "25G00140",
+  "dataGU": "2025-09-25",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 8 agosto 2025, n. 134"
+ },
+ {
+  "id": "1978-180-legge",
+  "titolo": "Accertamenti e trattamenti sanitari volontari e obbligatori.",
+  "rif": "Legge 13 maggio 1978, n. 180",
+  "sigla": "Legge 180/1978",
+  "file": "",
+  "codice": "078U0180",
+  "dataGU": "1978-05-16",
+  "descrizione": "LEGGE 13 maggio 1978, n. 180"
+ },
+ {
+  "id": "1978-833-legge",
+  "titolo": "Istituzione del servizio sanitario nazionale.",
+  "rif": "Legge 23 dicembre 1978, n. 833",
+  "sigla": "Legge 833/1978",
+  "file": "",
+  "codice": "078U0833",
+  "dataGU": "1978-12-28",
+  "descrizione": "LEGGE 23 dicembre 1978, n. 833"
+ },
+ {
+  "id": "1978-194-legge",
+  "titolo": "Norme per la tutela sociale della maternita' e sull'interruzione volontaria della gravidanza.",
+  "rif": "Legge 22 maggio 1978, n. 194",
+  "sigla": "Legge 194/1978",
+  "file": "",
+  "codice": "078U0194",
+  "dataGU": "1978-05-22",
+  "descrizione": "LEGGE 22 maggio 1978, n. 194"
+ },
+ {
+  "id": "2004-40-legge",
+  "titolo": "Norme in materia di procreazione medicalmente assistita.",
+  "rif": "Legge 19 febbraio 2004, n. 40",
+  "sigla": "Legge 40/2004",
+  "file": "",
+  "codice": "004G0062",
+  "dataGU": "2004-02-24",
+  "descrizione": "LEGGE 19 febbraio 2004, n. 40"
+ },
+ {
+  "id": "2003-70-dlgs",
+  "titolo": "Attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico.",
+  "rif": "D.Lgs. 9 aprile 2003, n. 70",
+  "sigla": "D.Lgs. 70/2003",
+  "file": "",
+  "codice": "003G0090",
+  "dataGU": "2003-04-14",
+  "descrizione": "DECRETO LEGISLATIVO 9 aprile 2003, n. 70"
+ },
+ {
+  "id": "2010-28-dlgs",
+  "titolo": "Attuazione dell'articolo 60 della legge 18 giugno 2009, n. 69, in materia di mediazione finalizzata alla conciliazione delle controversie civili e commerciali. (10G0050)",
+  "rif": "D.Lgs. 4 marzo 2010, n. 28",
+  "sigla": "D.Lgs. 28/2010",
+  "file": "",
+  "codice": "010G0050",
+  "dataGU": "2010-03-05",
+  "descrizione": "DECRETO LEGISLATIVO 4 marzo 2010, n. 28"
+ },
+ {
+  "id": "2002-115-dpr",
+  "titolo": "Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia. (Testo A).",
+  "rif": "D.P.R. 30 maggio 2002, n. 115",
+  "sigla": "D.P.R. 115/2002",
+  "file": "",
+  "codice": "002G0139",
+  "dataGU": "2002-06-15",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 2002, n. 115"
+ },
+ {
+  "id": "1998-431-legge",
+  "titolo": "Disciplina delle locazioni e del rilascio degli immobili adibiti ad uso abitativo.",
+  "rif": "Legge 9 dicembre 1998, n. 431",
+  "sigla": "Legge 431/1998",
+  "file": "",
+  "codice": "098G0483",
+  "dataGU": "1998-12-15",
+  "descrizione": "LEGGE 9 dicembre 1998, n. 431"
+ },
+ {
+  "id": "1978-392-legge",
+  "titolo": "Disciplina delle locazioni di immobili urbani.",
+  "rif": "Legge 27 luglio 1978, n. 392",
+  "sigla": "Legge 392/1978",
+  "file": "",
+  "codice": "078U0392",
+  "dataGU": "1978-07-29",
+  "descrizione": "LEGGE 27 luglio 1978, n. 392"
+ },
+ {
+  "id": "1970-898-legge",
+  "titolo": "Disciplina dei casi di scioglimento del matrimonio.",
+  "rif": "Legge 1 dicembre 1970, n. 898",
+  "sigla": "Legge 898/1970",
+  "file": "",
+  "codice": "070U0898",
+  "dataGU": "1970-12-03",
+  "descrizione": "LEGGE 1 dicembre 1970, n. 898"
+ },
+ {
+  "id": "1970-300-legge",
+  "titolo": "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale, nei luoghi di lavoro e norme sul collocamento.",
+  "rif": "Legge 20 maggio 1970, n. 300",
+  "sigla": "Legge 300/1970",
+  "file": "",
+  "codice": "070U0300",
+  "dataGU": "1970-05-27",
+  "descrizione": "LEGGE 20 maggio 1970, n. 300"
+ },
+ {
+  "id": "2004-6-legge",
+  "titolo": "Introduzione nel libro primo, titolo XII, del codice civile del capo I, relativo all'istituzione dell'amministrazione di sostegno e modifica degli articoli 388, 414, 417, 418, 424, 426, 427 e 429 del codice civile in materia di interdizioni e di inabilitazione, nonche' relative norme di attuazione, di coordinamento e finali.",
+  "rif": "Legge 9 gennaio 2004, n. 6",
+  "sigla": "Legge 6/2004",
+  "file": "",
+  "codice": "004G0017",
+  "dataGU": "2004-01-19",
+  "descrizione": "LEGGE 9 gennaio 2004, n. 6"
+ },
+ {
+  "id": "2012-219-legge",
+  "titolo": "Disposizioni in materia di riconoscimento dei figli naturali. (12G0242)",
+  "rif": "Legge 10 dicembre 2012, n. 219",
+  "sigla": "Legge 219/2012",
+  "file": "",
+  "codice": "012G0242",
+  "dataGU": "2012-12-17",
+  "descrizione": "LEGGE 10 dicembre 2012, n. 219"
+ },
+ {
+  "id": "2013-154-dlgs",
+  "titolo": "Revisione delle disposizioni vigenti in materia di filiazione, a norma dell'articolo 2 della legge 10 dicembre 2012, n. 219.",
+  "rif": "D.Lgs. 28 dicembre 2013, n. 154",
+  "sigla": "D.Lgs. 154/2013",
+  "file": "",
+  "codice": "14G00001",
+  "dataGU": "2014-01-08",
+  "descrizione": "DECRETO LEGISLATIVO 28 dicembre 2013, n. 154"
+ },
+ {
+  "id": "2003-276-dlgs",
+  "titolo": "Attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla legge 14 febbraio 2003, n. 30.",
+  "rif": "D.Lgs. 10 settembre 2003, n. 276",
+  "sigla": "D.Lgs. 276/2003",
+  "file": "",
+  "codice": "003G0297",
+  "dataGU": "2003-10-09",
+  "descrizione": "DECRETO LEGISLATIVO 10 settembre 2003, n. 276"
+ },
+ {
+  "id": "2001-151-dlgs",
+  "titolo": "Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'articolo 15 della legge 8 marzo 2000, n. 53.",
+  "rif": "D.Lgs. 26 marzo 2001, n. 151",
+  "sigla": "D.Lgs. 151/2001",
+  "file": "",
+  "codice": "001G0200",
+  "dataGU": "2001-04-26",
+  "descrizione": "DECRETO LEGISLATIVO 26 marzo 2001, n. 151"
+ },
+ {
+  "id": "2001-380-dpr",
+  "titolo": "Testo unico delle disposizioni legislative e regolamentari in materia edilizia. (Testo A)",
+  "rif": "D.P.R. 6 giugno 2001, n. 380",
+  "sigla": "D.P.R. 380/2001",
+  "file": "",
+  "codice": "001G0429",
+  "dataGU": "2001-10-20",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 6 giugno 2001, n. 380"
+ },
+ {
+  "id": "1995-447-legge",
+  "titolo": "Legge quadro sull'inquinamento acustico.",
+  "rif": "Legge 26 ottobre 1995, n. 447",
+  "sigla": "Legge 447/1995",
+  "file": "",
+  "codice": "095G0477",
+  "dataGU": "1995-10-30",
+  "descrizione": "LEGGE 26 ottobre 1995, n. 447"
+ },
+ {
+  "id": "2001-36-legge",
+  "titolo": "Legge quadro sulla protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici.",
+  "rif": "Legge 22 febbraio 2001, n. 36",
+  "sigla": "Legge 36/2001",
+  "file": "",
+  "codice": "001G0084",
+  "dataGU": "2001-03-07",
+  "descrizione": "LEGGE 22 febbraio 2001, n. 36"
+ },
+ {
+  "id": "2002-313-dpr",
+  "titolo": "Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, ((di casellario giudiziale europeo,)) di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti. (Testo A).",
+  "rif": "D.P.R. 14 novembre 2002, n. 313",
+  "sigla": "D.P.R. 313/2002",
+  "file": "",
+  "codice": "003G0019",
+  "dataGU": "2003-02-13",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 2002, n. 313"
+ },
+ {
+  "id": "2007-231-dlgs",
+  "titolo": "Attuazione della direttiva 2005/60/CE concernente la prevenzione dell'utilizzo del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo nonche' della direttiva 2006/70/CE che ne reca misure di esecuzione.",
+  "rif": "D.Lgs. 21 novembre 2007, n. 231",
+  "sigla": "D.Lgs. 231/2007",
+  "file": "",
+  "codice": "007X0246",
+  "dataGU": "2007-12-14",
+  "descrizione": "DECRETO LEGISLATIVO 21 novembre 2007, n. 231"
+ },
+ {
+  "id": "1992-91-legge",
+  "titolo": "Nuove norme sulla cittadinanza.",
+  "rif": "Legge 5 febbraio 1992, n. 91",
+  "sigla": "Legge 91/1992",
+  "file": "",
+  "codice": "092G0162",
+  "dataGU": "1992-02-15",
+  "descrizione": "LEGGE 5 febbraio 1992, n. 91"
+ },
+ {
+  "id": "1970-300-legge",
+  "titolo": "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale, nei luoghi di lavoro e norme sul collocamento.",
+  "rif": "Legge 20 maggio 1970, n. 300",
+  "sigla": "Legge 300/1970",
+  "file": "",
+  "codice": "070U0300",
+  "dataGU": "1970-05-27",
+  "descrizione": "LEGGE 20 maggio 1970, n. 300"
  }
 ]
