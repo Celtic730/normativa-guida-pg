@@ -2070,5 +2070,29 @@
  "1992-91-legge": {
   "aggiornato": "2025-12-30",
   "hash": "7c9ab1a026f38dc9"
+ },
+ "2021-116-legge": {
+  "aggiornato": null,
+  "hash": "f844c3b4a3d3b8f3"
+ },
+ "2001-120-legge": {
+  "aggiornato": "2021-08-13",
+  "hash": "6e5b15dbb666557f"
+ },
+ "2003-388-dm": {
+  "aggiornato": "2004-05-28",
+  "hash": "fd85b27f82ed8d74"
+ },
+ "1992-502-dlgs": {
+  "aggiornato": "2026-05-09",
+  "hash": "b875f61156996405"
+ },
+ "2015-70-dm": {
+  "aggiornato": null,
+  "hash": "1ed2f85bd3402f80"
+ },
+ "2022-137-dlgs": {
+  "aggiornato": "2025-12-30",
+  "hash": "787152ec8c9d969c"
  }
 }

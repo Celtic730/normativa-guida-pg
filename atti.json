@@ -5188,5 +5188,65 @@
   "codice": "070U0300",
   "dataGU": "1970-05-27",
   "descrizione": "LEGGE 20 maggio 1970, n. 300"
+ },
+ {
+  "id": "2021-116-legge",
+  "titolo": "Disposizioni in materia di utilizzo dei defibrillatori semiautomatici e automatici",
+  "rif": "Legge 4 agosto 2021, n. 116",
+  "sigla": "Legge 116/2021",
+  "file": "",
+  "codice": "21G00126",
+  "dataGU": "2021-08-13",
+  "descrizione": "LEGGE 4 agosto 2021, n. 116"
+ },
+ {
+  "id": "2001-120-legge",
+  "titolo": "Utilizzo dei defibrillatori semiautomatici in ambiente extraospedaliero",
+  "rif": "Legge 3 aprile 2001, n. 120",
+  "sigla": "Legge 120/2001",
+  "file": "",
+  "codice": "001G0173",
+  "dataGU": "2001-04-14",
+  "descrizione": "LEGGE 3 aprile 2001, n. 120"
+ },
+ {
+  "id": "2003-388-dm",
+  "titolo": "Primo soccorso aziendale (regolamento)",
+  "rif": "D.M. 15 luglio 2003, n. 388",
+  "sigla": "D.M. 388/2003",
+  "file": "",
+  "codice": "004G0046",
+  "dataGU": "2004-02-03",
+  "descrizione": "DECRETO 15 luglio 2003, n. 388"
+ },
+ {
+  "id": "1992-502-dlgs",
+  "titolo": "Riordino della disciplina in materia sanitaria",
+  "rif": "D.Lgs. 30 dicembre 1992, n. 502",
+  "sigla": "D.Lgs. 502/1992",
+  "file": "",
+  "codice": "092G0549",
+  "dataGU": "1992-12-30",
+  "descrizione": "DECRETO LEGISLATIVO 30 dicembre 1992, n. 502"
+ },
+ {
+  "id": "2015-70-dm",
+  "titolo": "Standard qualitativi, strutturali, tecnologici e quantitativi relativi all'assistenza ospedaliera",
+  "rif": "D.M. 2 aprile 2015, n. 70",
+  "sigla": "D.M. 70/2015",
+  "file": "",
+  "codice": "15G00084",
+  "dataGU": "2015-06-04",
+  "descrizione": "DECRETO 2 aprile 2015, n. 70"
+ },
+ {
+  "id": "2022-137-dlgs",
+  "titolo": "Dispositivi medici (adeguamento al regolamento UE 2017/745)",
+  "rif": "D.Lgs. 5 agosto 2022, n. 137",
+  "sigla": "D.Lgs. 137/2022",
+  "file": "",
+  "codice": "22G00145",
+  "dataGU": "2022-09-13",
+  "descrizione": "DECRETO LEGISLATIVO 5 agosto 2022, n. 137"
  }
 ]
