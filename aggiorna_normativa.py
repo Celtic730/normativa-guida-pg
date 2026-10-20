@@ -74,7 +74,7 @@ def articoli(root):
     for a in root.iter("{%s}article" % NS["a"]):
         num = a.find("a:num", NS)
         head = a.find("a:heading", NS)
-        n = re.sub(r"^\s*(?:art\.?|articolo)\s*", "", " ".join(num.itertext()).strip(), flags=re.I).strip(" .") if num is not None else ""
+        n = re.sub(r"^\s*(?:articolo|art\.?)\s*", "", " ".join(num.itertext()).strip(), flags=re.I).strip(" .") if num is not None else ""
         r = re.sub(r"\s+", " ", " ".join(head.itertext())).strip() if head is not None else ""
         t = pulisci(tx(a, True))
         if t:
