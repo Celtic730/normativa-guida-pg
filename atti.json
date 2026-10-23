@@ -5248,5 +5248,35 @@
   "codice": "22G00145",
   "dataGU": "2022-09-13",
   "descrizione": "DECRETO LEGISLATIVO 5 agosto 2022, n. 137"
+ },
+ {
+  "id": "2010-170-legge",
+  "titolo": "Nuove norme in materia di disturbi specifici di apprendimento (DSA) in ambito scolastico",
+  "rif": "Legge 8 ottobre 2010, n. 170",
+  "sigla": "",
+  "file": "",
+  "codice": "010G0192",
+  "dataGU": "2010-10-18",
+  "descrizione": "LEGGE 8 ottobre 2010, n. 170"
+ },
+ {
+  "id": "1998-249-dpr",
+  "titolo": "Statuto delle studentesse e degli studenti della scuola secondaria",
+  "rif": "D.P.R. 24 giugno 1998, n. 249",
+  "sigla": "",
+  "file": "",
+  "codice": "098G0305",
+  "dataGU": "1998-07-29",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1998, n. 249"
+ },
+ {
+  "id": "1994-297-dlgs",
+  "titolo": "Testo unico delle disposizioni in materia di istruzione (scuola)",
+  "rif": "D.Lgs. 16 aprile 1994, n. 297",
+  "sigla": "",
+  "file": "",
+  "codice": "094G0291",
+  "dataGU": "1994-05-19",
+  "descrizione": "DECRETO LEGISLATIVO 16 aprile 1994, n. 297"
  }
 ]

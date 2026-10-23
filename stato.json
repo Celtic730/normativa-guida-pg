@@ -2094,5 +2094,17 @@
  "2022-137-dlgs": {
   "aggiornato": "2025-12-30",
   "hash": "787152ec8c9d969c"
+ },
+ "2010-170-legge": {
+  "aggiornato": null,
+  "hash": "a307f96a673c8221"
+ },
+ "1998-249-dpr": {
+  "aggiornato": "2025-09-25",
+  "hash": "dce94e04962d7b57"
+ },
+ "1994-297-dlgs": {
+  "aggiornato": "2026-07-15",
+  "hash": "b5c5db71c4389ee2"
  }
 }
