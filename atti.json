@@ -5278,5 +5278,36 @@
   "codice": "094G0291",
   "dataGU": "1994-05-19",
   "descrizione": "DECRETO LEGISLATIVO 16 aprile 1994, n. 297"
+ },
+ {
+  "id": "2013-62-dpr",
+  "titolo": "Codice di comportamento dei dipendenti pubblici",
+  "rif": "D.P.R. 16 aprile 2013, n. 62",
+  "sigla": "",
+  "file": "",
+  "codice": "13G00104",
+  "dataGU": "2013-06-04",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013, n. 62"
+ },
+ {
+  "id": "1927-436-rdl",
+  "titolo": "Pubblico registro automobilistico (PRA)",
+  "rif": "R.D.L. 15 marzo 1927, n. 436",
+  "sigla": "",
+  "file": "",
+  "codice": "027U0436",
+  "dataGU": "1927-04-11",
+  "descrizione": "REGIO DECRETO-LEGGE 15 marzo 1927, n. 436"
+ },
+ {
+  "id": "2011-5669-dm",
+  "titolo": "Alunni con Disturbo specifico di apprendimento (Linee guida DSA)",
+  "rif": "D.M. 12 luglio 2011, n. 5669",
+  "sigla": "D.M. 5669/2011",
+  "file": "",
+  "codice": "",
+  "dataGU": "2011-07-12",
+  "descrizione": "DECRETO MINISTERIALE 12 luglio 2011, n. 5669 (testo da trascrizione Wikisource; non su Normattiva)",
+  "manuale": true
  }
 ]

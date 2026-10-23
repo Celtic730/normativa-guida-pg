@@ -7,7 +7,7 @@ import requests
 sys.stdout.reconfigure(encoding="utf-8")
 API = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/ricerca/avanzata"
 DEN = {"R.D.": "REGIO DECRETO", "D.P.R.": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA", "D.Lgs.": "DECRETO LEGISLATIVO",
-       "Legge": "LEGGE", "D.L.": "DECRETO-LEGGE", "D.M.": "DECRETO"}
+       "Legge": "LEGGE", "D.L.": "DECRETO-LEGGE", "D.M.": "DECRETO", "R.D.L.": "REGIO DECRETO-LEGGE"}
 QUI = os.path.dirname(os.path.abspath(__file__))
 P = os.path.join(QUI, "atti.json")
 atti = json.load(open(P, encoding="utf-8"))

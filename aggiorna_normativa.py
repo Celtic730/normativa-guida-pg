@@ -148,6 +148,11 @@ def main():
     def elabora(atto):
         """Scarica un atto (sessione propria per thread); l'intervallo tra richieste e' comune a tutti i worker."""
         fn = os.path.join(OUT, atto["id"] + ".json")
+        if atto.get("manuale") and os.path.exists(fn):  # atto non su Normattiva: file curato a mano
+            data = json.load(open(fn, encoding="utf-8"))
+            return {"id": data["id"], "titolo": data["titolo"], "rif": data["rif"], "sigla": data["sigla"],
+                    "aggiornato": data["aggiornato"], "hash": data["hash"], "articoli": len(data["articoli"]),
+                    "file": data["id"] + ".json", "kb": os.path.getsize(fn) // 1024}
         try:
             if not hasattr(loc, "s"):
                 attendi()
