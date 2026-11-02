@@ -1,6 +1,9 @@
-"""Controlla su Normattiva gli atti di atti.json e aggiorna solo quelli cambiati.
-Per ogni atto: legge la data «ultimo aggiornamento all'atto» dalla pagina; se e' cambiata (o manca il file) scarica il
-testo vigente in Akoma Ntoso, lo divide in articoli e scrive dati/<id>.json. Alla fine scrive dati/manifest.json.
+"""Controlla su Normattiva (atti italiani) e su EUR-Lex (regolamenti/direttive UE) gli atti di atti.json e aggiorna solo quelli cambiati.
+Per ogni atto italiano: legge la data «ultimo aggiornamento all'atto» dalla pagina; se e' cambiata (o manca il file) scarica il
+testo vigente in Akoma Ntoso, lo divide in articoli e scrive dati/<id>.json. Per un atto UE (atti.json: "fonte":"eurlex",
+"codice" = numero CELEX, es. "32016R0679" per il GDPR): scarica la pagina EUR-Lex in italiano e divide il testo in articoli
+cercando le righe "Articolo N"; riscrive il file solo se il contenuto e' cambiato (confronto per hash, non c'e' una data
+comoda come su Normattiva). Alla fine scrive dati/manifest.json.
 Uso: python aggiorna_normativa.py [--force] [--solo ID,ID] [--workers N]
 (--workers: N atti in parallelo, ma sempre al massimo 1 richiesta al secondo in totale; predefinito 1)"""
 import datetime
@@ -15,6 +18,7 @@ import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
+from bs4 import BeautifulSoup
 
 sys.stdout.reconfigure(encoding="utf-8")
 QUI = os.path.dirname(os.path.abspath(__file__))
@@ -132,6 +136,34 @@ def akn(s, atto, referer):
     return ET.fromstring(r.content)
 
 
+def eurlex_pagina(s, celex):
+    """Pagina HTML in italiano di un atto UE (regolamento, direttiva...) dato il numero CELEX (es. 32016R0679)."""
+    r = s.get(f"https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:{celex}", timeout=120)
+    r.raise_for_status()
+    return r.text
+
+
+FINE_ARTICOLATO = re.compile(r"(?m)^Fatto a |^Il presente (?:regolamento|atto) è obbligatorio|^La presente direttiva è obbligatoria")
+
+
+def eurlex_articoli(html):
+    """Divide in articoli il testo di una pagina EUR-Lex (cerca le righe «Articolo N», come in Normattiva)."""
+    testo = BeautifulSoup(html, "html.parser").get_text("\n")
+    testo = re.sub(r"[ \t]+", " ", testo).replace("\xa0", " ")
+    testo = re.sub(r"\n{3,}", "\n\n", testo)
+    hit = [(m.start(), m.end(), m.group(1)) for m in re.finditer(r"(?m)^Articolo\s+([0-9]+[a-z]?)\s*$", testo)]
+    if not hit:
+        raise RuntimeError("nessun 'Articolo N' trovato nella pagina EUR-Lex")
+    fm = FINE_ARTICOLATO.search(testo, hit[-1][1])
+    fine = fm.start() if fm else len(testo)
+    out = []
+    for i, (_, hstart, n) in enumerate(hit):
+        fine_art = hit[i + 1][0] if i + 1 < len(hit) else fine
+        righe = [r for r in testo[hstart:fine_art].strip("\n ").split("\n") if r.strip()]
+        out.append({"id": f"art{n}", "n": n, "r": righe[0].strip() if righe else "", "t": "\n".join(righe[1:]).strip()})
+    return out
+
+
 def main():
     force = "--force" in sys.argv
     solo = None
@@ -158,9 +190,28 @@ def main():
                 attendi()
                 loc.s = sessione()
             s = loc.s
+            old = stato.get(atto["id"], {})
+            if atto.get("fonte") == "eurlex":  # atto UE: EUR-Lex non ha una data comoda come Normattiva, si confronta l'hash
+                attendi()
+                arts = eurlex_articoli(eurlex_pagina(s, atto["codice"]))
+                h = hashlib.sha256(json.dumps(arts, ensure_ascii=False).encode()).hexdigest()[:16]
+                agg = old.get("aggiornato") if old.get("hash") == h else datetime.date.today().isoformat()
+                if not force and os.path.exists(fn) and old.get("hash") == h:
+                    print(f"=  {atto['rif']}: invariato (EUR-Lex)")
+                    data = json.load(open(fn, encoding="utf-8"))
+                else:
+                    data = {"id": atto["id"], "titolo": atto["titolo"], "rif": atto["rif"], "sigla": atto["sigla"],
+                            "aggiornato": agg, "hash": h, "articoli": arts}
+                    json.dump(data, open(fn, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+                    with lock:
+                        stato[atto["id"]] = {"aggiornato": agg, "hash": h}
+                        aggiornati.append(atto["rif"])
+                    print(f"+  {atto['rif']}: {len(arts)} articoli (EUR-Lex), aggiornato al {agg}")
+                return {"id": data["id"], "titolo": data["titolo"], "rif": data["rif"], "sigla": data["sigla"],
+                        "aggiornato": data["aggiornato"], "hash": data["hash"], "articoli": len(data["articoli"]),
+                        "file": data["id"] + ".json", "kb": os.path.getsize(fn) // 1024}
             attendi()
             agg, url = pagina(s, atto)
-            old = stato.get(atto["id"], {})
             if not force and os.path.exists(fn) and agg and old.get("aggiornato") == agg:
                 print(f"=  {atto['rif']}: invariato ({agg})")
                 data = json.load(open(fn, encoding="utf-8"))

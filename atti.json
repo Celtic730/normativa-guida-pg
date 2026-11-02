@@ -5319,5 +5319,47 @@
   "codice": "042U0318",
   "dataGU": "1942-04-17",
   "descrizione": "REGIO DECRETO 30 marzo 1942, n. 318"
+ },
+ {
+  "id": "1993-385-dlgs",
+  "titolo": "Testo Unico Bancario",
+  "rif": "Decreto Legislativo 1 Settembre 1993, N. 385",
+  "sigla": "",
+  "file": "",
+  "codice": "093G0428",
+  "dataGU": "1993-09-30",
+  "descrizione": "DECRETO LEGISLATIVO 1 settembre 1993, n. 385"
+ },
+ {
+  "id": "2016-679-regolamento-ue",
+  "titolo": "GDPR - Regolamento generale protezione dati",
+  "rif": "Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016",
+  "sigla": "GDPR",
+  "file": "",
+  "codice": "32016R0679",
+  "dataGU": "2016-05-04",
+  "descrizione": "Regolamento (UE) 2016/679 (GDPR), fonte EUR-Lex (CELEX 32016R0679): atto UE, non su Normattiva — testo salvato a mano (EUR-Lex blocca le richieste automatiche con una sfida anti-bot)",
+  "fonte": "eurlex",
+  "manuale": true
+ },
+ {
+  "id": "1931-1572-rd",
+  "titolo": "catasto terreni",
+  "rif": "Regio Decreto 8 Ottobre 1931, N. 1572",
+  "sigla": "",
+  "file": "",
+  "codice": "031U1572",
+  "dataGU": "1932-01-07",
+  "descrizione": "REGIO DECRETO 8 ottobre 1931, n. 1572"
+ },
+ {
+  "id": "1949-1142-dpr",
+  "titolo": "catasto edilizio urbano",
+  "rif": "Decreto del Presidente della Repubblica 1 Dicembre 1949, N. 1142",
+  "sigla": "",
+  "file": "",
+  "codice": "049U1142",
+  "dataGU": "1950-03-04",
+  "descrizione": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 1 dicembre 1949, n. 1142"
  }
 ]
